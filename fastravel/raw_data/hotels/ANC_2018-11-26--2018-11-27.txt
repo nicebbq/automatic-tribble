@@ -1,0 +1,499 @@
+{
+  "results" : [ {
+    "property_code" : "RLANC441",
+    "property_name" : "Guesthouse Inn N Suites Anc",
+    "location" : {
+      "latitude" : 61.21772,
+      "longitude" : -149.87887
+    },
+    "address" : {
+      "line1" : "321 East 5th Avenue",
+      "city" : "Anchorage",
+      "region" : "AK",
+      "postal_code" : "99501",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "79.20",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "79.20",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-907-2767226"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-907-2655145"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "FDNBR1",
+      "room_type_code" : "FDN",
+      "rate_plan_code" : "BR1",
+      "total_amount" : {
+        "amount" : "79.20",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 79.2
+      } ],
+      "descriptions" : [ "Seize the Stay", "Exterior Entrance Two Doubles. Wi-Fi, Fridge,", "Microwave" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate"
+      },
+      "rate_type_code" : "BR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RLANC441?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WXANCINT",
+    "property_name" : "Coast International Inn",
+    "location" : {
+      "latitude" : 61.17504,
+      "longitude" : -149.94791
+    },
+    "address" : {
+      "line1" : "3450 Aviation Ave",
+      "city" : "Anchorage",
+      "region" : "AK",
+      "postal_code" : "99502",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "89.71",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "80.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-907-243-2233"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-907-248-3796"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "First Class"
+    }, {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B1QSRS",
+      "room_type_code" : "B1Q",
+      "rate_plan_code" : "SRS",
+      "total_amount" : {
+        "amount" : "89.71",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 80.1
+      } ],
+      "descriptions" : [ "Senior\\AARP Rate", "Standard Room 1 Queen Bed", "Guest must be over the age of 55 years old " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SRS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WXANCINT?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MTANC101",
+    "property_name" : "Microtel Inn & Suites By Wyndh",
+    "marketing_text" : "Rediscover the GREAT OUTDOORS. Visit Anchorage, AK. And see what nature has to offer us.",
+    "location" : {
+      "latitude" : 61.17339,
+      "longitude" : -149.92607
+    },
+    "address" : {
+      "line1" : "5205 Northwood Drive",
+      "city" : "Anchorage",
+      "region" : "AK",
+      "postal_code" : "99517",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "89.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-907-2455002"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-907-2455030"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "SNQ1S3A",
+      "room_type_code" : "SNQ",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "89.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 89.99
+      } ],
+      "descriptions" : [ "AAA RATE ", "1 QUEEN BED NON-SMOKING SUITE WITH", "FREE CONTINENTAL BREAKFAST, FREE" ],
+      "room_type_info" : {
+        "room_type" : "Suite",
+        "bed_type" : "Queen"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MTANC101?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MUANC100",
+    "property_name" : "The Lakefront Anchorage",
+    "location" : {
+      "latitude" : 61.17758,
+      "longitude" : -149.94204
+    },
+    "address" : {
+      "line1" : "4800 Spenard Road",
+      "city" : "Anchorage",
+      "region" : "AK",
+      "postal_code" : "99517 3236",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "113.28",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "101.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "01-907-2432300"
+    }, {
+      "type" : "FAX",
+      "detail" : "01-907-2438815"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "OHG",
+      "rating" : "Deluxe"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "F1KUD4",
+      "room_type_code" : "F1K",
+      "rate_plan_code" : "UD4",
+      "total_amount" : {
+        "amount" : "113.28",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 101.15
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - 14 DAY LEAD TIME - RO - EX", "TAX - COMMISSIONABLE - NON REFUNDABLE.", "DLX KING HEARING ACC-FREE INTERNET-SAFE- IN" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "UD4"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MUANC100?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CYANCCYC",
+    "property_name" : "Courtyard Anchorage Marriott",
+    "location" : {
+      "latitude" : 61.17576,
+      "longitude" : -149.9431
+    },
+    "address" : {
+      "line1" : "4901 Speanard Road",
+      "city" : "Anchorage",
+      "region" : "AK",
+      "postal_code" : "99517-3295",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "123.20",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "110.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-907-2450322"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-907-2481886"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "123.20",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 110.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Double, Mini fridge, Microwave, 250sqft/23sqm", ", Wireless internet, complimentary, Wired inter" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CYANCCYC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

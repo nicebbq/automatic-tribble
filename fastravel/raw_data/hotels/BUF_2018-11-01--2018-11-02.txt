@@ -1,0 +1,882 @@
+{
+  "results" : [ {
+    "property_code" : "MXBUFB87",
+    "property_name" : "Motel 6 Buffalo - Amherst",
+    "location" : {
+      "latitude" : 42.99143,
+      "longitude" : -78.80168
+    },
+    "address" : {
+      "line1" : "4400 Maple Road",
+      "city" : "Amherst",
+      "region" : "NY",
+      "postal_code" : "14226",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "56.86",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "49.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-716-834-2231"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-716-834-0872"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "U2DRACK",
+      "room_type_code" : "U2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "56.86",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-01",
+        "end_date" : "2018-11-02",
+        "currency_code" : "USD",
+        "price" : 49.99
+      } ],
+      "descriptions" : [ "RACK", "2 QUEEN BEDS / ACCESSIBLE" ],
+      "room_type_info" : {
+        "room_type" : "Suite",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXBUFB87?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-01&check_out=2018-11-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZBUF774",
+    "property_name" : "Super 8 Kenmor Buffal",
+    "location" : {
+      "latitude" : 42.98094,
+      "longitude" : -78.8867
+    },
+    "address" : {
+      "line1" : "1288 Sheridan Drive",
+      "city" : "Kenmore",
+      "region" : "NY",
+      "postal_code" : "14217",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "58.30",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "51.26",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-716-8764020"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-716-8764729"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "1"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "NDD1S3A",
+      "room_type_code" : "NDD",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "58.30",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-01",
+        "end_date" : "2018-11-02",
+        "currency_code" : "USD",
+        "price" : 51.26
+      } ],
+      "descriptions" : [ "AAA RATE ", "2 DOUBLE BEDS NON-SMOKING ROOM WITH", "FREE  BREAKFAST, FREE" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Double"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZBUF774?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-01&check_out=2018-11-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "TOBUFTST",
+    "property_name" : "Towneplace Stes Marriott-cheektowaga",
+    "location" : {
+      "latitude" : 42.93039,
+      "longitude" : -78.72834
+    },
+    "address" : {
+      "line1" : "4265 Genesee Street",
+      "city" : "Cheektowaga",
+      "region" : "NY",
+      "postal_code" : "14225",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "130.90",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "130.90",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-716-8391880"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-716-8391883"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "APFD00",
+      "room_type_code" : "APF",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "130.90",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-01",
+        "end_date" : "2018-11-02",
+        "currency_code" : "USD",
+        "price" : 130.9
+      } ],
+      "descriptions" : [ "Advance Purchase 14 Day-Save 20 Percent, see Ra", "1 King, Sofa bed, Fully equipped kitchen, Micro", "wave, 308sqft/28sqm, Living/sitting area, Dinin" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/TOBUFTST?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-01&check_out=2018-11-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HXBUFFT0",
+    "property_name" : "Hampton Inn Buffalo Airport",
+    "location" : {
+      "latitude" : 42.90755,
+      "longitude" : -78.77243
+    },
+    "address" : {
+      "line1" : "1745 Walden Ave",
+      "city" : "Buffalo",
+      "region" : "NY",
+      "postal_code" : "14225",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "135.36",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "119.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 716 894-8000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 716 894-3554"
+    } ],
+    "amenities" : [ {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0GLV4",
+      "room_type_code" : "A2Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "135.36",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-01",
+        "end_date" : "2018-11-02",
+        "currency_code" : "USD",
+        "price" : 119.0
+      } ],
+      "descriptions" : [ "BEST AVAILABLE RATE", "2 QUEENS W/FRIDGE NONSMOKING", "HDTV/FREE WI-FI/HOT BREAKFAST INCLUDED" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HXBUFFT0?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-01&check_out=2018-11-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWBUF035",
+    "property_name" : "Best Western  On The Avenue",
+    "marketing_text" : "The best western inn on the avenue is located in the heart of buffalo s theater and restaurant district. We are two miles from buffalo bison baseball and buffalo sabres hockey.",
+    "location" : {
+      "latitude" : 42.89835,
+      "longitude" : -78.87461
+    },
+    "address" : {
+      "line1" : "510 Delaware Avenue",
+      "city" : "Buffalo",
+      "region" : "NY",
+      "postal_code" : "14202",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "136.14",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "119.68",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-716-8868333"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-716-8843070"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "2"
+    }, {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2QDB6D",
+      "room_type_code" : "C2Q",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "136.14",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-01",
+        "end_date" : "2018-11-02",
+        "currency_code" : "USD",
+        "price" : 119.68
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "2 QUEEN BEDS,MOBILITY ACCESSIBLE,", "ROLL IN SHOWER,NSMK,CONTINENTAL BREAKFAST" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWBUF035?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-01&check_out=2018-11-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "XVBUFSHS",
+    "property_name" : "Springhill Stes Buffalo Marriott",
+    "location" : {
+      "latitude" : 42.95134,
+      "longitude" : -78.69687
+    },
+    "address" : {
+      "line1" : "6647 Transit Road",
+      "city" : "Lancaster",
+      "region" : "NY",
+      "postal_code" : "14221",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "149.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "149.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-716-6504625"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-716-6504945"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "APNL00",
+      "room_type_code" : "APN",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "149.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-01",
+        "end_date" : "2018-11-02",
+        "currency_code" : "USD",
+        "price" : 149.0
+      } ],
+      "descriptions" : [ "Advance Purchase rate, prepay in full, non-refu", "es", "2 Queen, Sofa bed, Mini fridge, Microwave, 356s" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/XVBUFSHS?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-01&check_out=2018-11-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MCBUFNYM",
+    "property_name" : "Buffalo Marriott Niagara",
+    "marketing_text" : "The buffalo niagara marriott is situated in a preferred location, providing quick and easy access to downtown and suburban corporate headquarters, as well as a short drive to niagara falls and canada.",
+    "location" : {
+      "latitude" : 42.98831,
+      "longitude" : -78.79239
+    },
+    "address" : {
+      "line1" : "1340 Millersport Highway",
+      "city" : "Amherst",
+      "region" : "NY",
+      "postal_code" : "14221",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "153.56",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "135.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-716-6896900"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-716-6890483"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "153.56",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-01",
+        "end_date" : "2018-11-02",
+        "currency_code" : "USD",
+        "price" : 135.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, see Rate Rules", "Deluxe room featuring Marriott's \" Revive\" bedd", "ing package, 1 King, Mini fridge, 302sqft/27sqm" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MCBUFNYM?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-01&check_out=2018-11-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQBUF459",
+    "property_name" : "La Quinta Inn Buffalo Airport",
+    "marketing_text" : "Located less than two miles from Buffalo/Niagara International Airport, the La Quinta Inn Buffalo Airport features popular amenities such as free wireless high-speed Internet access, complimentary continental breakfast, and onsite fitness center.",
+    "location" : {
+      "latitude" : 42.9481,
+      "longitude" : -78.69609
+    },
+    "address" : {
+      "line1" : "6619 Transit Road",
+      "city" : "Williamsville Buffalo Air",
+      "region" : "NY",
+      "postal_code" : "14221",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "158.11",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "139.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-716-633-1011"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-716-633-2579"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq6221gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://6221.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    }, {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A02A9X",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "158.11",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-01",
+        "end_date" : "2018-11-02",
+        "currency_code" : "USD",
+        "price" : 139.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "King Bed/Mobility Access/Fridge/Nonsmoking", "Ultra Fast Free WIFI/Free Breakfast/HDTV" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQBUF459?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-01&check_out=2018-11-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HGBUFGQ3",
+    "property_name" : "Homewood Suites Buffalo Arpt",
+    "location" : {
+      "latitude" : 42.9238,
+      "longitude" : -78.74173
+    },
+    "address" : {
+      "line1" : "760 Dick Rd",
+      "city" : "Buffalo",
+      "region" : "NY",
+      "postal_code" : "14225",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "169.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "149.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 716 685-0700"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 716 685-2034"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0LLV6",
+      "room_type_code" : "A2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "169.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-01",
+        "end_date" : "2018-11-02",
+        "currency_code" : "USD",
+        "price" : 149.0
+      } ],
+      "descriptions" : [ "BEST AVAILABLE RATE", "2DOUBLE MOBILITY ACCESSIBLE BATHTUB STE NSMK", "SEPARATE BDRM/LIVING RM-SOFABED-FULL KITCHEN" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HGBUFGQ3?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-01&check_out=2018-11-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

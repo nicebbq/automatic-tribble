@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+{% block body %}
+  <form action="budgetOut.html" method="POST">
+    <input type="text" placeholder="Origin City" name="origin_city"><br>
+    <input type="text" placeholder="Budget" name="budget"><br>
+    <input type="text" placeholder="Start Date" name="startDate"><br>
+    <input type="text" placeholder="End Date" name = "endDate"><br>
+    <input type="submit" value = "Search Trips">
+  </form>
+{% endblock %}

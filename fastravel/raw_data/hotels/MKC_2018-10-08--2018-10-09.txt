@@ -1,0 +1,706 @@
+{
+  "results" : [ {
+    "property_code" : "DIMKC999",
+    "property_name" : "Days Inn - Near Ks Speedway",
+    "location" : {
+      "latitude" : 39.10716,
+      "longitude" : -94.7593
+    },
+    "address" : {
+      "line1" : "7721 Elizabeth Ave",
+      "city" : "Kansas City",
+      "region" : "KS",
+      "postal_code" : "66112",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "79.05",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "67.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-913-6243459"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-913-3345983"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QAR1",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "79.05",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-08",
+        "end_date" : "2018-10-09",
+        "currency_code" : "USD",
+        "price" : 67.49
+      } ],
+      "descriptions" : [ "AARP RATE ", "1 QueenBed NSMK with free continental breakfast, free WiFi, ", "coffee maker and hair dryer " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DIMKC999?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-08&check_out=2018-10-09&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WVMCI826",
+    "property_name" : "Argosy Casino Hotel And Spa",
+    "marketing_text" : "With a hotel offering the most luxurious amenities in the city, Argosy Casino Hotel & Spa truly is the best place to spend the night.",
+    "location" : {
+      "latitude" : 39.16147,
+      "longitude" : -94.62042
+    },
+    "address" : {
+      "line1" : "777 N.w. Argosy Parkway",
+      "city" : "Kansas City",
+      "region" : "MO",
+      "postal_code" : "64150",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "144.13",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "121.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-816-7463100"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-816-7463716"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "michelle.murdock@pngaming.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.argosykansascity.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 92,
+      "description" : "Translation services"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "CASINO",
+      "ota_code" : 16,
+      "description" : "Casino"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "4"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2QGOV",
+      "room_type_code" : "C2Q",
+      "rate_plan_code" : "GOV",
+      "total_amount" : {
+        "amount" : "144.13",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-08",
+        "end_date" : "2018-10-09",
+        "currency_code" : "USD",
+        "price" : 121.0
+      } ],
+      "descriptions" : [ "GOVERNMENT RATE", "Accessible Room 2 Queen Beds WIFI access", "Valid Government ID required at check in if ID" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "GOV"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WVMCI826?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-08&check_out=2018-10-09&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HIMKC6DE",
+    "property_name" : "Holiday Inn Exp Stes North Kc",
+    "marketing_text" : "The hotel's strategic location in the Kansas City, MO area drastically reduces travel time for guests, and the lower sales tax rate enables guests to use that extra money elsewhere in their budget.",
+    "location" : {
+      "latitude" : 39.14284,
+      "longitude" : -94.5662
+    },
+    "address" : {
+      "line1" : "1995 Macon Street",
+      "city" : "North Kansas City",
+      "region" : "MO",
+      "postal_code" : "64116",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "176.46",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "156.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-816-2181100"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-816-2181110"
+    }, {
+      "type" : "URL",
+      "detail" : "www.hiexpress.com/nkansascity"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "2DN482G",
+      "room_type_code" : "*2D",
+      "rate_plan_code" : "482",
+      "total_amount" : {
+        "amount" : "176.46",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-08",
+        "end_date" : "2018-10-09",
+        "currency_code" : "USD",
+        "price" : 156.0
+      } ],
+      "descriptions" : [ "BOOK EARLY N SAVE NO REFUNDS ", "2 DOUBLE BEDS NONSMOKING WITH OUR SIGNATURE ", "BEDDING PACKAGE CONTEMPORARY AMENITIES LIKE " ],
+      "room_type_info" : {
+        "room_type" : "Unspecified",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "482"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HIMKC6DE?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-08&check_out=2018-10-09&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "ARMCIACC",
+    "property_name" : "Ac By Marriott Kansas City",
+    "location" : {
+      "latitude" : 39.0522,
+      "longitude" : -94.59327
+    },
+    "address" : {
+      "line1" : "560 Westport Road",
+      "city" : "Kansas City",
+      "region" : "MO",
+      "postal_code" : "64111",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "188.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "188.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-816-9310001"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-816-9318891"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "APNL00",
+      "room_type_code" : "APN",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "188.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-08",
+        "end_date" : "2018-10-09",
+        "currency_code" : "USD",
+        "price" : 188.0
+      } ],
+      "descriptions" : [ "Advance Purchase rate, prepay in full, non-refu", "es", "2 Double, Wireless internet, complimentary, Cof" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/ARMCIACC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-08&check_out=2018-10-09&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "ESMKCEA5",
+    "property_name" : "Embassy Stes Kansas Cty Country",
+    "location" : {
+      "latitude" : 39.04966,
+      "longitude" : -94.58943
+    },
+    "address" : {
+      "line1" : "220 West 43rd Street",
+      "city" : "Kansas City",
+      "region" : "MO",
+      "postal_code" : "64111",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "290.83",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "249.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 816 756-1720"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 816 756-3260"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0MLV0",
+      "room_type_code" : "A2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "290.83",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-08",
+        "end_date" : "2018-10-09",
+        "currency_code" : "USD",
+        "price" : 249.0
+      } ],
+      "descriptions" : [ "BEST AVAILABLE RATE", "2 DBL 1BDRM STE MOBILITY ACCESS TUB NO SMOK", "WIFI AVL-SLEEPER SOFA-MICROWAVE-REFRIGERATOR" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/ESMKCEA5?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-08&check_out=2018-10-09&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXMCI941",
+    "property_name" : "The Fontaine",
+    "location" : {
+      "latitude" : 39.0407,
+      "longitude" : -94.59805
+    },
+    "address" : {
+      "line1" : "901 W 48th Place",
+      "city" : "Kansas City",
+      "region" : "MO",
+      "postal_code" : "64112",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "317.05",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "269.25",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-816-7538800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-816-7538891"
+    }, {
+      "type" : "URL",
+      "detail" : "INFO THEFONTAINEHOTEL.COM"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2HAP2",
+      "room_type_code" : "C2H",
+      "rate_plan_code" : "AP2",
+      "total_amount" : {
+        "amount" : "317.05",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-08",
+        "end_date" : "2018-10-09",
+        "currency_code" : "USD",
+        "price" : 269.25
+      } ],
+      "descriptions" : [ "ADVANCED PURCHASE ", "STANDARD TWO DOUBLE BEDS HEARING IMPAIRED 400 SQF -FURNISHED ", "WITH ELEGANCE DECORATED IN SOOTHING TONES OF BLUE -WHITE AND " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "AP2"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXMCI941?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-08&check_out=2018-10-09&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

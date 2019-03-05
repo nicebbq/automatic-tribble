@@ -1,0 +1,1968 @@
+{
+  "results" : [ {
+    "property_code" : "MXMSYC72",
+    "property_name" : "Motel 6 New Orleans La",
+    "location" : {
+      "latitude" : 30.04928,
+      "longitude" : -89.95435
+    },
+    "address" : {
+      "line1" : "12330 I-10 Service Road",
+      "city" : "New Orleans",
+      "region" : "LA",
+      "postal_code" : "70128",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "53.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "53.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-240-2862"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-240-0918"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "UBRRACK",
+      "room_type_code" : "UBR",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "53.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 53.99
+      } ],
+      "descriptions" : [ "RACK", "1 FULL BED / ADA ACCESSIBLE" ],
+      "room_type_info" : {
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXMSYC72?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXMSYG30",
+    "property_name" : "Motel 6 New Orleans",
+    "location" : {
+      "latitude" : 30.00242,
+      "longitude" : -90.03891
+    },
+    "address" : {
+      "line1" : "4200 Old Gentilly Road",
+      "city" : "New Orleans",
+      "region" : "LA",
+      "postal_code" : "70126",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "58.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "58.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-324-9391"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-304-9564"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N2QRACK",
+      "room_type_code" : "N2Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "58.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 58.99
+      } ],
+      "descriptions" : [ "RACK", "2 QUEEN BEDS / NON-SMOKING" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXMSYG30?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DIMSYNOR",
+    "property_name" : "Days Inn New Orleans",
+    "location" : {
+      "latitude" : 30.03714,
+      "longitude" : -89.97409
+    },
+    "address" : {
+      "line1" : "10020 I-10 Service Road",
+      "city" : "New Orleans",
+      "region" : "LA",
+      "postal_code" : "70127",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "59.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "59.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-3736900"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-3736910"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KSP1",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "59.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 59.49
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 King Bed NSMK with free continental breakfast, free WiFi, desk", "and coffee maker " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DIMSYNOR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXMSY823",
+    "property_name" : "Studio 6 New Orlean",
+    "location" : {
+      "latitude" : 30.04851,
+      "longitude" : -89.9536
+    },
+    "address" : {
+      "line1" : "12330 I-10 Service Road",
+      "city" : "New Orleans",
+      "region" : "LA",
+      "postal_code" : "70128",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "59.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "59.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-240-9778"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-529-6900"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1QRACK",
+      "room_type_code" : "N1Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "59.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 59.99
+      } ],
+      "descriptions" : [ "RACK", "1 QUEEN BED / MODERN, NON-SMOKING" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXMSY823?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZMSY450",
+    "property_name" : "Super 8 New Orleans",
+    "location" : {
+      "latitude" : 30.01019,
+      "longitude" : -90.01452
+    },
+    "address" : {
+      "line1" : "6322 Chef Menteur Highway",
+      "city" : "New Orleans",
+      "region" : "LA",
+      "postal_code" : "70126",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "60.35",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "60.35",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-5078238"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-2412178"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1DSP1",
+      "room_type_code" : "C1D",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "60.35",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 60.35
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "2 Double Beds NSMK with free WiFi, free continental breakfast, ", "mini-fridge, microwave, AC, " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Double",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZMSY450?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAMSY221",
+    "property_name" : "Extended Stay America Metairie",
+    "marketing_text" : "Savvy business and leisure travelers find Extended Stay America, 7 miles from New Orleans, ideal for a day, week, or month. Our 102 suites boast full kitchens, free WiFi, flat screen TVs, free grab and go breakfast, and onsite laundry.",
+    "location" : {
+      "latitude" : 29.99558,
+      "longitude" : -90.15811
+    },
+    "address" : {
+      "line1" : "3300 I-10 Service Road South",
+      "city" : "Metairie",
+      "region" : "LA",
+      "postal_code" : "70001",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "62.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "62.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 504 837-5599"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 504 837-5009"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "nom@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/NOM"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A06B00",
+      "room_type_code" : "A06",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "62.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 62.99
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN BED NONSMKNG", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAMSY221?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQMSY508",
+    "property_name" : "La Quinta Inn New Orleans Causeway",
+    "marketing_text" : "As soon as you arrive at the La Quinta Inn-New Orleans Causeway, you will notice a difference.  Located minutes from Lake Pontchartrain in Metairie, this La Quinta Inn provides convenient access to the Louisiana Superdome and the French Quarter.",
+    "location" : {
+      "latitude" : 29.99472,
+      "longitude" : -90.15482
+    },
+    "address" : {
+      "line1" : "3100 I 10 Service Road",
+      "city" : "Metairie",
+      "region" : "LA",
+      "postal_code" : "70001 2091",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "72.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "72.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 504 835-8511"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 504 837-3383"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq0508gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://508.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A05A60",
+      "room_type_code" : "C2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "72.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 72.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "Two Double Pillowtop Beds", "Ultra Fast Free WIFI/Free Breakfast/HDTV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQMSY508?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQMSY579",
+    "property_name" : "La Quinta Inn West Bank Gretna",
+    "marketing_text" : "The La Quinta Inn New Orleans-West Bank is across the Mississippi River from Downtown New Orleans, the business district and Convention Center, and the historic French Quarter. Visit the Riverwalk, Aquarium of the Americas, IMAX, and Jackson Square.",
+    "location" : {
+      "latitude" : 29.92443,
+      "longitude" : -90.03938
+    },
+    "address" : {
+      "line1" : "50 Terry Parkway",
+      "city" : "Grenta",
+      "region" : "LA",
+      "postal_code" : "70056 2564",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "75.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "75.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 504 368-5600"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 504 362-7430"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq0579gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://579.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A06A97",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "75.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 75.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "King Bed/Mobility Accessible", "32 inch HDTV/Free WIFI/Free Breakfast" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQMSY579?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BUMSY185",
+    "property_name" : "Baymont Marrero",
+    "location" : {
+      "latitude" : 29.89307,
+      "longitude" : -90.11873
+    },
+    "address" : {
+      "line1" : "6589 Westbank Expressway",
+      "city" : "Marrero",
+      "region" : "LA",
+      "postal_code" : "70072",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "80.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "80.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-3095700"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-3095707"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1KSNR",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "80.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 80.99
+      } ],
+      "descriptions" : [ "SENIOR DISCOUNT ", "1 King Bed NSMK with free continental breakfast, free WiFi, ", "HDTV, refrigerator and desk " ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BUMSY185?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQMSY580",
+    "property_name" : "La Quinta Inn Veterans Metairie",
+    "marketing_text" : "The La Quinta Inn-New Orleans Veterans is just east of New Orleans International Airport, and only minutes from the south shore of Lake Pontchartrain. Our convenient highway access makes it easy to reach attractions in Downtown New Orleans.",
+    "location" : {
+      "latitude" : 30.00512,
+      "longitude" : -90.20566
+    },
+    "address" : {
+      "line1" : "5900 Veterans Memorial Blvd",
+      "city" : "Metairie",
+      "region" : "LA",
+      "postal_code" : "70003 1738",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "85.31",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "75.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-456-0003"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-885-0863"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A05A63",
+      "room_type_code" : "C2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "85.31",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 75.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "Two Double Pillowtop Beds", "Ultra Fast Free WIFI/Free Breakfast/HDTV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQMSY580?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "XVMSYSIS",
+    "property_name" : "Springhill Stes Canal Marriott",
+    "location" : {
+      "latitude" : 29.95834,
+      "longitude" : -90.07721
+    },
+    "address" : {
+      "line1" : "1600 Canal Street",
+      "city" : "New Orleans",
+      "region" : "LA",
+      "postal_code" : "70112",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "88.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "88.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-7026800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-7026798"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIC00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "88.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 88.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 King, Sofa bed, Mini fridge, Microwave, 360sq", "ft/32sqm-400sqft/36sqm, Wireless internet, comp" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/XVMSYSIS?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SCMSY303",
+    "property_name" : "Intown Suites Metairie",
+    "location" : {
+      "latitude" : 29.99683,
+      "longitude" : -90.18001
+    },
+    "address" : {
+      "line1" : "4409 Hearst Street",
+      "city" : "Metairie",
+      "region" : "LA",
+      "postal_code" : "70001",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "88.18",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "75.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-6482020"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-4667005"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "FQNGOV",
+      "room_type_code" : "FQN",
+      "rate_plan_code" : "GOV",
+      "total_amount" : {
+        "amount" : "88.18",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 75.99
+      } ],
+      "descriptions" : [ "Government Rate - ID required to qualify", "Fully Furnished with Complete Kitchen -", "Utilities Included - Weekly Housekeeping -" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate"
+      },
+      "rate_type_code" : "GOV"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SCMSY303?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWMSY120",
+    "property_name" : "Blake Hotel New Orleans",
+    "location" : {
+      "latitude" : 29.94922,
+      "longitude" : -90.0706
+    },
+    "address" : {
+      "line1" : "500 Saint Charles Avenue",
+      "city" : "New Orleans",
+      "region" : "LA",
+      "postal_code" : "70130",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "88.56",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "75.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-5229000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-5229060"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "W1KGOVA",
+      "room_type_code" : "W1K",
+      "rate_plan_code" : "GOV",
+      "total_amount" : {
+        "amount" : "88.56",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 75.65
+      } ],
+      "descriptions" : [ "GOVT/MILITARY RATE* GOVERNMENT/MILTARY", "ACCESSIBLE - 1 KING,MOBACC,BATHTB,SOFBD,VIEW,", "NSMK" ],
+      "room_type_info" : {
+        "room_type" : "Room at weekend rate",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "GOV"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWMSY120?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXMSYPEL",
+    "property_name" : "The Pelham Hotel",
+    "location" : {
+      "latitude" : 29.95108,
+      "longitude" : -90.06735
+    },
+    "address" : {
+      "line1" : "444 Common Street",
+      "city" : "New Orleans",
+      "region" : "LA",
+      "postal_code" : "70130",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "89.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-5224444"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-5399010"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.thepelhamhotel.com/"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QRAC",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "89.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 89.0
+      } ],
+      "descriptions" : [ "STANDARD RATE ", "Old N.O. charm with high ceilings and 1 queen Old N.O. charm ", "with high ceilings and 1 queen bed. Newly renovated-sitting area" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXMSYPEL?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HIMSY007",
+    "property_name" : "Holiday Inn Exp Downtown",
+    "location" : {
+      "latitude" : 29.95204,
+      "longitude" : -90.07371
+    },
+    "address" : {
+      "line1" : "334 O Keefe Ave",
+      "city" : "New Orleans",
+      "region" : "LA",
+      "postal_code" : "70112",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "89.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-5245400"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-5245450"
+    }, {
+      "type" : "URL",
+      "detail" : "www.hiexpress.com/neworleansdtwn"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "TWLC0AB",
+      "room_type_code" : "*2B",
+      "rate_plan_code" : "C0A",
+      "total_amount" : {
+        "amount" : "89.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 89.0
+      } ],
+      "descriptions" : [ "SUMMER SALE", "2 BED HEARING ACCESSIBLE NONSMOKING HEARING", "IMPAIRED ACCESSIBLE. RELAX WITH TRIPLE SHEETED" ],
+      "room_type_info" : {
+        "room_type" : "Unspecified",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "C0A"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HIMSY007?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWMSY094",
+    "property_name" : "Best Western Bayou Inn",
+    "marketing_text" : "Service the best western bayou inn offers comfortable and inviting accommodations in westwego. Enjoy our complimentary continental breakfast every morning. Relax in our pool and hot tub or work out in our exercise facility.",
+    "location" : {
+      "latitude" : 29.90763,
+      "longitude" : -90.16054
+    },
+    "address" : {
+      "line1" : "9008 Westbank Expressway",
+      "city" : "Westwego",
+      "region" : "LA",
+      "postal_code" : "70094",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "89.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-3047980"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-3047987"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A2QSRSA",
+      "room_type_code" : "A2Q",
+      "rate_plan_code" : "SRS",
+      "total_amount" : {
+        "amount" : "89.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 89.99
+      } ],
+      "descriptions" : [ "SENIOR RATE*CITIZENS 55YRS PLUS OR AARP ID", "2 QUEEN BEDS,NSMK,MICROWAVE,REFRIGERATOR,", "HI SPEED NET,FULL BREAKFAST" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "SRS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWMSY094?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CYMSYCMC",
+    "property_name" : "Courtyard Metairie Marriott",
+    "marketing_text" : "Courtyard by marriott surrounds travelers with the conveniences that make business and pleasure travel easy.",
+    "location" : {
+      "latitude" : 29.9922,
+      "longitude" : -90.15245
+    },
+    "address" : {
+      "line1" : "2 Galleria Blvd",
+      "city" : "Metairie",
+      "region" : "LA",
+      "postal_code" : "70001",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "92.65",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "92.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-8383800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-8387050"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "92.65",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 92.65
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 King, Sofa bed, Mini fridge, Living/sitting a", "rea, Wireless internet, complimentary, Coffee/t" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CYMSYCMC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HIMSY6FE",
+    "property_name" : "Holiday Inn Metairie",
+    "marketing_text" : "Our hotel's convenient location in Metairie -- just minutes from the airport and downtown New Orleans -- means you're never far from the sights of the Crescent City.",
+    "location" : {
+      "latitude" : 29.99282,
+      "longitude" : -90.15541
+    },
+    "address" : {
+      "line1" : "2261 N. Causeway Blvd.",
+      "city" : "Metairie",
+      "region" : "LA",
+      "postal_code" : "70001",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "92.65",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "92.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-3735946"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-504-3010174"
+    }, {
+      "type" : "URL",
+      "detail" : "www.holidayinn.com/metairiela"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "STN482G",
+      "room_type_code" : "*RH",
+      "rate_plan_code" : "482",
+      "total_amount" : {
+        "amount" : "92.65",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 92.65
+      } ],
+      "descriptions" : [ "BOOK EARLY N SAVE NO REFUNDS", "STANDARD ROOM YOU CAN STAY CONNECTED WITH FREE", "WIFI WHILE YOU ENJOY A COOL BEVERAGE FROM YOUR" ],
+      "room_type_info" : {
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "482"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HIMSY6FE?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "XTMSYAJH",
+    "property_name" : "Andrew Jackson Hotel",
+    "marketing_text" : "The andrew jackson is located in the heart of the french quarter. The hotel offers a charming and relaxing atmosphere with 18th-century furnishings and spacious guest rooms.",
+    "location" : {
+      "latitude" : 29.9601,
+      "longitude" : -90.06303
+    },
+    "address" : {
+      "line1" : "919 Royal Street",
+      "city" : "New Orleans",
+      "region" : "LA",
+      "postal_code" : "70116",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "94.76",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "81.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-504-5615881"
+    }, {
+      "type" : "FAX",
+      "detail" : "FAX NONE"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "QUNBAS",
+      "room_type_code" : "QUN",
+      "rate_plan_code" : "BAS",
+      "total_amount" : {
+        "amount" : "94.76",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 81.0
+      } ],
+      "descriptions" : [ "Book in advance and save " ],
+      "room_type_info" : { },
+      "rate_type_code" : "BAS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/XTMSYAJH?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CXMSY333",
+    "property_name" : "Country Inn Suites Metairie",
+    "location" : {
+      "latitude" : 30.00123,
+      "longitude" : -90.15497
+    },
+    "address" : {
+      "line1" : "2713 N Causeway Boulevard",
+      "city" : "Metairie",
+      "region" : "LA",
+      "postal_code" : "70002",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "96.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "84.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 504 835-4141"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 504 835-8226"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "cx_meta@countryinns.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.countryinns.com/metairie-hotel-la-70002/usameta"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "IA00713",
+      "room_type_code" : "O2D",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "96.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-20",
+        "end_date" : "2018-09-21",
+        "currency_code" : "USD",
+        "price" : 84.15
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE 7 DAY 15PCT", "2 DOUBLE BEDS-NON SMOKING", "-FULL PREPAYMENT - NON-REFUNDABLE" ],
+      "room_type_info" : {
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CXMSY333?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-20&check_out=2018-09-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

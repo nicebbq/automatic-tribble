@@ -1,0 +1,536 @@
+{
+  "results" : [ {
+    "property_code" : "MCMCIDTM",
+    "property_name" : "Marriott Kc Downtown",
+    "marketing_text" : "Whether you're traveling for business, pleasure or planning a meeting, marriott focuses on what it takes to make your trip successful.",
+    "location" : {
+      "latitude" : 39.10017,
+      "longitude" : -94.58581
+    },
+    "address" : {
+      "line1" : "200 W 12th St",
+      "city" : "Kansas City",
+      "region" : "MO",
+      "postal_code" : "641051638",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "186.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "186.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-816-4216800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-816-8554418"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "186.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 186.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, see Rate Rules", "Standard room with 1 king bed, 1 King, Mini fri", "dge, 350sqft/32sqm, Living/sitting area, Wirele" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MCMCIDTM?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SIMCI095",
+    "property_name" : "Sheraton Country Club Plaza",
+    "location" : {
+      "latitude" : 39.0426,
+      "longitude" : -94.59585
+    },
+    "address" : {
+      "line1" : "770 W. 47th Street",
+      "city" : "Kansas City",
+      "region" : "MO",
+      "postal_code" : "64112",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "195.87",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "195.87",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 816 931-4400"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 816 561-7330"
+    } ],
+    "amenities" : [ {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KA16",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "A16",
+      "total_amount" : {
+        "amount" : "195.87",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 195.87
+      } ],
+      "descriptions" : [ "1 KING:AAA/CAA RATE", "AAA OR CAA MEMBERSHIP ID REQUIRED AT CHECK-IN.", "SUITE NON-SMOKING:SLEEP EXPERIENCE AND SOFA" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "A16"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SIMCI095?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SIMCI709",
+    "property_name" : "Sheraton Kansas City Hotel",
+    "location" : {
+      "latitude" : 39.08491,
+      "longitude" : -94.57961
+    },
+    "address" : {
+      "line1" : "2345 Mcgee Street",
+      "city" : "Kansas City",
+      "region" : "MO",
+      "postal_code" : "64108",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "231.34",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "231.34",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 816 841-1000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 816 398-4610"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "crown@sheraton.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KA16",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "A16",
+      "total_amount" : {
+        "amount" : "231.34",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 231.34
+      } ],
+      "descriptions" : [ "1 KING:AAA/CAA RATE", "AAA ID REQUIRED", "TRADITIONAL NON-SMOKING:SIGNATURE SLEEP" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "A16"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SIMCI709?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "AKMCIAKA",
+    "property_name" : "The Raphael Hotel",
+    "marketing_text" : "Voted one of the World's Best Places to Stay by Cond\u00E9 Nast's Traveler, this one of a kind boutique hotel is patterned after Europe's finest small hotels.",
+    "location" : {
+      "latitude" : 39.03979,
+      "longitude" : -94.59127
+    },
+    "address" : {
+      "line1" : "325 Ward Parkway",
+      "city" : "Kansas City",
+      "region" : "MO",
+      "postal_code" : "64112",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "259.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "259.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-816-7563800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-816-8022150"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "REGB00",
+      "room_type_code" : "REG",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "259.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 259.0
+      } ],
+      "descriptions" : [ "Regular Rate", "1 King, Mini fridge, 290sqft/26sqm, Wireless in", "ternet, complimentary, Wired internet, complime" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/AKMCIAKA?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "AKMCIAAA",
+    "property_name" : "Ambassador Hotel Kansas City",
+    "location" : {
+      "latitude" : 39.10064,
+      "longitude" : -94.5805
+    },
+    "address" : {
+      "line1" : "1111 Grand Boulevard",
+      "city" : "Kansas City",
+      "region" : "MO",
+      "postal_code" : "64106",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "388.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "388.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-816-2987700"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-816-3267900"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "REGE00",
+      "room_type_code" : "REG",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "388.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 388.0
+      } ],
+      "descriptions" : [ "Regular Rate", "Parlor Suite, 1 King, Bathrooms: 1.5, Mini frid", "ge, 668sqft/60sqm, Separate living room, Wirele" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/AKMCIAAA?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

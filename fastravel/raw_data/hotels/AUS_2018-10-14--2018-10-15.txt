@@ -1,0 +1,2158 @@
+{
+  "results" : [ {
+    "property_code" : "MXAUS360",
+    "property_name" : "Motel 6 Austin North",
+    "location" : {
+      "latitude" : 30.35988,
+      "longitude" : -97.68796
+    },
+    "address" : {
+      "line1" : "9420 I-35 N",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78753",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "57.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "49.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-512-339-6161"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-512-339-7852"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "UD1RACK",
+      "room_type_code" : "UD1",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "57.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 49.99
+      } ],
+      "descriptions" : [ "RACK", "1 FULL BED / ADA ACCESSIBLE" ],
+      "room_type_info" : {
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXAUS360?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXAUS319",
+    "property_name" : "Americas Best Value Inn Austin",
+    "location" : {
+      "latitude" : 30.32074,
+      "longitude" : -97.70923
+    },
+    "address" : {
+      "line1" : "909 E Koenig Lane",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78751",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "62.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "62.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-512-4524200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-512-3740652"
+    }, {
+      "type" : "URL",
+      "detail" : "www.redlion.com/austin"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QSRS",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "SRS",
+      "total_amount" : {
+        "amount" : "62.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 62.99
+      } ],
+      "descriptions" : [ "SENIOR RATE ", "1 King Bed-Smoking-Free Wi-Fi-Microwave-Mini-Fridge-Coffeemaker-", "Free Continental Breakfast " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "SRS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXAUS319?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RFAUS210",
+    "property_name" : "Red Roof Austin North",
+    "location" : {
+      "latitude" : 30.34516,
+      "longitude" : -97.69701
+    },
+    "address" : {
+      "line1" : "8210 Interregional Highway",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78753",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "63.47",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "55.19",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-512-835-2200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-512-339-9043"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H2DPRO",
+      "room_type_code" : "H2D",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "63.47",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 55.19
+      } ],
+      "descriptions" : [ "RED HOT DEAL ", "ADA ACCESSIBLE 2 FULL BEDS NON-SMOKING with Free WiFi-Microwave ", "and Refrigerator This Room Also includes a Flat Screen TV " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RFAUS210?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXAUSC25",
+    "property_name" : "Motel 6 Austin Central - North",
+    "location" : {
+      "latitude" : 30.34304,
+      "longitude" : -97.69906
+    },
+    "address" : {
+      "line1" : "8010 I-35 North",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78753",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "64.39",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "55.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-512-837-9890"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-512-339-3045"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "U2DRACK",
+      "room_type_code" : "U2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "64.39",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 55.99
+      } ],
+      "descriptions" : [ "RACK", "2 FULL BEDS / ADA ACCESSIBLE" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXAUSC25?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXAUSA88",
+    "property_name" : "Motel 6 Austin Central-s Univ Of Tx",
+    "location" : {
+      "latitude" : 30.31291,
+      "longitude" : -97.70915
+    },
+    "address" : {
+      "line1" : "5330 N Interregional Hwy",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78751",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "75.89",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "65.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-512-467-9111"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-512-206-0573"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1KRACK",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "75.89",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 65.99
+      } ],
+      "descriptions" : [ "RACK", "1 KING BED" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXAUSA88?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZAUS181",
+    "property_name" : "Super 8 Austin University-dwtn",
+    "location" : {
+      "latitude" : 30.31565,
+      "longitude" : -97.70866
+    },
+    "address" : {
+      "line1" : "5526 N Ih-35",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78751",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "79.62",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "67.50",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-512-4517001"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-512-4513028"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1QAR1",
+      "room_type_code" : "H1Q",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "79.62",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 67.5
+      } ],
+      "descriptions" : [ "AARP RATE ", "1 Queen Accessible Room NSMK with free WiFi, free continental ", "breakfast, bathtub seat, HDTV " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZAUS181?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZAUS079",
+    "property_name" : "Super 8 Austin North-universit",
+    "location" : {
+      "latitude" : 30.34438,
+      "longitude" : -97.69764
+    },
+    "address" : {
+      "line1" : "8128 N. Interstate 35",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78753",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "79.70",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "69.30",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-512-3391300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-512-3390820"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C4QTRZ",
+      "room_type_code" : "C4Q",
+      "rate_plan_code" : "TRZ",
+      "total_amount" : {
+        "amount" : "79.70",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 69.3
+      } ],
+      "descriptions" : [ "TURISMO CREATIVO ", "2 Queen Beds NSMK with free WiFi, free continental breakfast, ", "mini-fridge, microwave, AC, " ],
+      "room_type_info" : {
+        "number_of_beds" : "4",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "TRZ"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZAUS079?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXAUS113",
+    "property_name" : "Motel 6 Austin South Airport",
+    "location" : {
+      "latitude" : 30.2292,
+      "longitude" : -97.74282
+    },
+    "address" : {
+      "line1" : "2707 Interregional Hwy S",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78741",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "80.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "69.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-512-444-5882"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-512-442-3759"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "UD1RACK",
+      "room_type_code" : "UD1",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "80.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 69.99
+      } ],
+      "descriptions" : [ "RACK", "1 FULL BED / ADA ACCESSIBLE" ],
+      "room_type_info" : {
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXAUS113?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAAUSRUT",
+    "property_name" : "Extended Stay America N Centra",
+    "marketing_text" : "7 miles from Austin and 8 from the Texas State Capital, Extended Stay America?s 118 suites offer business and leisure travelers free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry by the day, week or month.",
+    "location" : {
+      "latitude" : 30.34441,
+      "longitude" : -97.69592
+    },
+    "address" : {
+      "line1" : "8221 North Ih-35",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78753",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "82.79",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "71.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 512 339-6005"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 512 339-6099"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "amt@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/AMT"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0EB2J",
+      "room_type_code" : "N1Q",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "82.79",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 71.99
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "DELUXE STUDIO 1 QUEEN BED NONSMKNG", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAAUSRUT?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DIAUS513",
+    "property_name" : "Days Inn Austin South",
+    "location" : {
+      "latitude" : 30.21424,
+      "longitude" : -97.75385
+    },
+    "address" : {
+      "line1" : "4220 South Ih-35",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78745",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "84.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "84.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-512-4419242"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-512-4419247"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2KSP1",
+      "room_type_code" : "C2K",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "84.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 84.99
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 King Bed SMK with free continental breakfast, free WiFi, ", "newspaper and hair dryer " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DIAUS513?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAAUSBUR",
+    "property_name" : "Extended Stay America S Arbore",
+    "marketing_text" : "10 miles from Austin, Extended Stay America offers business and leisure travelers alike free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry. Our 124 suites deliver comfort by the day, week, or month.",
+    "location" : {
+      "latitude" : 30.3765,
+      "longitude" : -97.73018
+    },
+    "address" : {
+      "line1" : "9100 Waterford Center Blvd",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78758",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "85.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "85.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 512 837-6677"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 512 837-6696"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "bur@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/BUR"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0PB69",
+      "room_type_code" : "A0P",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "85.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 85.49
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN NONSMKNG ACCESSIBLE", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "bed_type" : "Pull-out",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAAUSBUR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RFAUS258",
+    "property_name" : "Red Roof Plus Austin South",
+    "marketing_text" : "Interior corridor building with 4 floors, 2 elevators.  Featuring outdoor pool open all year round, 24 hour coffee service, OnCommand and Free WiFi.  Last renovated in 2013",
+    "location" : {
+      "latitude" : 30.20806,
+      "longitude" : -97.7553
+    },
+    "address" : {
+      "line1" : "4701 South I/35",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78744",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "89.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-512-448-0091"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-512-448-0272"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "i0258@redroof.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.redroof.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    }, {
+      "provider" : "Northstar Travel Media",
+      "rating" : "1"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A2DSEN",
+      "room_type_code" : "A2D",
+      "rate_plan_code" : "SEN",
+      "total_amount" : {
+        "amount" : "89.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 89.99
+      } ],
+      "descriptions" : [ "SENIORS ", "2 FULL BEDS SMOKE-FREE with Free WiFi " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "SEN"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RFAUS258?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAAUS299",
+    "property_name" : "Extended Stay America Austin S",
+    "marketing_text" : "8 miles from San Antonio and 9 from the Texas State Capitol, Extended Stay America?s 117 suites offer business and leisure travelers free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry by the day, week, or month.",
+    "location" : {
+      "latitude" : 30.23806,
+      "longitude" : -97.82581
+    },
+    "address" : {
+      "line1" : "5100 Us Hwy 290 W",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78735",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "98.31",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "85.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 512 892-4272"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 512 892-4303"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "asw@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/ASW"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A06B2S",
+      "room_type_code" : "A06",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "98.31",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 85.49
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN BED NONSMKNG", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAAUS299?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CXAUS932",
+    "property_name" : "Country Inn Stes Austin University",
+    "marketing_text" : "Each of the spacious rooms and suites at the Austin Hotel features a cozy country-style decor that makes guests feel right at home. Accommodations at the Austin Hotel offers Broadband  high-speed internet access, microwaves and refrigerators.",
+    "location" : {
+      "latitude" : 30.33617,
+      "longitude" : -97.70346
+    },
+    "address" : {
+      "line1" : "7400 I-35 North",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78752",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "102.47",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 512 380-0008"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 512 380-0046"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "cx_astn@countryinns.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.countryinns.com/austintx_north"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 91,
+      "description" : "Tour/sightseeing desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 92,
+      "description" : "Translation services"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "4"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "IA01913",
+      "room_type_code" : "O1K",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "102.47",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 89.1
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE 7 DAY 10PCT", "KING BED-NON SMOKING", "-FULL PREPAYMENT - NON-REFUNDABLE" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CXAUS932?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAAUS126",
+    "property_name" : "Extended Stay America Arboretu",
+    "marketing_text" : "11 miles from Austin, Extended Stay America offers business and leisure travelers alike free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry. Our 102 suites deliver comfort by the day, week, or month.",
+    "location" : {
+      "latitude" : 30.39072,
+      "longitude" : -97.73639
+    },
+    "address" : {
+      "line1" : "10100 N. Capital Of Tx Hwy",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78759",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "103.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 512 231-1520"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 512 231-1545"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "arb@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/ARB"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A05ARW",
+      "room_type_code" : "A05",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "103.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 89.99
+      } ],
+      "descriptions" : [ "NIGHTLY VALUE RATE", "STANDARD STUDIO 1 QUEEN BED NONSMKNG", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAAUS126?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAAUS721",
+    "property_name" : "Extended Stay America Metro",
+    "marketing_text" : "6 miles from Austin, Extended Stay America offers business and leisure travelers alike free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry. Our 85 suites deliver comfort by the day, week, or month.",
+    "location" : {
+      "latitude" : 30.3232,
+      "longitude" : -97.7006
+    },
+    "address" : {
+      "line1" : "6300 Hwy 290 East",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78723-1028",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "108.66",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "94.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 512 452-0880"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 512 452-7730"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "mtr@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/MTR"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A08B44",
+      "room_type_code" : "A08",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "108.66",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 94.49
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN BED NONSMKNG", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAAUS721?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQAUS530",
+    "property_name" : "La Quinta Inn Austin University Area",
+    "marketing_text" : "Located just north of downtown Austin, the La Quinta Inn-Austin University Area is only minutes from the Austin Convention Center, Texas State Capitol, Travis County Expo Center, and the University of Texas. ",
+    "location" : {
+      "latitude" : 30.31978,
+      "longitude" : -97.70795
+    },
+    "address" : {
+      "line1" : "5812 I-35 North",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78751",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "109.25",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "95.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 512 459-4381"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 512 452-3917"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq0530gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://530.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A04ABD",
+      "room_type_code" : "C2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "109.25",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 95.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "Two Double Pillowtop Beds", "Ultra Fast Free WIFI/Free Breakfast/HDTV" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQAUS530?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "FNAUSFSF",
+    "property_name" : "Fairfield Inn N Stes Marriott",
+    "marketing_text" : "Always fresh, always clean, our 63 guest rooms are full of thoughful amenities, including a well -lit work desk and a remote-controlled tv with free cable.",
+    "location" : {
+      "latitude" : 30.20973,
+      "longitude" : -97.75418
+    },
+    "address" : {
+      "line1" : "4525 South Ih-35",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78744",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "109.65",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "109.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-512-7078899"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-512-4415704"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "109.65",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 109.65
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 King, Wireless internet, complimentary, Coffe", "e/tea maker, 27in/69cm TV" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/FNAUSFSF?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CYAUSSEC",
+    "property_name" : "Courtyard South Marriott",
+    "marketing_text" : "Courtyard austin south- located off ih35 and ben white boulevard, the courtyard by marriott austin south offers convenient access to key expressways and attractions, just 10 minutes from downtown austin.",
+    "location" : {
+      "latitude" : 30.20972,
+      "longitude" : -97.75417
+    },
+    "address" : {
+      "line1" : "4533 South Ih-35",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78744",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "111.20",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "111.20",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-512-9121122"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-512-9128134"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "APNL00",
+      "room_type_code" : "APN",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "111.20",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 111.2
+      } ],
+      "descriptions" : [ "Advance Purchase rate, prepay in full, non-refu", "es", "2 Double, Mini fridge, Microwave, 450, Wireless" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CYAUSSEC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "GIAUS512",
+    "property_name" : "Hilton Garden Inn Austin North",
+    "location" : {
+      "latitude" : 30.4022,
+      "longitude" : -97.67552
+    },
+    "address" : {
+      "line1" : "12400 North Ih-35 Building C",
+      "city" : "Austin",
+      "region" : "TX",
+      "postal_code" : "78753",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "112.61",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "97.92",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 512 339-3626"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 512 833-6926"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0HBMU",
+      "room_type_code" : "E2Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "112.61",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-14",
+        "end_date" : "2018-10-15",
+        "currency_code" : "USD",
+        "price" : 97.92
+      } ],
+      "descriptions" : [ "SEMI-FLEX", "2 QUEEN HEARING ACCESSIBLE ROOM", "VIS FIREALRM/DOOR/PHN ALRT" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Room with shower - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/GIAUS512?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-14&check_out=2018-10-15&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

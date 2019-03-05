@@ -1,0 +1,1306 @@
+{
+  "results" : [ {
+    "property_code" : "OZMEM126",
+    "property_name" : "Super 8 West Memphis Ar",
+    "location" : {
+      "latitude" : 35.15434,
+      "longitude" : -90.13721
+    },
+    "address" : {
+      "line1" : "901 Martin Luther King Jr Dr",
+      "city" : "West Memphis",
+      "region" : "AR",
+      "postal_code" : "72301-3710",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "51.30",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "51.30",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-870-7358818"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-870-7352133"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Q11S3A",
+      "room_type_code" : "Q11",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "51.30",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-16",
+        "end_date" : "2018-10-17",
+        "currency_code" : "USD",
+        "price" : 51.3
+      } ],
+      "descriptions" : [ "AAA RATE ", "1 QUEEN BED SMOKING ROOM WITH FREE", "CONTINENTAL BREAKFAST, FREE WI-FI," ],
+      "room_type_info" : {
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZMEM126?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-16&check_out=2018-10-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAMEMHVM",
+    "property_name" : "Extended Stay America Airport",
+    "marketing_text" : "5 miles from Memphis and 4 from Graceland, Extended Stay America?s 136 suites offer business and leisure travelers free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry by the day, week, or month.",
+    "location" : {
+      "latitude" : 35.07529,
+      "longitude" : -89.99056
+    },
+    "address" : {
+      "line1" : "2541 Corporate Avenue East",
+      "city" : "Memphis",
+      "region" : "TN",
+      "postal_code" : "38132",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "55.24",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "55.24",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 901 344-0010"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 901 344-0011"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "mep@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/MEP"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0DB8H",
+      "room_type_code" : "A0D",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "55.24",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-16",
+        "end_date" : "2018-10-17",
+        "currency_code" : "USD",
+        "price" : 55.24
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN NONSMKNG ACCESSIBLE", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "bed_type" : "Double",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAMEMHVM?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-16&check_out=2018-10-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZMEM496",
+    "property_name" : "Super 8 Memp Dwntn Gracelnd Ar",
+    "location" : {
+      "latitude" : 35.12395,
+      "longitude" : -90.07322
+    },
+    "address" : {
+      "line1" : "340 W Illinois Street",
+      "city" : "Memphis",
+      "region" : "TN",
+      "postal_code" : "38106",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "58.50",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "58.50",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-901-3436425"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-901-9465716"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Q11S3A",
+      "room_type_code" : "Q11",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "58.50",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-16",
+        "end_date" : "2018-10-17",
+        "currency_code" : "USD",
+        "price" : 58.5
+      } ],
+      "descriptions" : [ "AAA RATE ", "1 QUEEN BED SMOKING ROOM WITH FREE", "BREAKFAST, FREE WI-FI," ],
+      "room_type_info" : {
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZMEM496?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-16&check_out=2018-10-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXMEMC80",
+    "property_name" : "Motel 6 Memphis Downtown",
+    "location" : {
+      "latitude" : 35.13698,
+      "longitude" : -90.02786
+    },
+    "address" : {
+      "line1" : "210 S Pauline St",
+      "city" : "Memphis",
+      "region" : "TN",
+      "postal_code" : "38104",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "59.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "59.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-901-528-0650"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-901-528-0659"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N2DRACK",
+      "room_type_code" : "N2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "59.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-16",
+        "end_date" : "2018-10-17",
+        "currency_code" : "USD",
+        "price" : 59.99
+      } ],
+      "descriptions" : [ "RACK", "2 FULL BEDS / STANDARD" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXMEMC80?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-16&check_out=2018-10-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXMEMG71",
+    "property_name" : "Motel 6 Memphis Tn",
+    "location" : {
+      "latitude" : 35.20416,
+      "longitude" : -89.92244
+    },
+    "address" : {
+      "line1" : "2889 Old Austin Paey Hwy",
+      "city" : "Memphis",
+      "region" : "TN",
+      "postal_code" : "38128",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "71.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "71.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-901-386-0033"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-901-398-6266"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "S1KRACK",
+      "room_type_code" : "S1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "71.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-16",
+        "end_date" : "2018-10-17",
+        "currency_code" : "USD",
+        "price" : 71.99
+      } ],
+      "descriptions" : [ "RACK", "1 KING BED / SUITE" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXMEMG71?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-16&check_out=2018-10-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "FNMEMPLF",
+    "property_name" : "Fairfield Inn N Stes Marriott",
+    "marketing_text" : "Always fresh, always clean, our guest rooms are full of thoughtful amenities, including a well-lit work desk and a remote-controlled tv with free cable.",
+    "location" : {
+      "latitude" : 35.07654,
+      "longitude" : -89.90462
+    },
+    "address" : {
+      "line1" : "4760 Showcase Blvd",
+      "city" : "Memphis",
+      "region" : "TN",
+      "postal_code" : "38115",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "85.50",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "85.50",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-901-7951900"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-901-7951967"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "85.50",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-16",
+        "end_date" : "2018-10-17",
+        "currency_code" : "USD",
+        "price" : 85.5
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 King, Mini fridge, Microwave, 375sqft/34sqm, ", "Wireless internet, complimentary, Coffee/tea ma" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/FNMEMPLF?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-16&check_out=2018-10-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWMEM175",
+    "property_name" : "Best Western Plus Gen X Inn",
+    "location" : {
+      "latitude" : 35.13931,
+      "longitude" : -90.0222
+    },
+    "address" : {
+      "line1" : "1177 Madison Avenue",
+      "city" : "Memphis",
+      "region" : "TN",
+      "postal_code" : "38104",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "89.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-901-692-9136"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-901-692-9143"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "FEMALE_TRAVELER_ROOM",
+      "ota_code" : 110,
+      "description" : "Female traveler room/floor"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KSRSA",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "SRS",
+      "total_amount" : {
+        "amount" : "89.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-16",
+        "end_date" : "2018-10-17",
+        "currency_code" : "USD",
+        "price" : 89.99
+      } ],
+      "descriptions" : [ "SENIOR RATE*CITIZENS 55YRS PLUS OR AARP ID", "1 KING BED,NSMK,32 IN LCD TV,HI SPEED,REFRIG,", "CONTINENTAL BREAKFAST" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "SRS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWMEM175?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-16&check_out=2018-10-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQMEM377",
+    "property_name" : "La Quinta Inn Ste Mem Ap Graceland",
+    "marketing_text" : "La Quinta Inn & Suites Memphis Airport Graceland is located off I-240 and I-55 near Memphis International Airport, Memphis Zoo, Graceland and Pink Palace Museum and Planetarium.",
+    "location" : {
+      "latitude" : 35.06773,
+      "longitude" : -90.00746
+    },
+    "address" : {
+      "line1" : "2979 Millbranch Rd",
+      "city" : "Memphis",
+      "region" : "TN",
+      "postal_code" : "38116",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "92.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "92.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 901 791-9200"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 901 345-8895"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq6377gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://6377.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A02A51",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "92.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-16",
+        "end_date" : "2018-10-17",
+        "currency_code" : "USD",
+        "price" : 92.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "King Bed/Mobility Accessible/Roll In Shower", "Ultra Fast Free WIFI/Free Breakfast" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQMEM377?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-16&check_out=2018-10-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DIMEM383",
+    "property_name" : "Days Inn Memphis At Graceland",
+    "location" : {
+      "latitude" : 35.04384,
+      "longitude" : -90.02543
+    },
+    "address" : {
+      "line1" : "3839 Elvis Presley Blvd",
+      "city" : "Memphis",
+      "region" : "TN",
+      "postal_code" : "38116",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "97.75",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "97.75",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-901-3465500"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-901-3457452"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1KSP1",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "97.75",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-16",
+        "end_date" : "2018-10-17",
+        "currency_code" : "USD",
+        "price" : 97.75
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 King Bed Accessible SMK with safety bars, bathroom rails and ", "free breakfast " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DIMEM383?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-16&check_out=2018-10-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DTMEM529",
+    "property_name" : "Doubletree By Hilton Memphis",
+    "location" : {
+      "latitude" : 35.11623,
+      "longitude" : -89.89299
+    },
+    "address" : {
+      "line1" : "5069 Sanderlin Avenue",
+      "city" : "Memphis",
+      "region" : "TN",
+      "postal_code" : "38117",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "139.50",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "139.50",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 901 767-6666"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 901 767-5428"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0KA8D",
+      "room_type_code" : "G1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "139.50",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-16",
+        "end_date" : "2018-10-17",
+        "currency_code" : "USD",
+        "price" : 139.5
+      } ],
+      "descriptions" : [ "AAA RATE", "1 KING MOBILITY ACCESSIBLE WITH TUB", "REFRIGERATOR - COMP WIFI" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Standard"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DTMEM529?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-16&check_out=2018-10-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CYMEMCAC",
+    "property_name" : "Courtyard Airport Marriott",
+    "marketing_text" : "Courtyard by marriott surrounds travelers with the conveniences that make business and pleasure travel easy.",
+    "location" : {
+      "latitude" : 35.0718,
+      "longitude" : -90.00369
+    },
+    "address" : {
+      "line1" : "1780 Nonconnah Blvd",
+      "city" : "Memphis",
+      "region" : "TN",
+      "postal_code" : "38131",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "164.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "164.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-901-3963600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-901-3320706"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "REGE00",
+      "room_type_code" : "REG",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "164.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-16",
+        "end_date" : "2018-10-17",
+        "currency_code" : "USD",
+        "price" : 164.0
+      } ],
+      "descriptions" : [ "Regular Rate", "2 Queen, 261sqft/23sqm, Wireless internet, comp", "limentary, Coffee/tea maker, 37in/94cm flatscre" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CYMEMCAC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-16&check_out=2018-10-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DTMEM030",
+    "property_name" : "Dbltree By Hilton Memphis Downtown",
+    "location" : {
+      "latitude" : 35.1423,
+      "longitude" : -90.05087
+    },
+    "address" : {
+      "line1" : "185 Union Avenue",
+      "city" : "Memphis",
+      "region" : "TN",
+      "postal_code" : "38103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "187.20",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "187.20",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 901 528-1800"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 901 5263226"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0DAAS",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "187.20",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-16",
+        "end_date" : "2018-10-17",
+        "currency_code" : "USD",
+        "price" : 187.2
+      } ],
+      "descriptions" : [ "AAA RATE", "1QN MOBILITY ACCESSIBLE RI SHWR NO SMOK", "COMP HI SPEED-SWEET DREAMS EXPERIENCE BED" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DTMEM030?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-16&check_out=2018-10-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WIMEM563",
+    "property_name" : "Westin Memphis Beale St",
+    "location" : {
+      "latitude" : 35.13885,
+      "longitude" : -90.05258
+    },
+    "address" : {
+      "line1" : "170 Lt George W Lee Avenue",
+      "city" : "Memphis",
+      "region" : "TN",
+      "postal_code" : "38103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "390.71",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "390.71",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 901 334-5900"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 901 334-5901"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "info@westinmemphis.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B2QBZF",
+      "room_type_code" : "B2Q",
+      "rate_plan_code" : "BZF",
+      "total_amount" : {
+        "amount" : "390.71",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-16",
+        "end_date" : "2018-10-17",
+        "currency_code" : "USD",
+        "price" : 390.71
+      } ],
+      "descriptions" : [ "2 QUEENS:PREFERRED RATE", "TRADITIONAL NON-SMOKING:HEAVENLY BED AND BATH:", "CORDLESS PHONE:32 INCH FLAT SCREEN LCD TV" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Moderate"
+      },
+      "rate_type_code" : "BZF"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WIMEM563?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-16&check_out=2018-10-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

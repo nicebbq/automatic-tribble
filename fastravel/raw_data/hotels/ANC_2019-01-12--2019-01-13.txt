@@ -1,0 +1,78 @@
+{
+  "results" : [ {
+    "property_code" : "MTANC101",
+    "property_name" : "Microtel Inn & Suites By Wyndh",
+    "marketing_text" : "Rediscover the GREAT OUTDOORS. Visit Anchorage, AK. And see what nature has to offer us.",
+    "location" : {
+      "latitude" : 61.17339,
+      "longitude" : -149.92607
+    },
+    "address" : {
+      "line1" : "5205 Northwood Drive",
+      "city" : "Anchorage",
+      "region" : "AK",
+      "postal_code" : "99517",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "100.79",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-907-2455002"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-907-2455030"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "SNQ1S3A",
+      "room_type_code" : "SNQ",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "100.79",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-12",
+        "end_date" : "2019-01-13",
+        "currency_code" : "USD",
+        "price" : 89.99
+      } ],
+      "descriptions" : [ "AAA RATE ", "1 QUEEN BED NON-SMOKING SUITE WITH", "FREE CONTINENTAL BREAKFAST, FREE" ],
+      "room_type_info" : {
+        "bed_type" : "Queen",
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MTANC101?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-12&check_out=2019-01-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

@@ -1,0 +1,6 @@
+{% extends "layout.html" %}
+{% block body %}
+  {{info['user']}} logged in.<br><br>
+  {{info['data']['cityName']}} {{info['data']['userid']}} {{info['data']['budget']}} has been added to our apartment database.
+  <a href="/index.html">Return to main menu.</a>
+{% endblock %}

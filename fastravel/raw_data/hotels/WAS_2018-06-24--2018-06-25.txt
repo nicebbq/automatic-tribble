@@ -1,0 +1,353 @@
+{
+  "results" : [ {
+    "property_code" : "MSOCW659",
+    "property_name" : "Magnuson Hotel Washington",
+    "location" : {
+      "latitude" : 35.55583,
+      "longitude" : -77.05903
+    },
+    "address" : {
+      "line1" : "1031 Carolina Ave",
+      "city" : "Washington",
+      "region" : "NC",
+      "postal_code" : "27889",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "62.37",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "53.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-252-9465500"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-252-9465009"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1KMIL",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "MIL",
+      "total_amount" : {
+        "amount" : "62.37",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-24",
+        "end_date" : "2018-06-25",
+        "currency_code" : "USD",
+        "price" : 53.99
+      } ],
+      "descriptions" : [ "MILITARY-ID REQUIRED TO QUALIFY", "1 king bed, NS, free breakfast, free wifi,", "coffeemaker, microwave, minifridge" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "MIL"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MSOCW659?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-24&check_out=2018-06-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DIOCW916",
+    "property_name" : "Days Inn Washington",
+    "location" : {
+      "latitude" : 35.55435,
+      "longitude" : -77.05905
+    },
+    "address" : {
+      "line1" : "916 Carolina Ave",
+      "city" : "Washington",
+      "region" : "NC",
+      "postal_code" : "27889",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "64.35",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "56.95",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-252-6233925"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-252-9466167"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1QSP1",
+      "room_type_code" : "H1Q",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "64.35",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-24",
+        "end_date" : "2018-06-25",
+        "currency_code" : "USD",
+        "price" : 56.95
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 QueenBed Accessible NSMK with safety bars, bathroom rails and ", "free breakfast " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DIOCW916?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-24&check_out=2018-06-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HXOCW208",
+    "property_name" : "Hampton Inn Washington",
+    "location" : {
+      "latitude" : 35.56618,
+      "longitude" : -77.07199
+    },
+    "address" : {
+      "line1" : "2085 West 15th St",
+      "city" : "Washington",
+      "region" : "NC",
+      "postal_code" : "27889",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "120.76",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "107.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 252 940-4556"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 252 940-4557"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0HA17",
+      "room_type_code" : "L1K",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "120.76",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-24",
+        "end_date" : "2018-06-25",
+        "currency_code" : "USD",
+        "price" : 107.1
+      } ],
+      "descriptions" : [ "AAA -AAA RATE", "1 KING MOBILITY/HEARING ACCESS W/TUB NONSMOK", "VIS FIREALRM/DOOR/PHN ALRT/HDTV" ],
+      "room_type_info" : {
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HXOCW208?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-24&check_out=2018-06-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "FNOCWFIF",
+    "property_name" : "Fairfield Inn N Stes Marriott",
+    "location" : {
+      "latitude" : 35.56629,
+      "longitude" : -77.0715
+    },
+    "address" : {
+      "line1" : "2090 W 15th St",
+      "city" : "Washington",
+      "region" : "NC",
+      "postal_code" : "27889",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "124.03",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "110.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-252-9405630"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-252-9405633"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "124.03",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-24",
+        "end_date" : "2018-06-25",
+        "currency_code" : "USD",
+        "price" : 110.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Queen, Mini fridge, Microwave, 372sqft/33sqm,", " Wireless internet, complimentary, Wired intern" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/FNOCWFIF?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-24&check_out=2018-06-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

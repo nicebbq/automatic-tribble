@@ -1,0 +1,2069 @@
+{
+  "results" : [ {
+    "property_code" : "MXBFI687",
+    "property_name" : "Motel 6 Seattle North Kirkland",
+    "location" : {
+      "latitude" : 47.70786,
+      "longitude" : -122.17882
+    },
+    "address" : {
+      "line1" : "12010 120th Pl",
+      "city" : "Kirkland",
+      "region" : "WA",
+      "postal_code" : "98034",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "69.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "69.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-425-821-5618"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-425-821-7459"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "UD1RACK",
+      "room_type_code" : "UD1",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "69.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 69.99
+      } ],
+      "descriptions" : [ "RACK", "1 FULL BED / MODERN, ADA ACCESSIBLE" ],
+      "room_type_info" : {
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXBFI687?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EASEABLV",
+    "property_name" : "Extended Stay America Factoria",
+    "marketing_text" : "9 miles from Seattle, Extended Stay America offers business and leisure travelers alike free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry. Our 150 suites deliver comfort by the day, week, or month.",
+    "location" : {
+      "latitude" : 47.57798,
+      "longitude" : -122.16405
+    },
+    "address" : {
+      "line1" : "3700 132nd Ave Se",
+      "city" : "Bellevue",
+      "region" : "WA",
+      "postal_code" : "98006",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "80.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "80.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 425 865-8680"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 425 865-8989"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "blv@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/BLV"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0BBAB",
+      "room_type_code" : "A0B",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "80.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 80.99
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN NONSMKNG ACCESSIBLE", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EASEABLV?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "TLSEA972",
+    "property_name" : "Travelodge Seattle North",
+    "location" : {
+      "latitude" : 47.69106,
+      "longitude" : -122.34411
+    },
+    "address" : {
+      "line1" : "8512 Aurora Ave North",
+      "city" : "Seattle",
+      "region" : "WA",
+      "postal_code" : "98103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "94.50",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "94.50",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-206-5225000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-206-5284803"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2QAR1",
+      "room_type_code" : "C2Q",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "94.50",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 94.5
+      } ],
+      "descriptions" : [ "AARP RATE ", "1 Queen SMK with Free WiFi, free continental breakfast, mini-", "refrigerator, microwave, air " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/TLSEA972?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DISEA356",
+    "property_name" : "Days Inn Seattle N Of Downtown",
+    "location" : {
+      "latitude" : 47.69504,
+      "longitude" : -122.34424
+    },
+    "address" : {
+      "line1" : "9100 Aurora Ave N",
+      "city" : "Seattle",
+      "region" : "WA",
+      "postal_code" : "98103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "94.50",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "94.50",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-206-5243600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-206-5243900"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QAR1",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "94.50",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 94.5
+      } ],
+      "descriptions" : [ "AARP RATE ", "1 QueenBed NSMK with free continental breakfast, free WiFi, ", "refrigerator and microwave " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DISEA356?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQSEA676",
+    "property_name" : "La Quinta Inn Ste Bellevue Kirkland",
+    "marketing_text" : "Business travelers have easy access to Microsoft, Google, Amazon, Nintendo, and more while at La Quinta Inn & Suites Seattle Bellevue/Kirkland. With FREE WiFi, business facilities, and a FREE hot Bright Side Breakfast, your on-the-go needs are met.",
+    "location" : {
+      "latitude" : 47.6426,
+      "longitude" : -122.19915
+    },
+    "address" : {
+      "line1" : "10530 Ne Northrup Way",
+      "city" : "Kirkland",
+      "region" : "WA",
+      "postal_code" : "98033",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "115.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "115.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 425 828-6585"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 425 822-8722"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq0676gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://676.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 92,
+      "description" : "Translation services"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0CADC",
+      "room_type_code" : "H1D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "115.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 115.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "One Queen Bed/Accessible/Newly Renovated", "Micro/Fridge/Nonsmoking/HDTV/Free WIFI" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "Double",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQSEA676?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RLSEA119",
+    "property_name" : "Red Lion Hotel Bellevue",
+    "marketing_text" : "A full-service hotel with 181 guest rooms and   5750 sq ft of meeting space. Our newly renovated guest rooms feature a boutique-style d\u00E9cor and now free high speed wireless internet access and equipped with king or extra long, double-sized beds.",
+    "location" : {
+      "latitude" : 47.60916,
+      "longitude" : -122.18938
+    },
+    "address" : {
+      "line1" : "11211 Main Street",
+      "city" : "Bellevue",
+      "region" : "WA",
+      "postal_code" : "98004",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "131.86",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "115.25",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-425-4555240"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-425-4550654"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N2DGOV",
+      "room_type_code" : "N2D",
+      "rate_plan_code" : "GOV",
+      "total_amount" : {
+        "amount" : "131.86",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 115.25
+      } ],
+      "descriptions" : [ "Federal Government / Military  - ID required", "at check-in", "Nonsmoking, Two Double Beds,  Free WiFi," ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "GOV"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RLSEA119?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SISEA638",
+    "property_name" : "Four Points Dtown Seattle Ctr",
+    "location" : {
+      "latitude" : 47.62521,
+      "longitude" : -122.34456
+    },
+    "address" : {
+      "line1" : "601 Roy St",
+      "city" : "Seattle",
+      "region" : "WA",
+      "postal_code" : "98109",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "149.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "149.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 206 282-2600"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 206 282-1112"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "gm@fourpointsseattle.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B2DDO0",
+      "room_type_code" : "B2D",
+      "rate_plan_code" : "DO0",
+      "total_amount" : {
+        "amount" : "149.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 149.0
+      } ],
+      "descriptions" : [ "2 DBLS:PREPAID RATE", "TRADITIONAL NON-SMOKING:FOUR COMFORT BED:FREE", "WI-FI AND BOTTLED WATER:FREE ACCESS TO FITNESS" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "DO0"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SISEA638?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXSEA062",
+    "property_name" : "The Loyal Inn",
+    "location" : {
+      "latitude" : 47.61819,
+      "longitude" : -122.34127
+    },
+    "address" : {
+      "line1" : "2301 8th Avenue",
+      "city" : "Seattle",
+      "region" : "WA",
+      "postal_code" : "98121",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "152.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "152.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-206-6820200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-206-4678984"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QARP",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "ARP",
+      "total_amount" : {
+        "amount" : "152.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 152.1
+      } ],
+      "descriptions" : [ "SENIOR CITIZEN RATE ", "Standard Room, 1 Queen Bed, Non Smoking " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "ARP"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXSEA062?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWSEA068",
+    "property_name" : "Best Western Executive Inn",
+    "marketing_text" : "The seattle BEST WESTERN PLUS Executive Inn is located one block from the spectacular space needle, the experience music project, and the monorail. Our hotel offers free parking to hotel guests.",
+    "location" : {
+      "latitude" : 47.62017,
+      "longitude" : -122.34602
+    },
+    "address" : {
+      "line1" : "200 Taylor North",
+      "city" : "Seattle",
+      "region" : "WA",
+      "postal_code" : "98109",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "156.60",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "156.60",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-206-4489444"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-206-3742548"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KSRSE",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "SRS",
+      "total_amount" : {
+        "amount" : "156.60",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 156.6
+      } ],
+      "descriptions" : [ "SENIOR RATE*CITIZENS 55YRS PLUS OR AARP ID", "1 KING BED,MOBILITY ACC,COMMASSIST,BATHTUB,", "NSMK" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SRS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWSEA068?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BTSEAUNI",
+    "property_name" : "University Inn",
+    "location" : {
+      "latitude" : 47.6577,
+      "longitude" : -122.31761
+    },
+    "address" : {
+      "line1" : "4140 Rooselvelt Way, N.e.",
+      "city" : "Seattle",
+      "region" : "WA",
+      "postal_code" : "98105",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "170.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "170.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-206-6325055"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-206-5474937"
+    }, {
+      "type" : "URL",
+      "detail" : "www.universityinnseattle.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QARP",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "ARP",
+      "total_amount" : {
+        "amount" : "170.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 170.0
+      } ],
+      "descriptions" : [ "YOUNG AT HEART ", "Traditional 1 Queen-WiFi-Dog friendly-hairdryer Traditional 1 ", "Queen-WiFi-Dog friendly-hairdryer -iron-ironing board-LCD TV-in-" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "ARP"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BTSEAUNI?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BTSEA559",
+    "property_name" : "Watertown Hotel",
+    "location" : {
+      "latitude" : 47.65941,
+      "longitude" : -122.31751
+    },
+    "address" : {
+      "line1" : "4242 Roosevelt Way Ne",
+      "city" : "Seattle",
+      "region" : "WA",
+      "postal_code" : "98105",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "171.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "171.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-206-8264242"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-206-3154242"
+    }, {
+      "type" : "URL",
+      "detail" : "www.watertownseattle.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "T1KARP",
+      "room_type_code" : "T1K",
+      "rate_plan_code" : "ARP",
+      "total_amount" : {
+        "amount" : "171.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 171.0
+      } ],
+      "descriptions" : [ "YOUNG AT HEART ", "Studio 1 King-LCD TV-WiFi-in-room safe Studio 1 King-LCD TV-WiFi", "in-room safe hair dryer-microwave-refrigerator-" ],
+      "room_type_info" : {
+        "room_type" : "Suite",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "ARP"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BTSEA559?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXSEA123",
+    "property_name" : "Executive Hotel Pacific",
+    "location" : {
+      "latitude" : 47.60703,
+      "longitude" : -122.3333
+    },
+    "address" : {
+      "line1" : "400 Spring Street",
+      "city" : "Seattle",
+      "region" : "WA",
+      "postal_code" : "98104",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "179.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "179.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-206-6233900"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-206-6232059"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.executivehotels.net/downtownseattlehotel"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QAAA",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "179.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 179.0
+      } ],
+      "descriptions" : [ "AAA RATE ", "Executive Queen Room Hosted Wine Reception Executive Queen Room ", "Complimentary Wireless Internet Hosted Wine Reception " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXSEA123?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQSEA436",
+    "property_name" : "La Quinta Inn Ste Seattle Downtown",
+    "marketing_text" : "Enjoy the convenience of the landmark La Quinta Inn and Suites Seattle Downtown. Stay at this 7-story high-rise and you'll be within walking distance to most downtown attractions, including the Seattle Center and Space Needle.",
+    "location" : {
+      "latitude" : 47.61751,
+      "longitude" : -122.33945
+    },
+    "address" : {
+      "line1" : "2224 8th Ave",
+      "city" : "Seattle",
+      "region" : "WA",
+      "postal_code" : "98121",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "179.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "179.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 206 624-6820"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 206 467-6926"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq0436gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://436.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0EAI7",
+      "room_type_code" : "A2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "179.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 179.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "Two Queen Beds/Nonsmoking", "Ultra Fast Free WIFI/Free Breakfast" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQSEA436?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWSEA128",
+    "property_name" : "Best Western Plus Pioneer Sqr",
+    "location" : {
+      "latitude" : 47.60162,
+      "longitude" : -122.33539
+    },
+    "address" : {
+      "line1" : "77 Yesler Way",
+      "city" : "Seattle",
+      "region" : "WA",
+      "postal_code" : "98104",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "179.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "179.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-206-3401234"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-206-4670707"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B1KMILC",
+      "room_type_code" : "B1K",
+      "rate_plan_code" : "MIL",
+      "total_amount" : {
+        "amount" : "179.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 179.0
+      } ],
+      "descriptions" : [ "GOVT/MILITARY RATE* GOVERNMENT/MILTARY", "1 KING BED,NSMK,HI SPEED NET,COFMKR,IRON,HAIR,", "CONTINENTAL BREAKFAST" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "MIL"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWSEA128?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SISEA506",
+    "property_name" : "Sheraton Bellevue Hotel",
+    "location" : {
+      "latitude" : 47.611,
+      "longitude" : -122.191
+    },
+    "address" : {
+      "line1" : "100 112th Avenue Ne",
+      "city" : "Bellevue",
+      "region" : "WA",
+      "postal_code" : "98004",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "180.25",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "157.56",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 425 455-3330"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 425 451-2473"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "sheratonbellevue@sheratonbellevue.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "",
+      "ota_code" : 42,
+      "description" : "Free parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "S1KZ1D",
+      "room_type_code" : "S1K",
+      "rate_plan_code" : "Z1D",
+      "total_amount" : {
+        "amount" : "180.25",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 157.56
+      } ],
+      "descriptions" : [ "1 KING:MOVIE PKG", "SHERATON MOVIE PACKAGE. ENJOY THE IN ROOM MOVIE", "AND POP CORN COMBO." ],
+      "room_type_info" : {
+        "room_type" : "Suite",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "Z1D"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SISEA506?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WKSEAWAR",
+    "property_name" : "Warwick Seattle",
+    "location" : {
+      "latitude" : 47.61388,
+      "longitude" : -122.34099
+    },
+    "address" : {
+      "line1" : "401 Lenora Street",
+      "city" : "Seattle",
+      "region" : "WA",
+      "postal_code" : "98121",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "183.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "183.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-206-4434300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-206-4481662"
+    }, {
+      "type" : "URL",
+      "detail" : "http //warwickhotels.com/seattle/"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "ROHSNR",
+      "room_type_code" : "ROH",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "183.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 183.0
+      } ],
+      "descriptions" : [ "SENIOR RATE ", "Room bedding location hotel-choice Room location based on ", "availability at check-in 1 or 2 beds. Rooms are assigned at " ],
+      "room_type_info" : { },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WKSEAWAR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RCSEAWAR",
+    "property_name" : "Residence Inn Bellevu Marriott",
+    "location" : {
+      "latitude" : 47.63386,
+      "longitude" : -122.14653
+    },
+    "address" : {
+      "line1" : "14455 Ne 29th Pl",
+      "city" : "Bellevue",
+      "region" : "WA",
+      "postal_code" : "98007",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "188.97",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "164.90",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-425-8821222"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-425-8859260"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "188.97",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 164.9
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 Queen, Sofa bed, Fully equipped kitchen, Micr", "owave, 565sqft/51sqm, Living/sitting area, Dini" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RCSEAWAR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CYSEACHC",
+    "property_name" : "Courtyard Bellevue Marriott",
+    "location" : {
+      "latitude" : 47.63499,
+      "longitude" : -122.14595
+    },
+    "address" : {
+      "line1" : "14615 Northeast 29th Place",
+      "city" : "Bellevue",
+      "region" : "WA",
+      "postal_code" : "98007",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "191.38",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "167.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-425-8695300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-425-8839122"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "191.38",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 167.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Queen, Mini fridge, 336sqft/30sqm, Living/sit", "ting area, Wireless internet, complimentary, Co" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CYSEACHC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RCSEARIR",
+    "property_name" : "Residence Inn Bell Dt Marriott",
+    "location" : {
+      "latitude" : 47.6039,
+      "longitude" : -122.18626
+    },
+    "address" : {
+      "line1" : "605 114th Ave Se",
+      "city" : "Bellevue",
+      "region" : "WA",
+      "postal_code" : "98004",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "193.33",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "169.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-425-6378500"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-425-6378504"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "193.33",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 169.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 King, Sofa bed, Fully equipped kitchen, Micro", "wave, 354sqft/32sqm, Living/sitting area, Wirel" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RCSEARIR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CYSEATCC",
+    "property_name" : "Courtyard Kirkland Marriott",
+    "location" : {
+      "latitude" : 47.71107,
+      "longitude" : -122.19125
+    },
+    "address" : {
+      "line1" : "11215 Ne 124th Street",
+      "city" : "Kirkland",
+      "region" : "WA",
+      "postal_code" : "98034-4302",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "201.19",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "179.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-425-6023200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-425-6023220"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XCYE00",
+      "room_type_code" : "XCY",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "201.19",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-07",
+        "end_date" : "2018-10-08",
+        "currency_code" : "USD",
+        "price" : 179.0
+      } ],
+      "descriptions" : [ "Book Early, Save Big Advance Purchase, see Rate", "2 Queen, Mini fridge, Microwave, 385sqft/35sqm,", " Wireless internet, complimentary, Wired intern" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CYSEATCC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-07&check_out=2018-10-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

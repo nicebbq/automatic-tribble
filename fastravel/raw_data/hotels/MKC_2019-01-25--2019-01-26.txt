@@ -1,0 +1,98 @@
+{
+  "results" : [ {
+    "property_code" : "DRMCI027",
+    "property_name" : "Drury Inn And Suites Shawnee Mission",
+    "location" : {
+      "latitude" : 39.01362,
+      "longitude" : -94.69049
+    },
+    "address" : {
+      "line1" : "9009 Shawnee Mission Parkway",
+      "city" : "Merriam",
+      "region" : "KS",
+      "postal_code" : "66202",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "109.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "109.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-913-2369200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-800-8138340"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N4KWKD",
+      "room_type_code" : "N4K",
+      "rate_plan_code" : "WKD",
+      "total_amount" : {
+        "amount" : "109.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-25",
+        "end_date" : "2019-01-26",
+        "currency_code" : "USD",
+        "price" : 109.99
+      } ],
+      "descriptions" : [ "WEEKEND RATE", "1 KING ADA ACCESS NONSMK FREE HOT BKFST WIFI", "EVENING HOT FOOD DRINKS MICRO FRIDGE FITNESS" ],
+      "room_type_info" : {
+        "number_of_beds" : "4",
+        "bed_type" : "King",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "WKD"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DRMCI027?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-25&check_out=2019-01-26&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

@@ -1,0 +1,96 @@
+{
+  "results" : [ {
+    "property_code" : "HYANCDUY",
+    "property_name" : "Hyatt House Anchorage",
+    "location" : {
+      "latitude" : 61.1742,
+      "longitude" : -149.88792
+    },
+    "address" : {
+      "line1" : "5141 Business Park Blvd",
+      "city" : "Anchorage",
+      "region" : "AK",
+      "postal_code" : "99503",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "98.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "98.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-907-992-2200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-907-562-0396"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "DKXADPR",
+      "room_type_code" : "DKX",
+      "rate_plan_code" : "***",
+      "total_amount" : {
+        "amount" : "98.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 98.1
+      } ],
+      "descriptions" : [ "ADV PURCHASE* DEN K NO SFBD", "DEN ROOM:1 KING NO SOFABED:NON SMOKING" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Minimum"
+      },
+      "rate_type_code" : "***"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HYANCDUY?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

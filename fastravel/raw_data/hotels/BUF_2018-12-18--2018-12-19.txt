@@ -1,0 +1,132 @@
+{
+  "results" : [ {
+    "property_code" : "RFBUF137",
+    "property_name" : "Red Roof Buffalo-niagara Airport",
+    "marketing_text" : "Two buildings, 2 floors, exterior corridors, no elevator, no meeting room",
+    "location" : {
+      "latitude" : 42.94873,
+      "longitude" : -78.69414
+    },
+    "address" : {
+      "line1" : "146 Maple Drive",
+      "city" : "Bowmansville",
+      "region" : "NY",
+      "postal_code" : "14026",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "75.40",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "66.29",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-716-633-1100"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-716-633-2297"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "i0137@redroof.com"
+    }, {
+      "type" : "URL",
+      "detail" : "i0137@redroof.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "2"
+    }, {
+      "provider" : "Northstar Travel Media",
+      "rating" : "2"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1SAAA",
+      "room_type_code" : "H1S",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "75.40",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-18",
+        "end_date" : "2018-12-19",
+        "currency_code" : "USD",
+        "price" : 66.29
+      } ],
+      "descriptions" : [ "AMER. AUTO. ASSN. ", "ADA ACCESSIBLE SUPERIOR KING SMOKE-FREE with Free WiFi and Roll-", "In Shower Our Best Room also includes Flat Screen TV-Microwave " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "Single",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RFBUF137?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-18&check_out=2018-12-19&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

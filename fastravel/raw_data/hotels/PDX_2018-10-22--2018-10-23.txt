@@ -1,0 +1,2333 @@
+{
+  "results" : [ {
+    "property_code" : "MXPDX070",
+    "property_name" : "Motel 6 Portland Central",
+    "location" : {
+      "latitude" : 45.49673,
+      "longitude" : -122.63343
+    },
+    "address" : {
+      "line1" : "3104-06 Se Powell Blvd",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97202",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "80.70",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "69.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-238-0600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-238-7167"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "U1QRACK",
+      "room_type_code" : "U1Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "80.70",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 69.99
+      } ],
+      "descriptions" : [ "RACK", "1 QUEEN BED / ADA ACCESSIBLE" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXPDX070?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXPDX485",
+    "property_name" : "Park Lane Suites And Inn",
+    "location" : {
+      "latitude" : 45.52234,
+      "longitude" : -122.69581
+    },
+    "address" : {
+      "line1" : "809 Sw King Ave",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97205",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "90.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "90.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-2266288"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-2740038"
+    }, {
+      "type" : "URL",
+      "detail" : "www.parklanesuites.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QARP",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "ARP",
+      "total_amount" : {
+        "amount" : "90.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 90.0
+      } ],
+      "descriptions" : [ "AARP 10% MEMBER DISCOUNT ", "Standard room -one queen bed -32 inch TV -private bathroom -free", "wi-fi. Standard room with one queen bed. Features 32-inch flat " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "ARP"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXPDX485?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXPDXD95",
+    "property_name" : "Motel 6 Portland North",
+    "location" : {
+      "latitude" : 45.58983,
+      "longitude" : -122.67924
+    },
+    "address" : {
+      "line1" : "1125 N Schmeer Rd",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97217",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "115.29",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "99.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-247-3700"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-247-8001"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "QSFRACK",
+      "room_type_code" : "QSF",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "115.29",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 99.99
+      } ],
+      "descriptions" : [ "RACK", "1 QUEEN BED / SMOKING MICFRIDGE" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXPDXD95?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWPDX106",
+    "property_name" : "Best Western Inn At Meadows",
+    "marketing_text" : "Discover comfort and value beyond your expectations at the best western inn at the meadows. Relax in one of our spacious, warmly decorated guest rooms, or choose a hospitality suite to entertain friends or hold small meetings.",
+    "location" : {
+      "latitude" : 45.59423,
+      "longitude" : -122.68068
+    },
+    "address" : {
+      "line1" : "1215 N Hayden Meadows Drive",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97217",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "130.88",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "113.51",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-2869600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-2868020"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KDB6C",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "130.88",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 113.51
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "1 KING BED,NSMK,MICROWV,REFRIGE,WIFI,DESK,", "COFMKR,FULL BREAKFAST" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWPDX106?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RDPDX758",
+    "property_name" : "Radisson Htl Portland Airport",
+    "marketing_text" : "With a prime Portland location minutes from great golf, downtown Portland and Portland International Airport, the Radisson Hotel Portland Airport offers the kind of warm hospitality, inviting atmosphere and topnotch services sure to please.",
+    "location" : {
+      "latitude" : 45.56892,
+      "longitude" : -122.58266
+    },
+    "address" : {
+      "line1" : "6233 North East 78th Court",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97218",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "136.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "136.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 503 251-2000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 503 253-9306"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "rhi_poap@radisson.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.radisson.com/portlandor_airport"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "IA02413",
+      "room_type_code" : "O2Q",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "136.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 136.0
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE-SAVE 15PCT", "2 QUEEN BEDS-NON SMOKING", "-FULL PREPAYMENT - NON-REFUNDABLE" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RDPDX758?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CXPDX962",
+    "property_name" : "Country Inn Suites Portland",
+    "marketing_text" : "The Country Inn & Suites - Portland Airport offers a quiet, park like setting away from the main airport strip, just two miles from the Portland Airport and Cascade Station Shopping Center. Comp shuttle, breakfast buffet, and WiFi.",
+    "location" : {
+      "latitude" : 45.5742,
+      "longitude" : -122.58279
+    },
+    "address" : {
+      "line1" : "7025 Ne Alderwood Rd",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97218",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "144.50",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "144.50",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 503 255-2700"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 503 255-4700"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "cx_prld@countryinn.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.countryinns.com/portlandor_arpt"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "IA02997",
+      "room_type_code" : "O2Q",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "144.50",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 144.5
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE-SAVE 15PCT", "2 QUEEN BEDS-NON SMOKING", "-FULL PREPAYMENT - NON-REFUNDABLE" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CXPDX962?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWPDX169",
+    "property_name" : "Best Western Plus Portland Airport",
+    "location" : {
+      "latitude" : 45.56647,
+      "longitude" : -122.53993
+    },
+    "address" : {
+      "line1" : "11938 Ne Airport Way",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97220",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "146.02",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "126.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-2519991"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-2519992"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "W1KDB6B",
+      "room_type_code" : "W1K",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "146.02",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 126.65
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "ACCESSIBLE - 1 KING,MOBILITY ACCESSIBLE,", "BATHTUB,NSMK,FULL BREAKFAST" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room at weekend rate"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWPDX169?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HIPDXC65",
+    "property_name" : "Holiday Inn Airport",
+    "marketing_text" : "All that Portland offers awaits our hotel guests. We're two minutes from the airport's MAX Light Rail terminal and 10 miles from downtown.",
+    "location" : {
+      "latitude" : 45.56443,
+      "longitude" : -122.57525
+    },
+    "address" : {
+      "line1" : "8439 Ne Columbia Blvd",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97220 1382",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "155.66",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "135.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-2565000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-2565631"
+    }, {
+      "type" : "URL",
+      "detail" : "www.holidayinn.com/portland-i205"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "STN482G",
+      "room_type_code" : "*RH",
+      "rate_plan_code" : "482",
+      "total_amount" : {
+        "amount" : "155.66",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 135.0
+      } ],
+      "descriptions" : [ "BOOK EARLY N SAVE NO REFUNDS", "STANDARD ROOM WHEN YOU ARRIVE AT THE HOTEL WE", "WILL DO OUR BEST TO MEET YOUR SMOKE FREE ROOM" ],
+      "room_type_info" : {
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "482"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HIPDXC65?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RCPDXLOR",
+    "property_name" : "Residence Inn Oswego Marriott",
+    "location" : {
+      "latitude" : 45.4157,
+      "longitude" : -122.74223
+    },
+    "address" : {
+      "line1" : "15200  Sw Bangy Rd",
+      "city" : "Lake Oswego",
+      "region" : "OR",
+      "postal_code" : "97035",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "165.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "165.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-6842603"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-6206712"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "165.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 165.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 Queen, Sofa bed, Fully equipped kitchen, Micr", "owave, 540sqft/49sqm, Living/sitting area, Dini" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RCPDXLOR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RCPDXPDR",
+    "property_name" : "Residence Inn Pearl Marriott",
+    "location" : {
+      "latitude" : 45.53141,
+      "longitude" : -122.68015
+    },
+    "address" : {
+      "line1" : "1150 Nw 9th Ave.",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97209",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "169.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "169.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-2201339"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-2201348"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "169.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 169.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 King, Sofa bed, Fully equipped kitchen, Micro", "wave, Living/sitting area, Dining area, Wireles" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RCPDXPDR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BTPDXOSX",
+    "property_name" : "Oxford Suites Portland",
+    "location" : {
+      "latitude" : 45.61127,
+      "longitude" : -122.67647
+    },
+    "address" : {
+      "line1" : "12226 N. Jantzen Drive",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97217",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "169.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "147.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-2833030"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-7351661"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.oxfordsuitesportland.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "J1KAAA",
+      "room_type_code" : "J1K",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "169.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 147.0
+      } ],
+      "descriptions" : [ "AAA RATE ", "Studio King Suite one king bed sitting area Studio King Suite ", "one king bed sitting area Refridgerator Microwave Free WiFi " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath/shower - Moderate"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BTPDXOSX?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HYPDXAPT",
+    "property_name" : "Hyatt Place Pdx Arpt Cascade Station",
+    "marketing_text" : "Hyatt Place Portland Airport is located within one mile of the Portland International Airport-PDX , and in the Cascade Station shopping area, on the MAX line.  Near the Columbia River Gorge Recreation area and just minutes from the city of Vancouver.",
+    "location" : {
+      "latitude" : 45.57405,
+      "longitude" : -122.56273
+    },
+    "address" : {
+      "line1" : "9750 Northeast Cascades Pkwy",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97220",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "170.05",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "170.05",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-288-2808"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-288-2809"
+    }, {
+      "type" : "URL",
+      "detail" : "http://portlandairport.place.hyatt.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SOLARIUM",
+      "ota_code" : 83,
+      "description" : "Solarium"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "QQNADPR",
+      "room_type_code" : "QQN",
+      "rate_plan_code" : "***",
+      "total_amount" : {
+        "amount" : "170.05",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 170.05
+      } ],
+      "descriptions" : [ "ADV PURCHASE* 2 QUEEN BEDS", "HYATT GRAND BED:COZY CORNER SOFA-SLEEPER" ],
+      "room_type_info" : { },
+      "rate_type_code" : "***"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HYPDXAPT?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "ALPDX043",
+    "property_name" : "Aloft Portland Aiport",
+    "location" : {
+      "latitude" : 45.57324,
+      "longitude" : -122.56002
+    },
+    "address" : {
+      "line1" : "9920 Ne Cascades Parkway",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97220",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "186.30",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "186.30",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 503 200-5678"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 503 200-5244"
+    } ],
+    "amenities" : [ {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 42,
+      "description" : "Free parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KDO0",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "DO0",
+      "total_amount" : {
+        "amount" : "186.30",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 186.3
+      } ],
+      "descriptions" : [ "1 KING:PREPAID RATE", "ALOFT NON-SMOKING-285 SQ FT:FREE HIGH-SPEED", "INTERNET:42 INCH FLAT SCREEN LCD TV:OVERSIZED" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "DO0"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/ALPDX043?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BTPDX512",
+    "property_name" : "Hotel Rose",
+    "location" : {
+      "latitude" : 45.51744,
+      "longitude" : -122.67288
+    },
+    "address" : {
+      "line1" : "50 Sw Morrison",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97204 3390",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "188.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "188.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-2210711"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-4841417"
+    }, {
+      "type" : "URL",
+      "detail" : "www.hotelroseportland.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1QPRO",
+      "room_type_code" : "A1Q",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "188.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 188.0
+      } ],
+      "descriptions" : [ "YOUNG AT HEART ", "Waterfront Queen-MP3-walk-in shower Waterfront Queen-MP3-walk-in", "shower bathrobes-TV-WiFi-laptop safe-voicemail-desk " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BTPDX512?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SCPDX723",
+    "property_name" : "The Grand Hotel At Bridgeport",
+    "location" : {
+      "latitude" : 45.3937,
+      "longitude" : -122.75014
+    },
+    "address" : {
+      "line1" : "7265 Sw Hazelfern Rd",
+      "city" : "Tigard",
+      "region" : "OR",
+      "postal_code" : "97224",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "192.68",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "170.05",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-9685757"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-9685755"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "F1KARP",
+      "room_type_code" : "F1K",
+      "rate_plan_code" : "ARP",
+      "total_amount" : {
+        "amount" : "192.68",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 170.05
+      } ],
+      "descriptions" : [ "Includes complimentary hot breakfast buffet,", "WIFI and parking", "NS Accessible Classic King-Free WIFI-Coffee" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Moderate"
+      },
+      "rate_type_code" : "ARP"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SCPDX723?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WXPDXBEN",
+    "property_name" : "The Benson. A Coast Hotel",
+    "location" : {
+      "latitude" : 45.52183,
+      "longitude" : -122.67844
+    },
+    "address" : {
+      "line1" : "309 S.w.broadway",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97205",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "199.47",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "173.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-228-2000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-471-3920"
+    } ],
+    "amenities" : [ {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "Deluxe"
+    }, {
+      "provider" : "AAA",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B1QAAA",
+      "room_type_code" : "B1Q",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "199.47",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 173.0
+      } ],
+      "descriptions" : [ "Triple AAA  10% Off", "Classic Queen 250 SqFt NS", "Applicable for Coast Rewards points, " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Moderate"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WXPDXBEN?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXPDXHHP",
+    "property_name" : "The Heathman Hotel Portland",
+    "location" : {
+      "latitude" : 45.51727,
+      "longitude" : -122.68087
+    },
+    "address" : {
+      "line1" : "1001 Sw Broadway",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97205",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "202.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "202.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-2414100"
+    }, {
+      "type" : "FAX",
+      "detail" : "001-503-790 7110"
+    }, {
+      "type" : "URL",
+      "detail" : "www.heathmanhotel.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ROOM_SERVICE_24_HOURS",
+      "ota_code" : 2,
+      "description" : "24-hour room service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "4"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "4"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "E1KP10",
+      "room_type_code" : "E1K",
+      "rate_plan_code" : "P10",
+      "total_amount" : {
+        "amount" : "202.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 202.99
+      } ],
+      "descriptions" : [ "BUY IT NOW NON-REFUNDABLE RATE ", "Corner King " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Superior"
+      },
+      "rate_type_code" : "P10"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXPDXHHP?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CYPDXNHC",
+    "property_name" : "Courtyard North Harb Marriott",
+    "marketing_text" : "Courtyard by marriott surrounds travelers with the conveniences that make business and pleasure travel easy.",
+    "location" : {
+      "latitude" : 45.60474,
+      "longitude" : -122.67879
+    },
+    "address" : {
+      "line1" : "1231 North Anchor Way At Marin",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97217",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "205.23",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "178.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-7351818"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-7350888"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "205.23",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 178.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Double, Mini fridge, Microwave, 325sqft/29sqm", ", Wireless internet, complimentary, Coffee/tea " ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CYPDXNHC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SIPDX881",
+    "property_name" : "Sheraton Pdx Airport",
+    "location" : {
+      "latitude" : 45.58307,
+      "longitude" : -122.57473
+    },
+    "address" : {
+      "line1" : "8235 Northeast Airport Way",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "97220",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "208.35",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "208.35",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 503 281-2500"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 503 249-7602"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "reservations@sheratonpdx.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "",
+      "ota_code" : 42,
+      "description" : "Free parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KDO0",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "DO0",
+      "total_amount" : {
+        "amount" : "208.35",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 208.35
+      } ],
+      "descriptions" : [ "1 KING:PREPAID RATE", "TRADITIONAL NON-SMOKING:SIGNATURE SLEEP", "EXPERIENCE:HIGH-SPEED INTERNET:42 INCH LED TV" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "DO0"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SIPDX881?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MCPDXORM",
+    "property_name" : "Portland Marriott Waterfront",
+    "marketing_text" : "Whether you're traveling for business, pleasure or planning a meeting, the portland marriott downtown focuses on what it takes to make your trip successful.",
+    "location" : {
+      "latitude" : 45.51268,
+      "longitude" : -122.67559
+    },
+    "address" : {
+      "line1" : "1401 Sw Naito Parkway",
+      "city" : "Portland",
+      "region" : "OR",
+      "postal_code" : "972015141",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "220.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "220.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-503-2267600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-503-2211789"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "220.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-22",
+        "end_date" : "2018-10-23",
+        "currency_code" : "USD",
+        "price" : 220.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "Standard View, 1 King or 2 Queen, 290sqft/26sqm", ", Wireless internet, for a fee, Coffee/tea make" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MCPDXORM?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-22&check_out=2018-10-23&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

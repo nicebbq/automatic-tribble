@@ -1,0 +1,352 @@
+{
+  "results" : [ {
+    "property_code" : "BWCVG111",
+    "property_name" : "Bw Plus Cincinnati Riverfront",
+    "location" : {
+      "latitude" : 39.08815,
+      "longitude" : -84.52468
+    },
+    "address" : {
+      "line1" : "200 Crescent Avenue",
+      "city" : "Covington",
+      "region" : "KY",
+      "postal_code" : "41011-1002",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "107.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "107.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-859-5817800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-859-5818282"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "W2QDB6B",
+      "room_type_code" : "W2Q",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "107.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-26",
+        "end_date" : "2019-01-27",
+        "currency_code" : "USD",
+        "price" : 107.1
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "ACCESSIBLE - 2 QUEEN,MOBACC,COMAST,ROLLSH,NSMK,", "FULL BREAKFAST" ],
+      "room_type_info" : {
+        "room_type" : "Room at weekend rate",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWCVG111?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-26&check_out=2019-01-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WICVGCIN",
+    "property_name" : "Westin Cincinnati",
+    "location" : {
+      "latitude" : 39.10102,
+      "longitude" : -84.51215
+    },
+    "address" : {
+      "line1" : "21 East 5th Street",
+      "city" : "Cincinnati",
+      "region" : "OH",
+      "postal_code" : "45202",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "169.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "169.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 513 621-7700"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 513 852-5670"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "info@westincincinnati.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B1KBZF",
+      "room_type_code" : "B1K",
+      "rate_plan_code" : "BZF",
+      "total_amount" : {
+        "amount" : "169.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-26",
+        "end_date" : "2019-01-27",
+        "currency_code" : "USD",
+        "price" : 169.0
+      } ],
+      "descriptions" : [ "1 KING:FLEXIBLE RATE", "TRADITIONAL NON-SMOKING:HEAVENLY BED:37IN LCD", "HDTV:IN-ROOM SAFE:HEAVENLY BATH" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "BZF"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WICVGCIN?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-26&check_out=2019-01-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXCVG21C",
+    "property_name" : "21c Museum Hotel Cincinnati",
+    "location" : {
+      "latitude" : 39.1031,
+      "longitude" : -84.51196
+    },
+    "address" : {
+      "line1" : "609 Walnut Street",
+      "city" : "Cincinnati",
+      "region" : "OH",
+      "postal_code" : "45202",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "224.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "224.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-513-5786600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-513-5786601"
+    }, {
+      "type" : "URL",
+      "detail" : "www.21cMuseumHotel.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A2QRA2",
+      "room_type_code" : "A2Q",
+      "rate_plan_code" : "RA2",
+      "total_amount" : {
+        "amount" : "224.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-26",
+        "end_date" : "2019-01-27",
+        "currency_code" : "USD",
+        "price" : 224.0
+      } ],
+      "descriptions" : [ "BEST AVAILABLE RATE-ROOM ONLY ", "Two Queen Beds -HDTV Flat Screen TV -Free Wi-Fi -Free Turndown ", "Service -24hr Art Museum-24hr Fitness Center -Plush Robes -" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RA2"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXCVG21C?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-26&check_out=2019-01-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

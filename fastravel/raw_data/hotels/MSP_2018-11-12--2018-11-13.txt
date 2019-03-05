@@ -1,0 +1,2404 @@
+{
+  "results" : [ {
+    "property_code" : "MXMSP759",
+    "property_name" : "Motel 6 Minneapolis N Roseville",
+    "location" : {
+      "latitude" : 45.01164,
+      "longitude" : -93.18443
+    },
+    "address" : {
+      "line1" : "2300 Cleveland Ave N",
+      "city" : "Roseville",
+      "region" : "MN",
+      "postal_code" : "55113",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "70.47",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "63.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-651-639-3988"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-651-633-5748"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "U1QRACK",
+      "room_type_code" : "U1Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "70.47",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 63.99
+      } ],
+      "descriptions" : [ "RACK", "1 QUEEN BED / STANDARD ACCESSIBLE, WOOD-EFFECT", "FLOORS" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXMSP759?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "FNMSPAPF",
+    "property_name" : "Fairfield Inn N Stes Marriott",
+    "marketing_text" : "Just minutes to the minneapolis/st. Paul international airport and the mall of america. Complimentary shuttle service is available from 6 am to 11 pm to the mall and the airport.",
+    "location" : {
+      "latitude" : 44.86322,
+      "longitude" : -93.16306
+    },
+    "address" : {
+      "line1" : "1330 Northland Drive",
+      "city" : "Mendota Heights",
+      "region" : "MN",
+      "postal_code" : "55120",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "89.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "84.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-651-4541978"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-651-4541978"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMID00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "89.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 84.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 Queen, Wireless internet, complimentary, Coff", "ee/tea maker, 32in/81cm LCD TV" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/FNMSPAPF?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DIMSP947",
+    "property_name" : "Days Inn St. Paul-minneapolis",
+    "location" : {
+      "latitude" : 44.95759,
+      "longitude" : -93.18285
+    },
+    "address" : {
+      "line1" : "1964 University Ave W",
+      "city" : "St Paul",
+      "region" : "MN",
+      "postal_code" : "55104",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "96.75",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "84.96",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-651-6458681"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-651-6450243"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H2DSP1",
+      "room_type_code" : "H2D",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "96.75",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 84.96
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "2 Double Beds Accessible SMK with large bathroom, raised ", "toilet,safty bars and WiFi. " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DIMSP947?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MUMSPMIN",
+    "property_name" : "Millennium Minneapolis",
+    "location" : {
+      "latitude" : 44.9707,
+      "longitude" : -93.27731
+    },
+    "address" : {
+      "line1" : "1313 Nicollet Mall",
+      "city" : "Minneapolis",
+      "region" : "MN",
+      "postal_code" : "55403",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "101.15",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "101.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-612-3326000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-612-3592160"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H12AD1",
+      "room_type_code" : "H12",
+      "rate_plan_code" : "AD1",
+      "total_amount" : {
+        "amount" : "101.15",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 101.15
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - 14 DAY LEAD TIME - RO - EX", "TAX - COMMISSIONABLE - NON REFUNDABLE.", "ACCESSIBLE SUPERIOR 1 KING 16 SQM- ROLL IN" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "AD1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MUMSPMIN?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SNMSPEAR",
+    "property_name" : "Sonesta Es Minneapolis St Paul",
+    "location" : {
+      "latitude" : 44.84609,
+      "longitude" : -93.15766
+    },
+    "address" : {
+      "line1" : "3040 Eagandale Place",
+      "city" : "Eagan",
+      "region" : "MN",
+      "postal_code" : "55121",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "113.65",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "103.20",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-651-6880363"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-651-6889462"
+    }, {
+      "type" : "URL",
+      "detail" : "www.sonesta.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "Moderate Deluxe"
+    }, {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "S1KSEN",
+      "room_type_code" : "S1K",
+      "rate_plan_code" : "SEN",
+      "total_amount" : {
+        "amount" : "113.65",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 103.2
+      } ],
+      "descriptions" : [ "SONESTA 55+ ", "Studio Suite with king Free Wifi-Full Kitchen -Free Buffet ", "Breakfast 550 sq ft -Cable television with free premium movie " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "SEN"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SNMSPEAR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWMSP091",
+    "property_name" : "Bw Plus Normandy Inn Suites",
+    "location" : {
+      "latitude" : 44.97333,
+      "longitude" : -93.26723
+    },
+    "address" : {
+      "line1" : "405 S 8th Street",
+      "city" : "Minneapolis",
+      "region" : "MN",
+      "postal_code" : "55404",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "118.15",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "118.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-612-370-1400"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-612-370-0351"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2QDB6C",
+      "room_type_code" : "C2Q",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "118.15",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 118.15
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "2 QUEEN BEDS,NSMK,DUVETS,DESK", "STANDARD" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWMSP091?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWMSP143",
+    "property_name" : "Best Western Plus St. Paul",
+    "location" : {
+      "latitude" : 45.0602,
+      "longitude" : -93.1431
+    },
+    "address" : {
+      "line1" : "1000 Gramsie Rd",
+      "city" : "Shoreview",
+      "region" : "MN",
+      "postal_code" : "55216-2949",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "130.70",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "118.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-651-4820402"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-651-4828917"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "W1KDB6C",
+      "room_type_code" : "W1K",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "130.70",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 118.15
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "ACCESSIBLE - 1 KING,MOBACC,COMAST,ROLLSH,NSMK,", "FULL BREAKFAST" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room at weekend rate"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWMSP143?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LZMSP601",
+    "property_name" : "Loews Minneapolis Hotel",
+    "location" : {
+      "latitude" : 44.97897,
+      "longitude" : -93.27512
+    },
+    "address" : {
+      "line1" : "601 1st Avenue North",
+      "city" : "Minneapolis",
+      "region" : "MN",
+      "postal_code" : "55403",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "136.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "136.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-612-6771100"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-612-6771200"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.loewshotels.com/minneapolis-hotel/"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ROOM_SERVICE_24_HOURS",
+      "ota_code" : 2,
+      "description" : "24-hour room service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 92,
+      "description" : "Translation services"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "4"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "4"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1SAAA",
+      "room_type_code" : "H1S",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "136.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 136.0
+      } ],
+      "descriptions" : [ "AAA ", "SUP ONE KG BD. ADA FEAT. FREE WIFI. 375 SQ. FT. RI SHWR. HDTV. ", "STOCKED MINI-BAR. CALL HTL FOR ADA FEAT. " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Single",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LZMSP601?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SIMSP546",
+    "property_name" : "Sheraton Minneapolis Midtown",
+    "location" : {
+      "latitude" : 44.94996,
+      "longitude" : -93.26194
+    },
+    "address" : {
+      "line1" : "2901 Chicago Avenue South",
+      "city" : "Minneapolis",
+      "region" : "MN",
+      "postal_code" : "55407",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "136.57",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "136.57",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 612 821-7600"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 612 821-7924"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "sheraton.minneapolis@sheratonmidtown.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KYR1",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "YR1",
+      "total_amount" : {
+        "amount" : "136.57",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 136.57
+      } ],
+      "descriptions" : [ "1 KING:LIMITED TIME OFFER -", "PREPAID RATE :", "TRADITIONAL NON-SMOKING:SWEET SLEEPER BED:FREE" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "YR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SIMSP546?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DTMSP852",
+    "property_name" : "Doubletree By Hilton",
+    "location" : {
+      "latitude" : 45.07433,
+      "longitude" : -93.30893
+    },
+    "address" : {
+      "line1" : "2200 Freeway Boulevard",
+      "city" : "Minneapolis",
+      "region" : "MN",
+      "postal_code" : "55430",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "139.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "122.88",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 763 566-8000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 763 489-2588"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A08BL2",
+      "room_type_code" : "F1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "139.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 122.88
+      } ],
+      "descriptions" : [ "SEMI-FLEX", "1 KING MOBILITY/HEARING ACCESS TUB", "VIS FIREALRM/DOOR/PHN ALRT - COMP WIFI" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Moderate"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DTMSP852?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DEMSPDED",
+    "property_name" : "Delta By Marriott Mpls Ne",
+    "location" : {
+      "latitude" : 45.00241,
+      "longitude" : -93.213
+    },
+    "address" : {
+      "line1" : "1330 Industrial Blvd Ne",
+      "city" : "Minneapolis",
+      "region" : "MN",
+      "postal_code" : "55413",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "144.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "144.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-612-3311900"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-612-3316827"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "144.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 144.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Queen, Mini fridge, 322sqft/29sqm, Living/sit", "ting area, Wireless internet, complimentary, Wi" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DEMSPDED?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HYMSPZGS",
+    "property_name" : "Hyatt Place Minneapolis Downtown",
+    "marketing_text" : "The Hyatt Pace Minneapolis Downtown is perfectly situated in downtown Minneapolis.  Connected to the cities iconic climate controlled Syway, you are mere minutes away from shopping, restaurants and nightlife.",
+    "location" : {
+      "latitude" : 44.97409,
+      "longitude" : -93.26621
+    },
+    "address" : {
+      "line1" : "425 7th Street South",
+      "city" : "Minneapolis",
+      "region" : "MN",
+      "postal_code" : "55415",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "146.02",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "146.02",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 612 333-3111"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 612 333-7425"
+    }, {
+      "type" : "URL",
+      "detail" : "http://minneapolisdowntown.place.hyatt.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "QQNADPR",
+      "room_type_code" : "QQN",
+      "rate_plan_code" : "***",
+      "total_amount" : {
+        "amount" : "146.02",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 146.02
+      } ],
+      "descriptions" : [ "ADV PURCHASE* 2 QUEEN BEDS", "HYATT GRAND BED:COZY CORNER SOFA-SLEEPER" ],
+      "room_type_info" : { },
+      "rate_type_code" : "***"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HYMSPZGS?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "ESMSP763",
+    "property_name" : "Embassy Minneapolis-north",
+    "location" : {
+      "latitude" : 45.06829,
+      "longitude" : -93.30461
+    },
+    "address" : {
+      "line1" : "6300 Earle Brown Drive",
+      "city" : "Brooklyn Center",
+      "region" : "MN",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "146.45",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "129.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 763 560-2700"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 763 560-2701"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A05LV8",
+      "room_type_code" : "B2Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "146.45",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 129.0
+      } ],
+      "descriptions" : [ "BEST AVAILABLE RATE", "2 ROOM SUITE-2 QUEEN BEDS-NONSMOKING", "WIFI AVL-SLEEPER SOFA-MICROWAVE-REFRIGERATOR" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Moderate"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/ESMSP763?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HXMSPFT1",
+    "property_name" : "Hampton Inn Minneapolis Eagan",
+    "location" : {
+      "latitude" : 44.84736,
+      "longitude" : -93.15697
+    },
+    "address" : {
+      "line1" : "3000 Eagandale Place",
+      "city" : "Eagan",
+      "region" : "MN",
+      "postal_code" : "55121",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "147.57",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "134.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 651 688-3343"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 651 688-9949"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0QA3K",
+      "room_type_code" : "E2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "147.57",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 134.0
+      } ],
+      "descriptions" : [ "SHOP AND DROP", "2 QUEEN MOBILITY/HEARING ACCESS W/TUB NOSMOK", "VIS FIREALRM/DOOR/PHN ALRT/HDTV" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with shower - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HXMSPFT1?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HIMSPC7E",
+    "property_name" : "Holiday Inn Exp And Stes",
+    "marketing_text" : "Our Minneapolis hotel offers fantastic deals and an array of complimentary services, such as our weekday scheduled shuttle to and from businesses within a five-mile radius, excluding downtown Minneapolis. Group rates may apply.",
+    "location" : {
+      "latitude" : 44.97132,
+      "longitude" : -93.35673
+    },
+    "address" : {
+      "line1" : "6051 Golden Hills Dr",
+      "city" : "Minneapolis",
+      "region" : "MN",
+      "postal_code" : "55416",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "149.20",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "134.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-763-5458300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-763-5453139"
+    }, {
+      "type" : "URL",
+      "detail" : "www.hiexpress.com/msp-golden"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "2QN013A",
+      "room_type_code" : "*2Q",
+      "rate_plan_code" : "013",
+      "total_amount" : {
+        "amount" : "149.20",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 134.99
+      } ],
+      "descriptions" : [ "BEST FLEXIBLE RATE", "2 QUEEN BEDS NONSMOKING A MICRO FRIDGE HELP", "MAKE YOU FEEL AT HOME IN THIS LARGE 2 QUEEN" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "013"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HIMSPC7E?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "NZMSP168",
+    "property_name" : "Luminn Hotel Minneapolis An Ascend Hotel",
+    "marketing_text" : "luMINN Hotel Minneapolis/an Ascend Hotel Collection Member/helps\ryou focus on the destination in a new way.\r",
+    "location" : {
+      "latitude" : 44.97799,
+      "longitude" : -93.26645
+    },
+    "address" : {
+      "line1" : "219 4th St South",
+      "city" : "Minneapolis/st Paul",
+      "region" : "MN",
+      "postal_code" : "55401",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "152.07",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "134.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-612-338-3500"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-612-605-0033"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Z81ASNR",
+      "room_type_code" : "N1Q",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "152.07",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 134.1
+      } ],
+      "descriptions" : [ "Senior/AARP Rate Age 60 or Older", "1Q/NonSmoking/Suite/Efficiency/1 Room Suite/", "Sofabed-2Person/Kitchenette-Limited Equipment/" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/NZMSP168?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HYMSPGR7",
+    "property_name" : "Hyatt Place St. Paul Downtown",
+    "marketing_text" : "Hyatt Place offers 149 spacious guest rooms close to the best that Lowertown, Saint Paul has to offer, including numerous restaurants, bars, entertainment options, and parks. ",
+    "location" : {
+      "latitude" : 44.94657,
+      "longitude" : -93.08705
+    },
+    "address" : {
+      "line1" : "180 East Kellogg Blvd",
+      "city" : "St. Paul",
+      "region" : "MN",
+      "postal_code" : "55101",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "152.71",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "134.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 651 647-5000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 651 647-5001"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "rachellle.schmitt@hyatt.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://stpaul.place.hyatt.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "QENADPR",
+      "room_type_code" : "QEN",
+      "rate_plan_code" : "***",
+      "total_amount" : {
+        "amount" : "152.71",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 134.1
+      } ],
+      "descriptions" : [ "ADV PURCHASE* QUEEN SFBD", "HYATT GRAND BED:COZY CORNER SOFA-SLEEPER" ],
+      "room_type_info" : { },
+      "rate_type_code" : "***"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HYMSPGR7?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HIMSP1EB",
+    "property_name" : "Holiday Inn Mpls Arpt Se-mall",
+    "location" : {
+      "latitude" : 44.85855,
+      "longitude" : -93.16627
+    },
+    "address" : {
+      "line1" : "2700 Pilot Knob Road",
+      "city" : "Eagan",
+      "region" : "MN",
+      "postal_code" : "55121",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "153.08",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "139.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-651-4543434"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-651-4544904"
+    }, {
+      "type" : "URL",
+      "detail" : "www.holidayinn.com/msp-apt-mall"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "KNG013A",
+      "room_type_code" : "*1K",
+      "rate_plan_code" : "013",
+      "total_amount" : {
+        "amount" : "153.08",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 139.0
+      } ],
+      "descriptions" : [ "BEST FLEXIBLE RATE", "1 KING BED NONSMOKING RELAX AFTER WORK OR", "LEISURE ON A COMFORTABLE KING SIZE BED. USE THE" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "013"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HIMSP1EB?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HIMSPB60",
+    "property_name" : "Holiday Inn Downtown",
+    "marketing_text" : "Unlike other downtown St. Paul hotels, our hotel is home to The Liffey, a one-of-a-kind, authentic Irish pub. Enjoy Old World charm, a cozy Irish atmosphere and delicious cuisine while dining here.",
+    "location" : {
+      "latitude" : 44.94454,
+      "longitude" : -93.10338
+    },
+    "address" : {
+      "line1" : "175 West 7th Street",
+      "city" : "Saint Paul",
+      "region" : "MN",
+      "postal_code" : "55102-2520",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "154.41",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "135.59",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-651-2251515"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-651-2251616"
+    }, {
+      "type" : "URL",
+      "detail" : "www.holidayinn.com/stpaulmn"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "2QN482G",
+      "room_type_code" : "*2Q",
+      "rate_plan_code" : "482",
+      "total_amount" : {
+        "amount" : "154.41",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 135.59
+      } ],
+      "descriptions" : [ "BOOK EARLY N SAVE NO REFUNDS", "TWO QUEEN BEDS NONSMOKE NEWLY RENOVATED 2 QUEEN", "GUEST ROOM. CONVENIENTLY LOCATED IN DOWNTOWN" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "482"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HIMSPB60?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RDMSP165",
+    "property_name" : "Radisson Red Minneapolis Downtown",
+    "marketing_text" : "164 Studios. Check in, order food for pick up at the OUIBar and check out using the RED App. Free unlimited high-speed Wi-Fi everywhere. Enjoy food and drink at the OUIBar KTCHN. 1000 square foot Events studio, that can hold up to 74 guests. ",
+    "location" : {
+      "latitude" : 44.97715,
+      "longitude" : -93.26062
+    },
+    "address" : {
+      "line1" : "609 3rd Street South",
+      "city" : "Minneapolis",
+      "region" : "MN",
+      "postal_code" : "55415",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "154.79",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "136.80",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 612 252-5400"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 612 339-5124"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "rhi_mpmn@radissonred.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.radissonred.com/minneapolis "
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "IA00181",
+      "room_type_code" : "O1K",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "154.79",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-12",
+        "end_date" : "2018-11-13",
+        "currency_code" : "USD",
+        "price" : 136.8
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE-SAVE 10PCT", "KING STUDIO SUITE-ACCESSIBLE-ROLLIN SHOWER-NSK", "-FULL PREPAYMENT - NON-REFUNDABLE" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RDMSP165?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-12&check_out=2018-11-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

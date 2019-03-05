@@ -1,0 +1,2060 @@
+{
+  "results" : [ {
+    "property_code" : "MXMCOA63",
+    "property_name" : "Motel 6 Orlando International Dr",
+    "location" : {
+      "latitude" : 28.46496,
+      "longitude" : -81.46276
+    },
+    "address" : {
+      "line1" : "5909 American Way",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32819",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "59.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "59.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-351-6500"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-352-5481"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "FEMALE_TRAVELER_ROOM",
+      "ota_code" : 110,
+      "description" : "Female traveler room/floor"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "U1BRACK",
+      "room_type_code" : "U1B",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "59.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 59.99
+      } ],
+      "descriptions" : [ "RACK", "1 FULL BED / ACCESSIBLE" ],
+      "room_type_info" : {
+        "room_type" : "Suite",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXMCOA63?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXMCO791",
+    "property_name" : "Motel 6 Orlando Winter Park",
+    "location" : {
+      "latitude" : 28.60788,
+      "longitude" : -81.39381
+    },
+    "address" : {
+      "line1" : "5300 Adanson Rd",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32810",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "59.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "59.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-647-1444"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-647-1016"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N2DRACK",
+      "room_type_code" : "N2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "59.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 59.99
+      } ],
+      "descriptions" : [ "RACK", "2 FULL BEDS" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXMCO791?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DIMCO330",
+    "property_name" : "Days Inn Orlando Downtown",
+    "location" : {
+      "latitude" : 28.50845,
+      "longitude" : -81.39766
+    },
+    "address" : {
+      "line1" : "3300 S Orange Blossom Trl",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32839",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "63.75",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "63.75",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-7203732"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-4404494"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1DSP1",
+      "room_type_code" : "H1D",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "63.75",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 63.75
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "2 Double Beds Accessible SMK with raised toilet, bathroom rails ", "and free breakfast " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "Double",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DIMCO330?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BUORL003",
+    "property_name" : "Baymont Inn Suite Florida Mall",
+    "location" : {
+      "latitude" : 28.43698,
+      "longitude" : -81.40485
+    },
+    "address" : {
+      "line1" : "8820 S Orange Blossom Trail",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32809",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "70.19",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "70.19",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-6802375"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-8557153"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N2QSNR",
+      "room_type_code" : "N2Q",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "70.19",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 70.19
+      } ],
+      "descriptions" : [ "SENIOR DISCOUNT ", "2 Queen Bed Non-Smoking Room with free continental breakfast, ", "free WiFi and HDTV. " ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BUORL003?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "TLMCO077",
+    "property_name" : "Travelodge Orlando Downtown",
+    "location" : {
+      "latitude" : 28.54781,
+      "longitude" : -81.37648
+    },
+    "address" : {
+      "line1" : "409 North Magnolia Avenue",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32801",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "71.40",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "71.40",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-4231671"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-4231523"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C4QSP1",
+      "room_type_code" : "C4Q",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "71.40",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 71.4
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 Queen SMK with Free high-speed WiFi, air conditioning, shower,", "coffee/tea maker " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "4"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/TLMCO077?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZORLORI",
+    "property_name" : "Super 8 By Wyndham Orlando Int",
+    "location" : {
+      "latitude" : 28.46442,
+      "longitude" : -81.46126
+    },
+    "address" : {
+      "line1" : "5900 American Way",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32819",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "76.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "76.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-2701586"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-3138887"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C3QSP1",
+      "room_type_code" : "C3Q",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "76.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 76.49
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 Queen NSMK with free WiFi, free continental breakfast, mini-", "fridge, microwave, coffee maker " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "3"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZORLORI?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RFORL766",
+    "property_name" : "Red Roof Orlando South-florida Mall",
+    "marketing_text" : "Red Roof Orlando South - Florida Mall has 74 rooms was built in 1990 and renovated in 2012.  There is one building with two floors, an outdoor pool and exterior entrances.  There are connecting rooms but no roll-in showers.  ADA rooms are available",
+    "location" : {
+      "latitude" : 28.44481,
+      "longitude" : -81.40286
+    },
+    "address" : {
+      "line1" : "8296 South Orange Blossom Trail",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32809",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "80.07",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "68.95",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 407 240-0570"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 407 442-0466"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "i0766@redroof.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.redroof.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "Northstar Travel Media",
+      "rating" : "1"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B1KSEN",
+      "room_type_code" : "B1K",
+      "rate_plan_code" : "SEN",
+      "total_amount" : {
+        "amount" : "80.07",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 68.95
+      } ],
+      "descriptions" : [ "SENIORS ", "SUPERIOR KING ROOM NON-SMOKING with Free WiFi-Microwave ", "Refrigerator-In-Room Coffee Our Best Room also includes Free " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SEN"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RFORL766?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWMCO285",
+    "property_name" : "Best Western Plus Universal",
+    "marketing_text" : "Discover the BEST WESTERN PLUS Universal Inn right across from Universal Studios and only one mile from the holy land experience. This friendly, award winning, 70 room hotel with interior corridors, is designed for every guests needs.",
+    "location" : {
+      "latitude" : 28.48115,
+      "longitude" : -81.45681
+    },
+    "address" : {
+      "line1" : "5618 Vineland Road",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32818",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "80.96",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "80.96",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-2269119"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-3702448"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B2QSRSB",
+      "room_type_code" : "B2Q",
+      "rate_plan_code" : "SRS",
+      "total_amount" : {
+        "amount" : "80.96",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 80.96
+      } ],
+      "descriptions" : [ "SENIOR RATE*CITIZENS 55YRS PLUS OR AARP ID", "2 QUEEN BEDS,NSMK,32FLTSCRNTV,MICRFG,IRON,HAIR,", "COFMKR,FULL BREAKFAST" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "SRS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWMCO285?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SCORLB85",
+    "property_name" : "Anice Inn Universal Orlando",
+    "location" : {
+      "latitude" : 28.46039,
+      "longitude" : -81.4602
+    },
+    "address" : {
+      "line1" : "7050 S Kirkman Road",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32819",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "82.40",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "59.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-3512000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-3631835"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "X2DRAC",
+      "room_type_code" : "X2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "82.40",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 59.49
+      } ],
+      "descriptions" : [ "Best Available Standard Rate", "IRON, IRONING BOARD, AM/FM RADIO, IN ROOM", "WIFI, MICROWAVE AND REFRIGERATOR, IN ROOM SAFE" ],
+      "room_type_info" : {
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SCORLB85?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWORL346",
+    "property_name" : "Best Western Orlando East",
+    "location" : {
+      "latitude" : 28.56761,
+      "longitude" : -81.26787
+    },
+    "address" : {
+      "line1" : "8750 East Colonial Drive",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32817",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "84.15",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "84.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-282-3900"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-282-0416"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B2QSRSC",
+      "room_type_code" : "B2Q",
+      "rate_plan_code" : "SRS",
+      "total_amount" : {
+        "amount" : "84.15",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 84.15
+      } ],
+      "descriptions" : [ "SENIOR RATE*CITIZENS 55YRS PLUS OR AARP ID", "2 QUEEN BEDS,MOBACC,BATHTB,MICRFG,NSMK,", "CONTINENTAL BREAKFAST" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "SRS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWORL346?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DIMCO189",
+    "property_name" : "Days Inn By Wyndham Orlando Ne",
+    "location" : {
+      "latitude" : 28.50782,
+      "longitude" : -81.41652
+    },
+    "address" : {
+      "line1" : "2500 West 33rd Street",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32839",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "84.32",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "71.40",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-8413731"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-8410642"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1DSP1",
+      "room_type_code" : "H1D",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "84.32",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 71.4
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 Double Accessible Room NSMK with free WiFi, free continental ", "breakfast, mini-fridge, desk " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "Double",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DIMCO189?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWMCO255",
+    "property_name" : "Best Western Orlando West",
+    "location" : {
+      "latitude" : 28.55203,
+      "longitude" : -81.40618
+    },
+    "address" : {
+      "line1" : "2014 West Colonial Drive",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32804",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "89.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-8418600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-8437080"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B2DAAAH",
+      "room_type_code" : "B2D",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "89.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 89.1
+      } ],
+      "descriptions" : [ "AAA CAA RATE*MEMBERS MUST SHOW ID AT CHECK IN", "2 DOUBLE BEDS,SMOKING,HI SPEED NET,COFFEEMKR,", "HAIR,IRON" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWMCO255?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQMCOIYE",
+    "property_name" : "La Quinta Inn Orlando International Dr N",
+    "marketing_text" : "The La Quinta Inn Orlando International Drive North hotel is located near Walt Disney World Resort, Universal Studios, SeaWorld Orlando and Orlando International Airport.",
+    "location" : {
+      "latitude" : 28.46328,
+      "longitude" : -81.45986
+    },
+    "address" : {
+      "line1" : "5825 International Dr",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32819",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "95.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "95.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 407 351-4100"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 407 996-4599"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq6036gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://6036.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0GAA0",
+      "room_type_code" : "H2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "95.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 95.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "2 Full Beds/Accessible/Nonsmoking", "Ultra Fast Free WIFI/Free Breakfast" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQMCOIYE?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RAMCOGZ0",
+    "property_name" : "Ramada By Wyndham Orlando Flor",
+    "location" : {
+      "latitude" : 28.4399,
+      "longitude" : -81.40326
+    },
+    "address" : {
+      "line1" : "8601 S Orange Blossom Trail",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32809",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "98.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "98.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-7343869"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-2404736"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1QAR1",
+      "room_type_code" : "N1Q",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "98.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 98.1
+      } ],
+      "descriptions" : [ "AARP RATE ", "2 Queens Deluxe Accessible Room NSMK with free WiFi, free buffet", "breakfast, closed caption TV " ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RAMCOGZ0?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWORL387",
+    "property_name" : "Best Western Orlando Conv",
+    "location" : {
+      "latitude" : 28.41919,
+      "longitude" : -81.46444
+    },
+    "address" : {
+      "line1" : "6301 Westwood Blvd.",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32821",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "103.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "103.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-313-4100"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-313-4101"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B2DDB6B",
+      "room_type_code" : "B2D",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "103.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 103.99
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "2 DOUBLE BEDS,NSMK,REFRIG,42IN LCDTV,SAFE,", "FULL BREAKFAST" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWORL387?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAMCONLC",
+    "property_name" : "Extended Stay America Altamont",
+    "marketing_text" : "8 miles from Orlando, Extended Stay America offers business and leisure travelers alike free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry. Our 135 suites deliver comfort by the day, week, or month.",
+    "location" : {
+      "latitude" : 28.65718,
+      "longitude" : -81.38704
+    },
+    "address" : {
+      "line1" : "302 Northlake Blvd",
+      "city" : "Altamonte Springs",
+      "region" : "FL",
+      "postal_code" : "32701",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "107.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "107.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 407 332-9300"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 407 332-9330"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "nlc@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/NLC"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A09B53",
+      "room_type_code" : "A09",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "107.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 107.99
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 KING NONSMKNG ACCESSIBLE", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAMCONLC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAMCO125",
+    "property_name" : "Extended Stay America Theme Pk",
+    "marketing_text" : "8 miles from Orlando and 0.5 from Universal Orlando Resort, Extended Stay Americas 84 suites offer business and leisure travelers free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry by the day, week, or month.",
+    "location" : {
+      "latitude" : 28.48214,
+      "longitude" : -81.45599
+    },
+    "address" : {
+      "line1" : "5610 Vineland Road",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32819",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "107.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "107.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 407 370-4428"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 407 370-9456"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "oun@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/OUN"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A08AYQ",
+      "room_type_code" : "A08",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "107.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 107.99
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN BED NONSMKNG", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAMCO125?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CXMCO872",
+    "property_name" : "Country Inn Suites Orlando",
+    "marketing_text" : "The Country Inn & Suites By Radisson, Orlando Universal, Florida is the perfect location whether you are traveling for business or leisure. Surrounded by attractions, shopping venues and more.",
+    "location" : {
+      "latitude" : 28.45251,
+      "longitude" : -81.46401
+    },
+    "address" : {
+      "line1" : "7701 Universal Boulevard",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32819",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "107.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "107.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-313-4200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-313-4201"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "IA01655",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "107.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 107.99
+      } ],
+      "descriptions" : [ "AAA-CAA RATE", "KING BED-ACCESSIBLE-ROLLIN SHOWER-NON SMOKING", "-SPECIAL RATE FOR AAA-CAA MEMBERS-ID REQUIRED" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CXMCO872?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWORL380",
+    "property_name" : "Bw Orlando Gateway Hotel",
+    "marketing_text" : "After just completing a $2 million renovation, the Best Western Orlando Gateway is the perfect hotel for business or pleasure. This AAA 3 diamond full service hotel features a restaurant, lounge, deli, heated pool, fitness center, tennis & basketball courts, free high speed internet access, 37\" plasma tv's and more.  The Best Western Orlando Gateway Hotel is your best bet for AFFORDABEL COMFORT AND CONVENIENCE!",
+    "location" : {
+      "latitude" : 28.4579,
+      "longitude" : -81.46368
+    },
+    "address" : {
+      "line1" : "7299 Universal Boulevard",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32819",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "111.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "111.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-407-351-5009"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-407-352-7277"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "FEMALE_TRAVELER_ROOM",
+      "ota_code" : 110,
+      "description" : "Female traveler room/floor"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2DDB6C",
+      "room_type_code" : "C2D",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "111.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 111.99
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "2 DOUBLE BEDS,NSMK,FLATSC,2VAN,MICRFG", "STANDARD" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWORL380?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "GIMCO210",
+    "property_name" : "Hilton Garden Inn At Seaworld",
+    "location" : {
+      "latitude" : 28.40989,
+      "longitude" : -81.47065
+    },
+    "address" : {
+      "line1" : "6850 Westwood Boulevard",
+      "city" : "Orlando",
+      "region" : "FL",
+      "postal_code" : "32821",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "113.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "113.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 407 354-1500"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 407 354-1528"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0KA05",
+      "room_type_code" : "F2D",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "113.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-10",
+        "end_date" : "2019-01-11",
+        "currency_code" : "USD",
+        "price" : 113.0
+      } ],
+      "descriptions" : [ "AAA -AAA STAY AND SAVE", "2 QUEEN BEDS HEARING ACCESSIBLE", "VIS FIREALRM/DOOR/PHN ALRT" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/GIMCO210?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-10&check_out=2019-01-11&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

@@ -1,0 +1,2317 @@
+{
+  "results" : [ {
+    "property_code" : "MXDEN031",
+    "property_name" : "Motel 6 Denver - Lakewood",
+    "location" : {
+      "latitude" : 39.72327,
+      "longitude" : -105.08084
+    },
+    "address" : {
+      "line1" : "480 Wadsworth Blvd",
+      "city" : "Lakewood",
+      "region" : "CO",
+      "postal_code" : "80226",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "69.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "69.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-303-232-4924"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-303-274-4621"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "U1RRACK",
+      "room_type_code" : "U1R",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "69.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 69.99
+      } ],
+      "descriptions" : [ "RACK", "1 FULL BED / MODERN, ADA ACCESSIBLE" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXDEN031?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZDEN036",
+    "property_name" : "Super 8 By Wyndham Henderson N",
+    "location" : {
+      "latitude" : 39.86148,
+      "longitude" : -104.91051
+    },
+    "address" : {
+      "line1" : "9051 I-76",
+      "city" : "Henderson",
+      "region" : "CO",
+      "postal_code" : "80640",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "74.48",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "71.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-303-5587057"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-303-2878881"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Q11S3A",
+      "room_type_code" : "Q11",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "74.48",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 71.1
+      } ],
+      "descriptions" : [ "AAA RATE ", "1 QUEEN BED SMOKING ROOM WITH FREE", "SUPERSTART BREAKFAST, FREE WI-FI," ],
+      "room_type_info" : {
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZDEN036?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQDEN653",
+    "property_name" : "La Quinta Inn Denver Westminster",
+    "marketing_text" : "Business guests are near Interlocken Business Center and Arvada Center and 10 miles from University of Colorado. This 100-percent nonsmoking hotel is off US-36 and offers FREE WiFi, a FREE Bright Side Breakfast, guest laundry, and free parking.",
+    "location" : {
+      "latitude" : 39.85347,
+      "longitude" : -105.05197
+    },
+    "address" : {
+      "line1" : "8701 Turnpike Drive",
+      "city" : "Westminster",
+      "region" : "CO",
+      "postal_code" : "80030",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "79.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "79.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 303 425-9099"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 303 427-5860"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq0653gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://653.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A01A9T",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "79.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 79.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "King Bed/Mobility Accessible/Nonsmoking", "Ultra Fast Free WIFI/Free Breakfast/HDTV" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQDEN653?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZDEN849",
+    "property_name" : "Super 8 Denver Staplet",
+    "location" : {
+      "latitude" : 39.76777,
+      "longitude" : -104.90489
+    },
+    "address" : {
+      "line1" : "7201 E 36th Ave",
+      "city" : "Denver",
+      "region" : "CO",
+      "postal_code" : "80207",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "80.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "80.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-303-3937666"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-303-3931818"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "NK1SGS",
+      "room_type_code" : "NK1",
+      "rate_plan_code" : "GO1",
+      "total_amount" : {
+        "amount" : "80.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 80.99
+      } ],
+      "descriptions" : [ "STATE GOVT RATE - WR", "1 KING BED NON-SMOKING ROOM WITH", "FREE  BREAKFAST, FREE" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "GO1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZDEN849?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXDENB17",
+    "property_name" : "Motel 6 Denver - Federal Blvd",
+    "location" : {
+      "latitude" : 39.78529,
+      "longitude" : -105.02684
+    },
+    "address" : {
+      "line1" : "3050 W 49th Ave",
+      "city" : "Denver",
+      "region" : "CO",
+      "postal_code" : "80221",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "81.01",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "69.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-303-455-8888"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-303-433-2218"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N2DRACK",
+      "room_type_code" : "N2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "81.01",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 69.99
+      } ],
+      "descriptions" : [ "RACK", "2 FULL BEDS / STANDARD, WOOD-EFFECT FLOORS" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXDENB17?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZDEN899",
+    "property_name" : "Super 8 Denver Central",
+    "location" : {
+      "latitude" : 39.80335,
+      "longitude" : -104.98692
+    },
+    "address" : {
+      "line1" : "5888 N Broadway",
+      "city" : "Denver",
+      "region" : "CO",
+      "postal_code" : "80216-1025",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "83.90",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "80.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-720-6890650"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-303-2960786"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "PNK1S3A",
+      "room_type_code" : "PNK",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "83.90",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 80.1
+      } ],
+      "descriptions" : [ "AAA RATE ", "ACCESSIBLE 1 KING BED NON-SMOKING ROOM", "WITH SOFA BED, BATHROOM RAILS, WALK-IN" ],
+      "room_type_info" : {
+        "bed_type" : "King",
+        "room_type" : "Executive suite"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZDEN899?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQDEN901",
+    "property_name" : "La Quinta Inn Denver Downtown",
+    "marketing_text" : "Located in the heart of the city just north of popular LoDo, the La Quinta Inn-Denver Central is within walking distance to Coors Field. Other nearby attractions: Denver Merchandise Mart, Pepsi Center, Invesco Field at Mile High, and Ocean Journey.",
+    "location" : {
+      "latitude" : 39.76644,
+      "longitude" : -104.99445
+    },
+    "address" : {
+      "line1" : "3500 Park Avenue West",
+      "city" : "Denver",
+      "region" : "CO",
+      "postal_code" : "80216 5126",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "86.87",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "75.05",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 303 458-1222"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 303 433-2246"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq0901gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://901.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A09A0B",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "86.87",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 75.05
+      } ],
+      "descriptions" : [ "AAA Rate Members ID Required", "King Bed/Mobility Accessible", "32 inch HDTV/Free WIFI/Free Breakfast" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQDEN901?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQDEN579",
+    "property_name" : "La Quinta Inn And Suites Henderson",
+    "marketing_text" : "La Quinta Inn & Suites Henderson-Northeast Denver is located off Interstate 76, minutes from Coors Field, Denver Museum of Nature & Science, Denver Zoo and 16th Street Mall.",
+    "location" : {
+      "latitude" : 39.86108,
+      "longitude" : -104.91118
+    },
+    "address" : {
+      "line1" : "9041 Brighton Road",
+      "city" : "Henderson",
+      "region" : "CO",
+      "postal_code" : "80640",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "109.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "109.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 303 301-1050"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 303 301-1053"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq6579gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://6579.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A04A0F",
+      "room_type_code" : "H2D",
+      "rate_plan_code" : "COR",
+      "total_amount" : {
+        "amount" : "109.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 109.0
+      } ],
+      "descriptions" : [ "CORPORATE RATE", "2 Queen Beds/Mobility Accessible/Nonsmkg", "32 inch HDTV/Free Internet/Free Breakfast" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "COR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQDEN579?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RDDEN204",
+    "property_name" : "Radisson Hotel Denver Central",
+    "marketing_text" : "With easy access from Interstates 70 and 25 and just minutes from downtown Denver our Radisson Hotel Denver Central hotel puts you within easy reach of major attractions sporting events and corporate locations.",
+    "location" : {
+      "latitude" : 39.78561,
+      "longitude" : -104.99108
+    },
+    "address" : {
+      "line1" : "4849 Bannock Street",
+      "city" : "Denver",
+      "region" : "CO",
+      "postal_code" : "80216",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "114.75",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "114.75",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 303 292-9500"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 303 295-3521"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "rhi_dcco@radisson.com"
+    }, {
+      "type" : "URL",
+      "detail" : "https://www.radisson.com/central-denver-co"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "NIGHTCLUB",
+      "ota_code" : 62,
+      "description" : "Nightclub"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "IA00288",
+      "room_type_code" : "G2Q",
+      "rate_plan_code" : "GOV",
+      "total_amount" : {
+        "amount" : "114.75",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 114.75
+      } ],
+      "descriptions" : [ "HOTEL GOVERNMENT RATE OFFER", "2 QUEEN BEDS-NON SMOKING", "-SPECIAL RATE FOR GOVT EMPLOYEES - ID REQUIRED" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Room with shower - Standard"
+      },
+      "rate_type_code" : "GOV"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RDDEN204?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQDEN986",
+    "property_name" : "La Quinta Inn Ste Denver Sw Lakewood",
+    "marketing_text" : "The La Quinta Inn and Suites-Denver Southwest/Lakewood is southwest of downtown Denver in a suburban setting with easy access to area attractions and downtown. Bandemere Speedway and Red Rocks Park and Amphitheatre are close by.",
+    "location" : {
+      "latitude" : 39.65217,
+      "longitude" : -105.07598
+    },
+    "address" : {
+      "line1" : "7190 West Hampden Avenue",
+      "city" : "Denver",
+      "region" : "CO",
+      "postal_code" : "80227",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "115.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "115.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 303 969-9700"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 303 969-9733"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq0986gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://986.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0CAI4",
+      "room_type_code" : "A2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "115.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 115.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "Two Doubles Beds/Microwave/Fridge/Nonsmoking", "32 inch HDTV/Free Internet/Free Breakfast" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQDEN986?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWDEN161",
+    "property_name" : "Bw Plus Gateway Inn Suites",
+    "marketing_text" : "Discover the BEST WESTERN PLUS Gateway Inn & Suites a new hotel located in the heart of metro denver.",
+    "location" : {
+      "latitude" : 39.70191,
+      "longitude" : -104.82755
+    },
+    "address" : {
+      "line1" : "800 South Abilene",
+      "city" : "Aurora",
+      "region" : "CO",
+      "postal_code" : "80012",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "118.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "118.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-720-7484800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-720-7489145"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A2QDB6B",
+      "room_type_code" : "A2Q",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "118.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 118.99
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "2 QUEEN BEDS,MOBILITY ACCESSIBLE,BATHTUB,NSMK,", "FULL BREAKFAST" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWDEN161?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQDEN636",
+    "property_name" : "La Quinta Inn Denver Golden",
+    "marketing_text" : "Stake your claim at La Quinta!  Founded in 1859, the City of Golden was a supply base for miners seeking their \"golden\" fortunes in the hills.  Now you can recharge with a great night sleep at the La Quinta Inn Denver-Golden. ",
+    "location" : {
+      "latitude" : 39.76388,
+      "longitude" : -105.14425
+    },
+    "address" : {
+      "line1" : "3301 Youngfield Service Road",
+      "city" : "Golden",
+      "region" : "CO",
+      "postal_code" : "80401",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "129.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "129.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 303 279-5565"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 303 279-5841"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq0636gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://636.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0IAAH",
+      "room_type_code" : "H2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "129.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 129.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "Two Doubles/Mobility Accessible/Nonsmoking", "32 inch HDTV/Free Internet/Free Breakfast" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQDEN636?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HYDENHDV",
+    "property_name" : "Hyatt Regency Denver Tech Center",
+    "marketing_text" : "The Denver Tech Center's premier upper upscale hotel completed a $5M renovation in 2014 of all public space. A new lobby, new restaurant and new meeting & event space. Our Root 25 Taphouse & Kitchen brings new energy to your dining experience. ",
+    "location" : {
+      "latitude" : 39.63013,
+      "longitude" : -104.8989
+    },
+    "address" : {
+      "line1" : "7800 East Tufts Ave",
+      "city" : "Denver",
+      "region" : "CO",
+      "postal_code" : "80237",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "153.79",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "153.79",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-303-779-1234"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-303-850-7164"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "salesdenve@hyatt.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://denvertechcenter.regency.hyatt.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "KNGADPR",
+      "room_type_code" : "KNG",
+      "rate_plan_code" : "***",
+      "total_amount" : {
+        "amount" : "153.79",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 153.79
+      } ],
+      "descriptions" : [ "ADV PURCHASE* 1 KING BED", "COMP STANDARD WIFI  NON-SMOKING HOTEL  4DIAM" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath/shower - Minimum"
+      },
+      "rate_type_code" : "***"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HYDENHDV?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "ESDENEFA",
+    "property_name" : "Embassy Suites Denver Stapleton",
+    "location" : {
+      "latitude" : 39.77779,
+      "longitude" : -104.86494
+    },
+    "address" : {
+      "line1" : "4444 N Havana",
+      "city" : "Denver",
+      "region" : "CO",
+      "postal_code" : "80239",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "196.83",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "170.05",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 303 375-0400"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 303 371-4634"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "FEMALE_TRAVELER_ROOM",
+      "ota_code" : 110,
+      "description" : "Female traveler room/floor"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0MA82",
+      "room_type_code" : "E1K",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "196.83",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 170.05
+      } ],
+      "descriptions" : [ "AAA -AAA RATE", "1KING STE MOBILITY/HEARING ACCESS RI SHWR NS", "1BEDROOM-VISUAL FIRE ALARM/DOOR/PHONE ALERT" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Superior"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/ESDENEFA?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "ALDEN857",
+    "property_name" : "Aloft Denver Downtown",
+    "location" : {
+      "latitude" : 39.7449,
+      "longitude" : -104.99458
+    },
+    "address" : {
+      "line1" : "800 15th Street",
+      "city" : "Denver",
+      "region" : "CO",
+      "postal_code" : "80202",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "203.15",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "203.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 303 623 3063"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 303 623 0405"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "info@aloftdenverdowntown.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "",
+      "ota_code" : 60,
+      "description" : "Live entertainment"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KA16",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "A16",
+      "total_amount" : {
+        "amount" : "203.15",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 203.15
+      } ],
+      "descriptions" : [ "1 KING:AAA/CAA RATE", "AAA OR CAA MEMBERSHIP ID NEEDED AT CHECK IN.", "ALOFT ROOM NON-SMOKING:COURTYARD VIEW:FREE" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "A16"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/ALDEN857?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "TODENCBT",
+    "property_name" : "Towneplace Stes Dwtn Marriott",
+    "location" : {
+      "latitude" : 39.72714,
+      "longitude" : -104.98863
+    },
+    "address" : {
+      "line1" : "685 Speer Blvd",
+      "city" : "Denver",
+      "region" : "CO",
+      "postal_code" : "80204",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "203.15",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "203.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-303-7222322"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-303-2827767"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "203.15",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 203.15
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 Queen, Sofa bed, Fully equipped kitchen, Micr", "owave, 450sqft/41sqm, Living/sitting area, Wire" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/TODENCBT?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HXDEN100",
+    "property_name" : "Hampton Stes Denver Tech Cntr",
+    "location" : {
+      "latitude" : 39.62665,
+      "longitude" : -104.89564
+    },
+    "address" : {
+      "line1" : "5001 S Ulster",
+      "city" : "Denver",
+      "region" : "CO",
+      "postal_code" : "80237",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "207.31",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "179.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 303 804-9900"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 303 804-9555"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A07A2L",
+      "room_type_code" : "B1K",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "207.31",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 179.1
+      } ],
+      "descriptions" : [ "AAA RATE", "1 KING BED NONSMOKING", "HDTV/FREE WI-FI/HOT BREAKFAST INCLUDED" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Moderate"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HXDEN100?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HYDEN26H",
+    "property_name" : "Hyatt Place Denver Downtown",
+    "location" : {
+      "latitude" : 39.74161,
+      "longitude" : -104.99288
+    },
+    "address" : {
+      "line1" : "440 14th Street",
+      "city" : "Denver",
+      "region" : "CO",
+      "postal_code" : "80202-5005",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "209.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "209.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-303-8932900"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-303-8934026"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "QENRACK",
+      "room_type_code" : "QEN",
+      "rate_plan_code" : "***",
+      "total_amount" : {
+        "amount" : "209.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 209.0
+      } ],
+      "descriptions" : [ "QUEEN SFBD", "HYATT GRAND BED:COZY CORNER SOFA-SLEEPER" ],
+      "room_type_info" : { },
+      "rate_type_code" : "***"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HYDEN26H?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DTDENDAU",
+    "property_name" : "Doubletree By Hilton Denver Se",
+    "location" : {
+      "latitude" : 39.67366,
+      "longitude" : -104.8307
+    },
+    "address" : {
+      "line1" : "13696 E Iliff Place",
+      "city" : "Aurora",
+      "region" : "CO",
+      "postal_code" : "80014",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "218.61",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "194.75",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 303 337-2800"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 303 752-0296"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0HAAC",
+      "room_type_code" : "C2Q",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "218.61",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 194.75
+      } ],
+      "descriptions" : [ "AAA -AAA RATE", "2 QUEEN MOBILITY ACCESS W/ RI SHWR NO SMOK", "WIFI 12.95/DAY - SWEET DREAMS EXPERIENCE BED" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DTDENDAU?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "ESDENE9A",
+    "property_name" : "Embassy Suites Denver Southeast",
+    "location" : {
+      "latitude" : 39.65466,
+      "longitude" : -104.90321
+    },
+    "address" : {
+      "line1" : "7525 East Hampden Ave",
+      "city" : "Denver",
+      "region" : "CO",
+      "postal_code" : "80231",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "230.34",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "199.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 303 696-6644"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 303 337-6202"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0ZLV0",
+      "room_type_code" : "F2Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "230.34",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-02",
+        "end_date" : "2018-10-03",
+        "currency_code" : "USD",
+        "price" : 199.0
+      } ],
+      "descriptions" : [ "BEST AVAILABLE RATE", "2 QUEENS 1 BEDROOM SUITE HEARING ACCESSIBLE", "VISUAL FIREALARM/DOOR/PHONE ALERT-2 RM SUITE" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Room with shower - Moderate"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/ESDENE9A?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-02&check_out=2018-10-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

@@ -1,0 +1,2254 @@
+{
+  "results" : [ {
+    "property_code" : "OMWAS512",
+    "property_name" : "Omni Shoreham Hotel",
+    "location" : {
+      "latitude" : 38.92302,
+      "longitude" : -77.0537
+    },
+    "address" : {
+      "line1" : "2500 Calvert Street Nw",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20008",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "85.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "85.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 202 234-0700"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 202 625-7972"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "ROOM_SERVICE_24_HOURS",
+      "ota_code" : 2,
+      "description" : "24-hour room service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "",
+      "ota_code" : 113,
+      "description" : "120 AC"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Luxury",
+      "rating" : "4 Star"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "DKAAAP",
+      "room_type_code" : "DKA",
+      "rate_plan_code" : "AAP",
+      "total_amount" : {
+        "amount" : "85.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 85.0
+      } ],
+      "descriptions" : [ "AAA Rate 1 Night Prepaid", "ACCESSIBLE DELUXE ROOM 1 KING BED", "FULL FEATURES AVAIL BY CALLING 800 THE OMNI" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Minimum"
+      },
+      "rate_type_code" : "AAP"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OMWAS512?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DNWAS862",
+    "property_name" : "The Embassy Row Hotel",
+    "location" : {
+      "latitude" : 38.91069,
+      "longitude" : -77.04584
+    },
+    "address" : {
+      "line1" : "2015 Massachusetts Avenue Nw",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20036",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "96.39",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "96.39",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-2651600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-2342778"
+    }, {
+      "type" : "URL",
+      "detail" : "https://www.destinationhotels.com/embassy-row-hotel"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "4"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1DPRO",
+      "room_type_code" : "A1D",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "96.39",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 96.39
+      } ],
+      "descriptions" : [ "AAA-CAA MEMBERSHIP RATE ", "QUEEN STANDARD-NEWLY REDESIGNED-INTERIOR ROOM SEASONAL ROOFTOP ", "POOL-LOBBY COFFEE SHOP AND BAR 1 BLK FROM DUPONT METRO-PET " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Double",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DNWAS862?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MCWASDTM",
+    "property_name" : "Wardman Park Marriott",
+    "marketing_text" : "Discover the perfect balance of landmark charm and modern sophistication, in a historic washington setting, when you choose marriott wardman park hotel for your business, leisure and meeting needs.",
+    "location" : {
+      "latitude" : 38.9249,
+      "longitude" : -77.05338
+    },
+    "address" : {
+      "line1" : "2660 Woodley Rd Nw At Connecti",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20008",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "96.43",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "84.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-3282000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-2340015"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIK00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "96.43",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 84.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "Parlor, 1 King Murphy, Park Tower, 1 King Murph", "y, Mini fridge, 300sqft/27sqm, Wireless interne" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MCWASDTM?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HIWAS610",
+    "property_name" : "Holiday Inn Dc Greenbelt",
+    "marketing_text" : "If you are searching for hotels near the University of Maryland or Fed Ex Field, we are a short drive from both.",
+    "location" : {
+      "latitude" : 38.98932,
+      "longitude" : -76.8822
+    },
+    "address" : {
+      "line1" : "7200 Hanover Drive",
+      "city" : "Green Belt",
+      "region" : "MD",
+      "postal_code" : "20770",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "117.52",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "104.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-301-9827000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-301-3458271"
+    }, {
+      "type" : "URL",
+      "detail" : "www.holidayinn.com/dc-greenbeltmd"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "STN482G",
+      "room_type_code" : "*RH",
+      "rate_plan_code" : "482",
+      "total_amount" : {
+        "amount" : "117.52",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 104.0
+      } ],
+      "descriptions" : [ "BOOK EARLY N SAVE NO REFUNDS", "STANDARD ROOM NON SMOKING WHEN YOU ARRIVE AT", "THE HOTEL WE WILL DO OUR BEST TO MEET YOUR ROOM" ],
+      "room_type_info" : {
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "482"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HIWAS610?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "TOWASTST",
+    "property_name" : "Towneplace Stes Falls Marriott",
+    "location" : {
+      "latitude" : 38.87871,
+      "longitude" : -77.17034
+    },
+    "address" : {
+      "line1" : "205 Hillwood Avenue",
+      "city" : "Falls Church",
+      "region" : "VA",
+      "postal_code" : "22046",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "119.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "119.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-703-2376172"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-703-2376173"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "119.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 119.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 Queen, Sofa bed, Fully equipped kitchen, Micr", "owave, Wireless internet, complimentary, Coffee" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/TOWASTST?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXWAS5CD",
+    "property_name" : "Hamilton Hotel Washington D.c.",
+    "location" : {
+      "latitude" : 38.90293,
+      "longitude" : -77.03147
+    },
+    "address" : {
+      "line1" : "1001 14th Street Nw",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20005",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "122.18",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "122.18",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-6820111"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-6823801"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1KP91",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "P91",
+      "total_amount" : {
+        "amount" : "122.18",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 122.18
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE ", "Accessible King-Roll In Shower-Free WIFI-Executive Workstation-", "Expanded Cable Perks like a plush bathrobe a pillowtop mattress " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "P91"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXWAS5CD?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "UIWASWPH",
+    "property_name" : "Washington Plaza Hotel",
+    "marketing_text" : "The washington plaza*s relaxed atmosphere turns the ordinary business trip into a mini-vacation and the normal tourist visit into something truly special.",
+    "location" : {
+      "latitude" : 38.90592,
+      "longitude" : -77.0313
+    },
+    "address" : {
+      "line1" : "10 Thomas Circle Nw",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20005",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "133.17",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "116.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-8421300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-3719602"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B*QCOR",
+      "room_type_code" : "B*Q",
+      "rate_plan_code" : "COR",
+      "total_amount" : {
+        "amount" : "133.17",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 116.0
+      } ],
+      "descriptions" : [ "Corporate Discount Includes", "WIFI and Business Center use Leave Business", "Superior Queen 32inch HDTV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Queen",
+        "number_of_beds" : "Unspecified"
+      },
+      "rate_type_code" : "COR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/UIWASWPH?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CYWASUSC",
+    "property_name" : "Courtyard Us Capitol Marriott",
+    "location" : {
+      "latitude" : 38.90798,
+      "longitude" : -77.00338
+    },
+    "address" : {
+      "line1" : "1325 2nd Street Ne",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20002",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "135.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "135.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-8984000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-8984001"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "135.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 135.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Queen, Mini fridge, 250sqft/23sqm, Living/sit", "ting area, Wireless internet, complimentary, Wi" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CYWASUSC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "FNWASFCF",
+    "property_name" : "Fairfield Inn N Stes Marriott",
+    "location" : {
+      "latitude" : 38.8997,
+      "longitude" : -77.0192
+    },
+    "address" : {
+      "line1" : "500 H St Nw",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20001",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "135.15",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "135.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-2895959"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-6829152"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "135.15",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 135.15
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Queen, Mini fridge, 273sqft/25sqm, Wireless i", "nternet, complimentary, Wired internet, complim" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/FNWASFCF?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WIDCA513",
+    "property_name" : "Westin Arlington Gateway",
+    "location" : {
+      "latitude" : 38.88078,
+      "longitude" : -77.11458
+    },
+    "address" : {
+      "line1" : "801 North Glebe Road",
+      "city" : "Arlington",
+      "region" : "VA",
+      "postal_code" : "22203",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "143.65",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "143.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 703 717-6200"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 703 717-6260"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "concierge@westin-arlington.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KA16",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "A16",
+      "total_amount" : {
+        "amount" : "143.65",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 143.65
+      } ],
+      "descriptions" : [ "1 KING:AAA/CAA RATE", "AAA OR CAA MEMBERSHIP REQUIRED TO BE SHOWN AT", "CHECK IN." ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "A16"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WIDCA513?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "PHWASATH",
+    "property_name" : "Arc The Hotel Washington Dc",
+    "location" : {
+      "latitude" : 38.90012,
+      "longitude" : -77.05264
+    },
+    "address" : {
+      "line1" : "824 New Hampshire Ave",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20037",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "146.03",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "127.20",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 202 3376620"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 202 2987499"
+    }, {
+      "type" : "URL",
+      "detail" : "www.arcthehoteldc.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1KP21",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "P21",
+      "total_amount" : {
+        "amount" : "146.03",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 127.2
+      } ],
+      "descriptions" : [ "PREFERRED ADVANCE PURCHASE ", "King Accessible-386 sq ft-Keurig-HDTV with streaming-Luxury ", "Linens-Free WiFi Malin and Goetz Bath Amenities-Customizable " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "P21"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/PHWASATH?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OKWASHHI",
+    "property_name" : "Hotel Hive",
+    "location" : {
+      "latitude" : 38.89718,
+      "longitude" : -77.04966
+    },
+    "address" : {
+      "line1" : "2224 F Street Nw",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20037-2728",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "151.59",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "132.05",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-849-8499"
+    }, {
+      "type" : "FAX",
+      "detail" : "NONE"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "D2TPR1",
+      "room_type_code" : "D2T",
+      "rate_plan_code" : "PR1",
+      "total_amount" : {
+        "amount" : "151.59",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 132.05
+      } ],
+      "descriptions" : [ "Advance Purchase Rate", "Buzz Bunk.Located above or below bar", "and pizza shop.Alarm clock.Safe.Desk.WiFi" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Minimum",
+        "bed_type" : "Twin",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "PR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OKWASHHI?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MCWASMCM",
+    "property_name" : "Washington Marriott Metro Ctr",
+    "marketing_text" : "In the heart of washington's east end business district the marriott at metro center is within 2 blocks of washington's 4 largest law firms, 1 block to dc convention center and blocks to the mci center.",
+    "location" : {
+      "latitude" : 38.89938,
+      "longitude" : -77.02787
+    },
+    "address" : {
+      "line1" : "775 12th St. Nw",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20005",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "159.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "159.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-7372200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-3475886"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIH00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "159.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 159.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "Guest room, no rollaways allowed, 2 Double, 315", "sqft/28sqm, Wireless internet, for a fee, Coffe" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MCWASMCM?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RLDCA075",
+    "property_name" : "Hotel Rl By Red Lion Washington Dc",
+    "location" : {
+      "latitude" : 38.90379,
+      "longitude" : -77.04263
+    },
+    "address" : {
+      "line1" : "1823 L St Nw",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20036",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "163.02",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "142.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-223-4320"
+    }, {
+      "type" : "FAX",
+      "detail" : "01-202-293-4977"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QADV",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "ADV",
+      "total_amount" : {
+        "amount" : "163.02",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 142.0
+      } ],
+      "descriptions" : [ "Advance Purchase Rate-Full Pay, Non Ref", "Standard Queen Bed-Non Smoking-Max 2 PPL" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "ADV"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RLDCA075?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "UIWASPLA",
+    "property_name" : "State Plaza Hotel",
+    "location" : {
+      "latitude" : 38.89719,
+      "longitude" : -77.04749
+    },
+    "address" : {
+      "line1" : "2117 E Street Northwest",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20037",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "164.28",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "143.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-8618200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-5871354"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1KCOR",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "COR",
+      "total_amount" : {
+        "amount" : "164.28",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 143.1
+      } ],
+      "descriptions" : [ "Corporate Discount includes", "wifi and fitness center access daily provide", "Deluxe King - 470 sq ft. LCD" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "COR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/UIWASPLA?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BRWASPYB",
+    "property_name" : "Renaissance Arlington Capital",
+    "location" : {
+      "latitude" : 38.84776,
+      "longitude" : -77.05113
+    },
+    "address" : {
+      "line1" : "2800 South Potomac Ave",
+      "city" : "Arlington",
+      "region" : "VA",
+      "postal_code" : "22202",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "169.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "169.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-703-4131300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-703-4133648"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "169.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 169.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "Deluxe room, 2 Double, 425sqft/38sqm, Wireless ", "internet, for a fee, Wired internet, for a fee," ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BRWASPYB?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HHDCA139",
+    "property_name" : "Hilton Alexandria Old Town",
+    "location" : {
+      "latitude" : 38.80687,
+      "longitude" : -77.05958
+    },
+    "address" : {
+      "line1" : "1767 King Street",
+      "city" : "Alexandria",
+      "region" : "VA",
+      "postal_code" : "22314",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "169.18",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "146.88",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 703 837-0440"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 703 837-0454"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0MHJT",
+      "room_type_code" : "F1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "169.18",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 146.88
+      } ],
+      "descriptions" : [ "SEMI-FLEX", "1 KING MOBILITY/HEARING ACCESS W/ 3X3SHW", "VIS FIREALRM/DOOR/PHN ALRT" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HHDCA139?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "PWWASGIG",
+    "property_name" : "The Georgetown Inn",
+    "location" : {
+      "latitude" : 38.90719,
+      "longitude" : -77.06371
+    },
+    "address" : {
+      "line1" : "1310 Wisconsin Ave Nw",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20007",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "171.33",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "149.25",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-3338900"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-3338308"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "FQCPR9",
+      "room_type_code" : "FQC",
+      "rate_plan_code" : "PR9",
+      "total_amount" : {
+        "amount" : "171.33",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 149.25
+      } ],
+      "descriptions" : [ "Winter Holiday Special Save 20", "Accessible KingGuestroom-250 SQ FT-Free", "WIFI-Max 3 PPL-TurnDown-Robes-ShoeShine" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate"
+      },
+      "rate_type_code" : "PR9"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/PWWASGIG?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MCWASWEM",
+    "property_name" : "Washington Marriott Georgetown",
+    "location" : {
+      "latitude" : 38.90605,
+      "longitude" : -77.04864
+    },
+    "address" : {
+      "line1" : "1221 22nd St Nw",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20037",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "174.50",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "152.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-8721500"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-8721424"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "APNN00",
+      "room_type_code" : "APN",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "174.50",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 152.0
+      } ],
+      "descriptions" : [ "Advance Purchase rate, prepay in full, non-refu", " Rules", "Double Guest Room, 2 Double, Mini fridge, Wirel" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MCWASWEM?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "UIDCAMOR",
+    "property_name" : "Morrison Clark Historic Inn",
+    "marketing_text" : "The 54 individually decorated guest rooms and 13 suites at the morrison- clark inn feature french country and victorian styles, many with period antiques.",
+    "location" : {
+      "latitude" : 38.90438,
+      "longitude" : -77.02674
+    },
+    "address" : {
+      "line1" : "1011 L Street Northwest",
+      "city" : "Washington",
+      "region" : "WA",
+      "postal_code" : "20001",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "174.67",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "152.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-8981200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-3710377"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Q1BPR8",
+      "room_type_code" : "Q1B",
+      "rate_plan_code" : "PR8",
+      "total_amount" : {
+        "amount" : "174.67",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-26",
+        "end_date" : "2018-11-27",
+        "currency_code" : "USD",
+        "price" : 152.15
+      } ],
+      "descriptions" : [ "7 Day Advance Purchase", "includes daily wifi and fitness center access", "Superior Queen-235sf LCD flat" ],
+      "room_type_info" : {
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "PR8"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/UIDCAMOR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-26&check_out=2018-11-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

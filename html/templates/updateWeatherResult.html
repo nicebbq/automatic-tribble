@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+{% block body %}
+
+{{info['user']}} logged in.<br><br>
+
+  <form action="updateWeatherConfirm.html" method="POST">
+    <select name="recordKey" size="25">
+      {% for value in info['data'] %}
+        <option value="{{value[0]}} {{value[1]}} {{value[2]}}">
+          {{value[0]}} Date: {{value[1]}} Time: {{value[2]}} Temp: {{value[3]}} {{value[10]}} Rating: {{value[15]}} 
+        </option>
+      {% endfor %}
+    </select> <br> <br>
+    <input type="text" placeholder="New Rating" name="newRating"><br><br>
+    <input type="submit" value="Update Rating">
+  </form>
+{% endblock %}

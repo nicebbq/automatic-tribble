@@ -1,0 +1,99 @@
+{
+  "results" : [ {
+    "property_code" : "EOEWR071",
+    "property_name" : "Econo Lodge Meadowlands",
+    "marketing_text" : "An easy stop on the road awaits you at the Econo Lodge Meadowlands hotel in Carlstadt, NJ. Our hotel is near New York City and Times Square.",
+    "location" : {
+      "latitude" : 40.81949,
+      "longitude" : -74.06373
+    },
+    "address" : {
+      "line1" : "395 Washington Ave",
+      "city" : "Carlstadt",
+      "region" : "NJ",
+      "postal_code" : "07072",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "85.50",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "85.50",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-201-935-4600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-201-935-0264"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "ZB03AAA",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "85.50",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-07-27",
+        "end_date" : "2018-07-28",
+        "currency_code" : "USD",
+        "price" : 85.5
+      } ],
+      "descriptions" : [ "AAA Rate", "1K/NonSmoking/Wake-Up Service/Free Hi-Spd", "Wireless/Air Conditioning/Microwave" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EOEWR071?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-07-27&check_out=2018-07-28&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

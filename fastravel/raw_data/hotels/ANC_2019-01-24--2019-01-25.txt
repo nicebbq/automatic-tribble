@@ -1,0 +1,170 @@
+{
+  "results" : [ {
+    "property_code" : "RLANC441",
+    "property_name" : "Guesthouse Inn N Suites Anc",
+    "location" : {
+      "latitude" : 61.21772,
+      "longitude" : -149.87887
+    },
+    "address" : {
+      "line1" : "321 East 5th Avenue",
+      "city" : "Anchorage",
+      "region" : "AK",
+      "postal_code" : "99501",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "79.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "79.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-907-2767226"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-907-2655145"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "FQNADV",
+      "room_type_code" : "FQN",
+      "rate_plan_code" : "ADV",
+      "total_amount" : {
+        "amount" : "79.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-24",
+        "end_date" : "2019-01-25",
+        "currency_code" : "USD",
+        "price" : 79.0
+      } ],
+      "descriptions" : [ "Advance Purchase Rate-Full Pay, Non Ref", "Exterior Entry Queen. Wi-Fi, Fridge, Microwave" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate"
+      },
+      "rate_type_code" : "ADV"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RLANC441?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-24&check_out=2019-01-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MTANC101",
+    "property_name" : "Microtel Inn & Suites By Wyndh",
+    "marketing_text" : "Rediscover the GREAT OUTDOORS. Visit Anchorage, AK. And see what nature has to offer us.",
+    "location" : {
+      "latitude" : 61.17339,
+      "longitude" : -149.92607
+    },
+    "address" : {
+      "line1" : "5205 Northwood Drive",
+      "city" : "Anchorage",
+      "region" : "AK",
+      "postal_code" : "99517",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "107.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "107.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-907-2455002"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-907-2455030"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "SNQ1S3A",
+      "room_type_code" : "SNQ",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "107.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-24",
+        "end_date" : "2019-01-25",
+        "currency_code" : "USD",
+        "price" : 107.1
+      } ],
+      "descriptions" : [ "AAA RATE ", "1 QUEEN BED NON-SMOKING SUITE WITH", "FREE CONTINENTAL BREAKFAST, FREE" ],
+      "room_type_info" : {
+        "room_type" : "Suite",
+        "bed_type" : "Queen"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MTANC101?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-24&check_out=2019-01-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

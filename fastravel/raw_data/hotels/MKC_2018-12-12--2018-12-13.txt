@@ -1,0 +1,453 @@
+{
+  "results" : [ {
+    "property_code" : "ARMCIACC",
+    "property_name" : "Ac By Marriott Kansas City",
+    "location" : {
+      "latitude" : 39.0522,
+      "longitude" : -94.59327
+    },
+    "address" : {
+      "line1" : "560 Westport Road",
+      "city" : "Kansas City",
+      "region" : "MO",
+      "postal_code" : "64111",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "134.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "134.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-816-9310001"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-816-9318891"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "APNL00",
+      "room_type_code" : "APN",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "134.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-12",
+        "end_date" : "2018-12-13",
+        "currency_code" : "USD",
+        "price" : 134.0
+      } ],
+      "descriptions" : [ "Advance Purchase rate, prepay in full, non-refu", "es", "2 Double, Wireless internet, complimentary, Cof" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/ARMCIACC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-12&check_out=2018-12-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SIMCI095",
+    "property_name" : "Sheraton Country Club Plaza",
+    "location" : {
+      "latitude" : 39.0426,
+      "longitude" : -94.59585
+    },
+    "address" : {
+      "line1" : "770 W. 47th Street",
+      "city" : "Kansas City",
+      "region" : "MO",
+      "postal_code" : "64112",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "205.98",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "205.98",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 816 931-4400"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 816 561-7330"
+    } ],
+    "amenities" : [ {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KA16",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "A16",
+      "total_amount" : {
+        "amount" : "205.98",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-12",
+        "end_date" : "2018-12-13",
+        "currency_code" : "USD",
+        "price" : 205.98
+      } ],
+      "descriptions" : [ "1 KING:AAA/CAA RATE", "AAA OR CAA MEMBERSHIP ID REQUIRED AT CHECK-IN.", "SUITE NON-SMOKING:SLEEP EXPERIENCE AND SOFA" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "A16"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SIMCI095?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-12&check_out=2018-12-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXMCI941",
+    "property_name" : "The Fontaine",
+    "location" : {
+      "latitude" : 39.0407,
+      "longitude" : -94.59805
+    },
+    "address" : {
+      "line1" : "901 W 48th Place",
+      "city" : "Kansas City",
+      "region" : "MO",
+      "postal_code" : "64112",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "211.66",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "179.25",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-816-7538800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-816-7538891"
+    }, {
+      "type" : "URL",
+      "detail" : "INFO THEFONTAINEHOTEL.COM"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2HAP2",
+      "room_type_code" : "C2H",
+      "rate_plan_code" : "AP2",
+      "total_amount" : {
+        "amount" : "211.66",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-12",
+        "end_date" : "2018-12-13",
+        "currency_code" : "USD",
+        "price" : 179.25
+      } ],
+      "descriptions" : [ "ADVANCED PURCHASE ", "STANDARD TWO DOUBLE BEDS HEARING IMPAIRED 400 SQF -FURNISHED ", "WITH ELEGANCE DECORATED IN SOOTHING TONES OF BLUE -WHITE AND " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "AP2"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXMCI941?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-12&check_out=2018-12-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WIMCICRO",
+    "property_name" : "Westin Kansas City",
+    "location" : {
+      "latitude" : 39.08385,
+      "longitude" : -94.58337
+    },
+    "address" : {
+      "line1" : "One East Pershing Road",
+      "city" : "Kansas City",
+      "region" : "MO",
+      "postal_code" : "64108",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "260.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "260.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 816 474-4400"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 816 391-4438"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "crown@westin.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "MULTILINGUAL_STAFF",
+      "ota_code" : 103,
+      "description" : "Multilingual staff"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    }, {
+      "provider" : "Visit KC",
+      "rating" : "Visitor's Choice Favorite Hotel"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KDO0",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "DO0",
+      "total_amount" : {
+        "amount" : "260.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-12",
+        "end_date" : "2018-12-13",
+        "currency_code" : "USD",
+        "price" : 260.1
+      } ],
+      "descriptions" : [ "1 KING:PREPAID RATE", "TRADITIONAL NON-SMOKING:HEAVENLY BED AND BATH:", "NEWLY RENOVATED:ERGONOMIC CHAIR/LARGE DESK" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "DO0"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WIMCICRO?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-12&check_out=2018-12-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

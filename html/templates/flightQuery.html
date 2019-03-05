@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block body %}
+
+{{info['user']}} logged in.<br><br>
+
+  <form action="flightOut.html" method="POST">
+    <input type="text" placeholder = "Start Date" name="startDate"><br>
+    <input type = "text" placeholder = "End Date" name = "endDate"><br>
+    <input type="submit" value = "Search Flights">
+  </form>
+{% endblock  %}

@@ -1,0 +1,86 @@
+{
+  "results" : [ {
+    "property_code" : "MXMEMC80",
+    "property_name" : "Motel 6 Memphis Downtown",
+    "location" : {
+      "latitude" : 35.13698,
+      "longitude" : -90.02786
+    },
+    "address" : {
+      "line1" : "210 S Pauline St",
+      "city" : "Memphis",
+      "region" : "TN",
+      "postal_code" : "38104",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "63.57",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "53.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-901-528-0650"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-901-528-0659"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "U2DRACK",
+      "room_type_code" : "U2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "63.57",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-10-25",
+        "end_date" : "2018-10-26",
+        "currency_code" : "USD",
+        "price" : 53.99
+      } ],
+      "descriptions" : [ "RACK", "2 FULL BEDS / STANDARD ADA ACCESSIBLE" ],
+      "room_type_info" : {
+        "room_type" : "Suite",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXMEMC80?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-10-25&check_out=2018-10-26&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

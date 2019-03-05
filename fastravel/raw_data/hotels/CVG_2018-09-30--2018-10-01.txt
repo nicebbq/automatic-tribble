@@ -1,0 +1,1389 @@
+{
+  "results" : [ {
+    "property_code" : "RFCVG103",
+    "property_name" : "Red Roof Cincinnati Northeast-blue Ash",
+    "marketing_text" : "Two buildings,2 floors, exterior corridor, no elevator, no meeting room",
+    "location" : {
+      "latitude" : 39.2504,
+      "longitude" : -84.36784
+    },
+    "address" : {
+      "line1" : "5900 Pfeiffer Road",
+      "city" : "Blue Ash",
+      "region" : "OH",
+      "postal_code" : "45242",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "63.03",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "53.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 513 793-8811"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 513 793-8930"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "i0103@redroof.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.redroof.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "Northstar Travel Media",
+      "rating" : "1"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1KSNR",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "63.03",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-30",
+        "end_date" : "2018-10-01",
+        "currency_code" : "USD",
+        "price" : 53.99
+      } ],
+      "descriptions" : [ "SENIORS ", "STANDARD KING NON-SMOKING with Free WiFi-Flat Screen TV " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RFCVG103?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-30&check_out=2018-10-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZCVG025",
+    "property_name" : "Super 8 Ft Mitchell Cincinnati",
+    "location" : {
+      "latitude" : 39.0482,
+      "longitude" : -84.57102
+    },
+    "address" : {
+      "line1" : "2350 Royal Drive",
+      "city" : "Fort Mitchell",
+      "region" : "KY",
+      "postal_code" : "41017",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "69.73",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "62.04",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-859-3412090"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-859-3413371"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C4DSP1",
+      "room_type_code" : "C4D",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "69.73",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-30",
+        "end_date" : "2018-10-01",
+        "currency_code" : "USD",
+        "price" : 62.04
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 Double NSMK with free WiFi, free continental breakfast, ", "domesticated pets welcome, microwave " ],
+      "room_type_info" : {
+        "number_of_beds" : "4",
+        "bed_type" : "Double",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZCVG025?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-30&check_out=2018-10-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXLUKF62",
+    "property_name" : "Motel 6 Cincinnati Central - Norwood",
+    "location" : {
+      "latitude" : 39.16896,
+      "longitude" : -84.41955
+    },
+    "address" : {
+      "line1" : "5300 Kennedy Ave",
+      "city" : "Cincinnati",
+      "region" : "OH",
+      "postal_code" : "45213",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "70.48",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "70.48",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-513-531-6589"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-513-531-6681"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1KRACK",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "70.48",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-30",
+        "end_date" : "2018-10-01",
+        "currency_code" : "USD",
+        "price" : 70.48
+      } ],
+      "descriptions" : [ "RACK", "1 KING BED / NON-SMOKING" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXLUKF62?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-30&check_out=2018-10-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RFCVG770",
+    "property_name" : "Red Roof Cincinnati North Mason",
+    "marketing_text" : "One building onsite with interior entrances, 2 floors, and one elevator. Seasonal outdoor pool, coin laundry,fitness facility, conference room, and business center. Suite available.",
+    "location" : {
+      "latitude" : 39.29073,
+      "longitude" : -84.31728
+    },
+    "address" : {
+      "line1" : "8870 Governors Hill Drive",
+      "city" : "Cincinnati",
+      "region" : "OH",
+      "postal_code" : "45249-1338",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "73.54",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "62.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 513 683-3086"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 513 453-0426"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "i0770@redroof.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.redroof.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "Northstar Travel Media",
+      "rating" : "2"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A2SSEN",
+      "room_type_code" : "A2S",
+      "rate_plan_code" : "SEN",
+      "total_amount" : {
+        "amount" : "73.54",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-30",
+        "end_date" : "2018-10-01",
+        "currency_code" : "USD",
+        "price" : 62.99
+      } ],
+      "descriptions" : [ "SENIORS ", "DELUXE 2 QUEEN BEDS SMOKING with Free WiFi-Microwave-", "Refrigerator-In-Room Coffee This room also includes Flat Screen " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Single",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "SEN"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RFCVG770?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-30&check_out=2018-10-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DICVG666",
+    "property_name" : "Days Inn & Suites Cincinnati",
+    "location" : {
+      "latitude" : 39.17087,
+      "longitude" : -84.42441
+    },
+    "address" : {
+      "line1" : "5410 Ridge Ave",
+      "city" : "Cincinnati",
+      "region" : "OH",
+      "postal_code" : "45213",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "77.17",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "67.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-513-6318500"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-513-6319293"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QSP1",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "77.17",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-30",
+        "end_date" : "2018-10-01",
+        "currency_code" : "USD",
+        "price" : 67.99
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 QueenBed NSMK with free continental breakfast and free WiFi " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DICVG666?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-30&check_out=2018-10-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MUCVGCIN",
+    "property_name" : "Millennium Cincinnati",
+    "location" : {
+      "latitude" : 39.10164,
+      "longitude" : -84.51619
+    },
+    "address" : {
+      "line1" : "150 West 5th Street",
+      "city" : "Cincinnati",
+      "region" : "OH",
+      "postal_code" : "45202 2393",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "87.55",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "87.55",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "513-352-2100"
+    }, {
+      "type" : "FAX",
+      "detail" : "513-352-2148"
+    } ],
+    "amenities" : [ {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1SPK2",
+      "room_type_code" : "C1S",
+      "rate_plan_code" : "PK2",
+      "total_amount" : {
+        "amount" : "87.55",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-30",
+        "end_date" : "2018-10-01",
+        "currency_code" : "USD",
+        "price" : 87.55
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - 14 DAY LEAD TIME - RO - EX", "TAX - COMMISSIONABLE - NON REFUNDABLE.", "STANDARD DOUBLE-SOUTH TOWER" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Single",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "PK2"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MUCVGCIN?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-30&check_out=2018-10-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQCVGKJI",
+    "property_name" : "La Quinta Inn Ste Sharonville",
+    "marketing_text" : "La Quinta Inn & Suites Cincinnati Sharonville is centrally located in the northern business district. We are conveniently located directly off of I-75, 1 mile from I-275, and minutes from I-71.",
+    "location" : {
+      "latitude" : 39.27201,
+      "longitude" : -84.43914
+    },
+    "address" : {
+      "line1" : "11029 Dowlin Drive",
+      "city" : "Cincinnati",
+      "region" : "OH",
+      "postal_code" : "45241",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "109.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "109.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 513 771-0300"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 513 771-6411"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq7002gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://7002.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0FAJA",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "109.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-30",
+        "end_date" : "2018-10-01",
+        "currency_code" : "USD",
+        "price" : 109.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "King Bed/Accessible/Newly Renovated/Nonsmkg", "Micro/Fridge/Free WIFI/Free Breakfast/HDTV" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQCVGKJI?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-30&check_out=2018-10-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DRCVG119",
+    "property_name" : "Drury Inn And Suites Cincinnati Sharonvi",
+    "location" : {
+      "latitude" : 39.26791,
+      "longitude" : -84.43855
+    },
+    "address" : {
+      "line1" : "2265 East Sharon Road",
+      "city" : "Cincinnati",
+      "region" : "OH",
+      "postal_code" : "45241-1870",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "128.14",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "109.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-513-7715601"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-888-3691014"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N2QRAC",
+      "room_type_code" : "N2Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "128.14",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-30",
+        "end_date" : "2018-10-01",
+        "currency_code" : "USD",
+        "price" : 109.99
+      } ],
+      "descriptions" : [ "BEST AVAILABLE RATE FREE HOT BKFST WIFI EVENING", "HOT FOOD DRINKS FITNESS CTR BUSINESS CTR POOL", "2 QUEENS NONSMK FREE HOT BKFST WIFI EVENING HOT" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DRCVG119?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-30&check_out=2018-10-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WGCVG122",
+    "property_name" : "Wingate By Wyndham Cincinnati",
+    "location" : {
+      "latitude" : 39.25253,
+      "longitude" : -84.38788
+    },
+    "address" : {
+      "line1" : "4320 Glendale-milford Rd",
+      "city" : "Cincinnati",
+      "region" : "OH",
+      "postal_code" : "45242",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "138.87",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "119.20",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-513-4481317"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-513-7331146"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H2KAA1",
+      "room_type_code" : "H2K",
+      "rate_plan_code" : "AA1",
+      "total_amount" : {
+        "amount" : "138.87",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-30",
+        "end_date" : "2018-10-01",
+        "currency_code" : "USD",
+        "price" : 119.2
+      } ],
+      "descriptions" : [ "AAA HOT DEALS ", "1 King Accessible NSMK with free WiFi, roll-in shower with ", "bathroom seat, walk-in shower " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "AA1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WGCVG122?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-30&check_out=2018-10-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWCVG111",
+    "property_name" : "Bw Plus Cincinnati Riverfront",
+    "location" : {
+      "latitude" : 39.08815,
+      "longitude" : -84.52468
+    },
+    "address" : {
+      "line1" : "200 Crescent Avenue",
+      "city" : "Covington",
+      "region" : "KY",
+      "postal_code" : "41011-1002",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "152.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "152.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-859-5817800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-859-5818282"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A2QDB6A",
+      "room_type_code" : "A2Q",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "152.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-30",
+        "end_date" : "2018-10-01",
+        "currency_code" : "USD",
+        "price" : 152.1
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "2 QUEEN BEDS,NSMK,MICRFG,43IN LED TV,", "HI SPEED NET,FULL BREAKFAST" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWCVG111?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-30&check_out=2018-10-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWCVG077",
+    "property_name" : "Best Western Premier Mariemont",
+    "marketing_text" : "Picture yourself in a rustic setting at the BEST WESTERN PREMIER Mariemont Inn. Majestic trees towering above a tranquil village green, old world architecture lining a quaint square, and shops in every direction.",
+    "location" : {
+      "latitude" : 39.14531,
+      "longitude" : -84.37504
+    },
+    "address" : {
+      "line1" : "6880 Wooster Pike",
+      "city" : "Cincinnati",
+      "region" : "OH",
+      "postal_code" : "45227",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "156.60",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "156.60",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-513-2712100"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-513-2711057"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B1KSRSC",
+      "room_type_code" : "B1K",
+      "rate_plan_code" : "SRS",
+      "total_amount" : {
+        "amount" : "156.60",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-30",
+        "end_date" : "2018-10-01",
+        "currency_code" : "USD",
+        "price" : 156.6
+      } ],
+      "descriptions" : [ "SENIOR RATE*CITIZENS 55YRS PLUS OR AARP ID", "1 KING BED,MOBILITY ACC,COMMASSIST,BATHTUB,", "NSMK" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Moderate"
+      },
+      "rate_type_code" : "SRS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWCVG077?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-30&check_out=2018-10-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "XVCVGDTS",
+    "property_name" : "Springhill Stes Midtw Marriott",
+    "location" : {
+      "latitude" : 39.11807,
+      "longitude" : -84.49843
+    },
+    "address" : {
+      "line1" : "610 Eden Park Drive",
+      "city" : "Cincinnati",
+      "region" : "OH",
+      "postal_code" : "45202",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "177.65",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "177.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-513-3818300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-513-3818301"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "177.65",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-30",
+        "end_date" : "2018-10-01",
+        "currency_code" : "USD",
+        "price" : 177.65
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Queen, Sofa bed, Mini fridge, Microwave, 300s", "qft/27sqm, Living/sitting area, Wireless intern" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/XVCVGDTS?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-30&check_out=2018-10-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HICVG039",
+    "property_name" : "Holiday Inn Cincinnati Airport",
+    "marketing_text" : "Newly renovated hotel! From our guest rooms to our restaurant and meeting space you will be the first to experience our new hotel.",
+    "location" : {
+      "latitude" : 39.05678,
+      "longitude" : -84.62661
+    },
+    "address" : {
+      "line1" : "1717 Airport Exchange Blvd.",
+      "city" : "Erlanger",
+      "region" : "KY",
+      "postal_code" : "41018",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "180.95",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "180.95",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-859-3712233"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-859-3715002"
+    }, {
+      "type" : "URL",
+      "detail" : "www.holidayinn.com/cvg-airport"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "STN482G",
+      "room_type_code" : "*RH",
+      "rate_plan_code" : "482",
+      "total_amount" : {
+        "amount" : "180.95",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-30",
+        "end_date" : "2018-10-01",
+        "currency_code" : "USD",
+        "price" : 180.95
+      } ],
+      "descriptions" : [ "BOOK EARLY N SAVE NO REFUNDS", "STANDARD ROOM WHEN YOU ARRIVE AT THE HOTEL WE", "WILL DO OUR BEST TO MEET YOUR ROOM BED TYPE AND" ],
+      "room_type_info" : {
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "482"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HICVG039?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-30&check_out=2018-10-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

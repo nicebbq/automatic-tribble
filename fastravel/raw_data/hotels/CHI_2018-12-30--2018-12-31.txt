@@ -1,0 +1,2406 @@
+{
+  "results" : [ {
+    "property_code" : "BWCHI120",
+    "property_name" : "Best Western Grant Park Hotel",
+    "location" : {
+      "latitude" : 41.86918,
+      "longitude" : -87.62475
+    },
+    "address" : {
+      "line1" : "1100 South Michigan Avenue",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60605",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "71.20",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "71.20",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-312-9222900"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-312-9228812"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B1QDB6D",
+      "room_type_code" : "B1Q",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "71.20",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 71.2
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "1 QUEEN BED,MOBILITY ACCESSIBLE,ROLL IN SHOWER,", "NSMK" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWCHI120?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "IQCHI788",
+    "property_name" : "Chicago South Loop Hotel",
+    "marketing_text" : "The Chicago South Loop Hotel is new hotel that opened for business in March 2008. The property is located within the Chicago Museum District and Bronzeville neighborhood, 4 miles from Chicago City Center, 9 miles from Chicago Midway",
+    "location" : {
+      "latitude" : 41.8454,
+      "longitude" : -87.62754
+    },
+    "address" : {
+      "line1" : "11 West 26th Street",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60616",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "84.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "84.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-312-2257000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-312-2252396"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QAAR",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "AAR",
+      "total_amount" : {
+        "amount" : "84.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 84.0
+      } ],
+      "descriptions" : [ "Senior Discount", "TRADITIONAL SINGLE QUEEN, FREE PARKING", "FREE WIRELESS HSIA, ALL NO SMOKING" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AAR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/IQCHI788?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MUCHIKNI",
+    "property_name" : "Millennium Knickerbocker Chicago",
+    "location" : {
+      "latitude" : 41.89991,
+      "longitude" : -87.62319
+    },
+    "address" : {
+      "line1" : "163 East Walton Place",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60611",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "84.15",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "84.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "312-751-8100"
+    }, {
+      "type" : "FAX",
+      "detail" : "312-751-9205"
+    } ],
+    "amenities" : [ {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KAD1",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "AD1",
+      "total_amount" : {
+        "amount" : "84.15",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 84.15
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - 14 DAY LEAD TIME - RO - EX", "TAX - COMMISSIONABLE - NON REFUNDABLE.", "STANDARD 1 KING-260 SQ FT-WIRELESS INTERNET-" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AD1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MUCHIKNI?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZMDW855",
+    "property_name" : "Super 8 Bridgeview Chicago Ar",
+    "location" : {
+      "latitude" : 41.74725,
+      "longitude" : -87.81739
+    },
+    "address" : {
+      "line1" : "7887 West 79th Street",
+      "city" : "Bridgeview",
+      "region" : "IL",
+      "postal_code" : "60455-1413",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "85.55",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "76.39",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-708-3258121"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-708-4589248"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "PND1S3A",
+      "room_type_code" : "PND",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "85.55",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 76.39
+      } ],
+      "descriptions" : [ "AAA RATE ", "ACCESSIBLE 1 DOUBLE BED NON-SMOKING", "ROOM WITH RAISED TOILET, BATH RAILS," ],
+      "room_type_info" : {
+        "room_type" : "Executive suite",
+        "bed_type" : "Double"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZMDW855?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWCHI112",
+    "property_name" : "Best Western River North Hotel",
+    "marketing_text" : "Free parking and an indoor pool are only two reasons to make BEST WESTERN PLUS River North Hotel your choice for a hotel in downtown chicago. newly renovated",
+    "location" : {
+      "latitude" : 41.8923,
+      "longitude" : -87.63201
+    },
+    "address" : {
+      "line1" : "125 W. Ohio Street",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60654 7168",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "88.81",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "75.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-312-4670800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-312-4671665"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "1"
+    }, {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A2DAAAA",
+      "room_type_code" : "A2D",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "88.81",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 75.65
+      } ],
+      "descriptions" : [ "AAA CAA RATE*MEMBERS MUST SHOW ID AT CHECK IN", "2 DOUBLE BEDS,NSMK,HISPD,WORK", "STANDARD" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWCHI112?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "FNCHIFTF",
+    "property_name" : "Fairfield Inn N Stes Marriott",
+    "location" : {
+      "latitude" : 41.89094,
+      "longitude" : -87.63047
+    },
+    "address" : {
+      "line1" : "60 West Illinois",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60654",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "97.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "97.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-312-8361700"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-312-8361702"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "97.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 97.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Queen, Mini fridge, Wireless internet, compli", "mentary, Wired internet, complimentary, Coffee/" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/FNCHIFTF?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "ALCHI370",
+    "property_name" : "Aloft Chicago City Center",
+    "location" : {
+      "latitude" : 41.89127,
+      "longitude" : -87.6309
+    },
+    "address" : {
+      "line1" : "515 North Clark Street",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60654",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "103.15",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "103.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 312 661-1000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 312 661-1002"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "aloftchicagofrontdesk@whitelodging.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    }, {
+      "provider" : "U.S. Green Building Council",
+      "rating" : "LEED Certified"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KA16",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "A16",
+      "total_amount" : {
+        "amount" : "103.15",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 103.15
+      } ],
+      "descriptions" : [ "1 KING:AAA/CAA RATE", "AAA OR CAA MEMBERSHIP ID NEEDED AT CHECK IN.", "FLOATING RATE" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "A16"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/ALCHI370?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OXCHIOXX",
+    "property_name" : "Moxy By Marriott Chicago Downtown",
+    "location" : {
+      "latitude" : 41.8921,
+      "longitude" : -87.63295
+    },
+    "address" : {
+      "line1" : "530 North Lasalle Drive",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60654",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "104.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "104.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-312-5277200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-312-5277220"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "APNM00",
+      "room_type_code" : "APN",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "104.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 104.0
+      } ],
+      "descriptions" : [ "Advance Purchase rate, prepay in full, non-refu", "es", "2 Twin/Single Bed(s), 150sqft/14sqm, Wireless i" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OXCHIOXX?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "JVCHITTH",
+    "property_name" : "The Talbott Hotel Chicago Lif",
+    "location" : {
+      "latitude" : 41.89936,
+      "longitude" : -87.62754
+    },
+    "address" : {
+      "line1" : "20 E Delaware Place",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60611",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "109.65",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "109.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 312 9444970"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 312 3129447241"
+    }, {
+      "type" : "URL",
+      "detail" : "https://www.talbotthotel.com/"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ROOM_SERVICE_24_HOURS",
+      "ota_code" : 2,
+      "description" : "24-hour room service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "4"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1QAAA",
+      "room_type_code" : "H1Q",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "109.65",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 109.65
+      } ],
+      "descriptions" : [ "AAA RATE ", "SUPERIOR QUEEN ACCESIBLE-219 SQ FT SMART TV-FREE WIFI-24HR FIT ", "CTR THIS ROOM IS TUCKED AWAY OFFERING EXTRA PRIVACY AND " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/JVCHITTH?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WWCHIACM",
+    "property_name" : "Acme Hotel Company Chicago",
+    "location" : {
+      "latitude" : 41.89233,
+      "longitude" : -87.62753
+    },
+    "address" : {
+      "line1" : "15 E Ohio Street",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60611",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "113.66",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "96.75",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-312-8940800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-312-8940999"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "info@acmehotelcompany.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.acmehotelcompany.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "S1E3ZZZ",
+      "room_type_code" : "H1Q",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "113.66",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 96.75
+      } ],
+      "descriptions" : [ "4 Night Plus Stay Adv Booking 90 Days", "Standard wheelchair accessible / 1 queen", "/ desk / seating area / wifi / 208 sqft" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WWCHIACM?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "XVCHINRS",
+    "property_name" : "Springhill Stes Dwtn Marriott",
+    "location" : {
+      "latitude" : 41.88968,
+      "longitude" : -87.62972
+    },
+    "address" : {
+      "line1" : "410 North Dearborn Street",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60654",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "113.90",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "113.90",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-312-6444071"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-312-6444072"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "113.90",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 113.9
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Double, Sofa bed, Mini fridge, Microwave, 366", "sqft/33sqm, Living/sitting area, Wireless inter" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/XVCHINRS?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RCCHIRNR",
+    "property_name" : "Residence Inn River N Marriott",
+    "location" : {
+      "latitude" : 41.88965,
+      "longitude" : -87.62981
+    },
+    "address" : {
+      "line1" : "410 N Dearborn St",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60654",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "113.90",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "113.90",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-312-4949301"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-312-4949302"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "113.90",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 113.9
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 King, Sofa bed, Fully equipped kitchen, Micro", "wave, 401sqft/36sqm, Living/sitting area, Dinin" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RCCHIRNR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CYCHIMMC",
+    "property_name" : "Courtyard Magnif Mile Marriott",
+    "location" : {
+      "latitude" : 41.89316,
+      "longitude" : -87.62288
+    },
+    "address" : {
+      "line1" : "165 East Ontario Street",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60611",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "114.75",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "114.75",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-312-5730800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-312-5730573"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIC00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "114.75",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 114.75
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 Queen, Mini fridge, 336sqft/30sqm, Living/sit", "ting area, Wireless internet, complimentary, Wi" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CYCHIMMC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQCHI013",
+    "property_name" : "La Quinta Inn Ste Chicago Downtown",
+    "marketing_text" : "The newly renovated La Quinta Inn & Suites Chicago Downtown provides everything you need when traveling for business-a prime location in downtown Chicago, FREE WiFi, FREE Hot Bright Side Breakfast, a full-service restaurant, and so much more.",
+    "location" : {
+      "latitude" : 41.88157,
+      "longitude" : -87.63514
+    },
+    "address" : {
+      "line1" : "1 South Franklin",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60606",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "121.50",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "103.50",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 312 558-1020"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 312 558-1014"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq2013gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://2013.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A05A00",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "121.50",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 103.5
+      } ],
+      "descriptions" : [ "AAA Rate Members ID Required", "One King Bed/Accessible/Newly Renovated", "Nonsmoking/Microwave/Fridge/Free WIFI" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQCHI013?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WKCHIEBB",
+    "property_name" : "Warwick Allerton - Chicago",
+    "location" : {
+      "latitude" : 41.89517,
+      "longitude" : -87.62377
+    },
+    "address" : {
+      "line1" : "701 N Michigan Avenue",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60611",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "123.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "123.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-312-4401500"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-312-4401819"
+    }, {
+      "type" : "URL",
+      "detail" : "http //warwickhotels.com/allerton-hotel-chicago/"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "E1QXAJ",
+      "room_type_code" : "E1Q",
+      "rate_plan_code" : "XAJ",
+      "total_amount" : {
+        "amount" : "123.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 123.0
+      } ],
+      "descriptions" : [ "AAA RATECAA RATE PROMOTION ", "Accessible Room 1 Queen or King bed ADA compliant Lowered vanity", "door fixtures 300 sq ft Roll in shower and shower seat " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Superior",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "XAJ"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WKCHIEBB?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SICHI196",
+    "property_name" : "Sheraton Grand Chicago",
+    "location" : {
+      "latitude" : 41.88912,
+      "longitude" : -87.61929
+    },
+    "address" : {
+      "line1" : "301 East North Water Street",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60611",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "125.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "125.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 312 464-1000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 312 464-9140"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "info@sheratonchicago.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "P2DDO0",
+      "room_type_code" : "P2D",
+      "rate_plan_code" : "DO0",
+      "total_amount" : {
+        "amount" : "125.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 125.1
+      } ],
+      "descriptions" : [ "2 DBLS:PREPAID RATE", "TRADITIONAL NON-SMOKING:SIGNATURE SLEEP", "EXPERIENCE:CITY VIEW:47 INCH LED TV:FREE" ],
+      "room_type_info" : {
+        "room_type" : "Executive suite",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "DO0"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SICHI196?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "JVCHI102",
+    "property_name" : "Hotel Lincoln",
+    "location" : {
+      "latitude" : 41.91532,
+      "longitude" : -87.63439
+    },
+    "address" : {
+      "line1" : "1816 N Clark Street",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60614",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "127.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "127.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-312-2544700"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-312-2544701"
+    }, {
+      "type" : "URL",
+      "detail" : "www.hotellincolnchicago.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "4"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "4"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2QCR1",
+      "room_type_code" : "C2Q",
+      "rate_plan_code" : "CR1",
+      "total_amount" : {
+        "amount" : "127.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 127.0
+      } ],
+      "descriptions" : [ "CORPORATE PREFERRED RATE ", "1 KNG OR 1 QN ADA W ROLL IN SHOWER-FREE WIFI CUBIE BLUE SPKR-IN ", "RM MOVIES -IN RM SAFE FEATURES VIEWS OF THE LINCOLN PARK " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "CR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/JVCHI102?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "VLCHIVHL",
+    "property_name" : "Virgin Hotels Chicago",
+    "location" : {
+      "latitude" : 41.88613,
+      "longitude" : -87.626
+    },
+    "address" : {
+      "line1" : "203 N Wabash Ave",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60601",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "129.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "129.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-312-9404400"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-312-9404720"
+    }, {
+      "type" : "URL",
+      "detail" : "www.virginhotels.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ROOM_SERVICE_24_HOURS",
+      "ota_code" : 2,
+      "description" : "24-hour room service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "DOCTOR_ON_CALL",
+      "ota_code" : 28,
+      "description" : "Doctor on call"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "NIGHTCLUB",
+      "ota_code" : 62,
+      "description" : "Nightclub"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "DISCO",
+      "ota_code" : 195,
+      "description" : "Disco"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "4"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "4"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "4"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2DSNR",
+      "room_type_code" : "C2D",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "129.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 129.0
+      } ],
+      "descriptions" : [ "AARP RATE ", "You have two of everything still. have your dressing room and ", "sleeping lounge. Brilliant design for the insatiably curious 2 " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/VLCHIVHL?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RDCHI199",
+    "property_name" : "Radisson Blu Aqua Chicago",
+    "marketing_text" : "Located in the heart of downtown Chicago, the Aqua hotel is the debut of Radisson Blu in North America. It features 334 rooms with fantastic lake and city views and features over 28,000 sq. ft. of meetings/event space.",
+    "location" : {
+      "latitude" : 41.88645,
+      "longitude" : -87.62006
+    },
+    "address" : {
+      "line1" : "221 N Columbus Drive",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60601",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "132.05",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "132.05",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 312 565-5258"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 312 565-0258"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "salesaquachicago@radisson.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.radissonbluchicago.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ROOM_SERVICE_24_HOURS",
+      "ota_code" : 2,
+      "description" : "24-hour room service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "DOCTOR_ON_CALL",
+      "ota_code" : 28,
+      "description" : "Doctor on call"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "",
+      "ota_code" : 194,
+      "description" : "Children's nursery"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "4"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "IA00902",
+      "room_type_code" : "ROH",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "132.05",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 132.05
+      } ],
+      "descriptions" : [ "AAA RATE", "KING BED WITH BALCONY", "-SPECIAL RATE FOR AAA-CAA MEMBERS-ID REQUIRED" ],
+      "room_type_info" : { },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RDCHI199?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HXCHI220",
+    "property_name" : "Hampton Inn Majestic Chicago",
+    "location" : {
+      "latitude" : 41.88078,
+      "longitude" : -87.62868
+    },
+    "address" : {
+      "line1" : "22 W Monroe",
+      "city" : "Chicago",
+      "region" : "IL",
+      "postal_code" : "60603",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "132.05",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "132.05",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 312 332-5052"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 312 332-5051"
+    } ],
+    "amenities" : [ {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0JA5N",
+      "room_type_code" : "F1K",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "132.05",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-30",
+        "end_date" : "2018-12-31",
+        "currency_code" : "USD",
+        "price" : 132.05
+      } ],
+      "descriptions" : [ "AAA RATE", "1 KING HEARING ACCESSIBLE NONSMOKING", "VIS DOORBELL ALRT AND VIS TELEPHONE ALRT/HDTV" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HXCHI220?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-30&check_out=2018-12-31&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

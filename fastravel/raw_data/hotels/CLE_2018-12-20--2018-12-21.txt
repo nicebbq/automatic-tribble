@@ -1,0 +1,422 @@
+{
+  "results" : [ {
+    "property_code" : "MXCLEA83",
+    "property_name" : "Motel 6 Cleveland - Middleburg Heights",
+    "location" : {
+      "latitude" : 41.37081,
+      "longitude" : -81.8242
+    },
+    "address" : {
+      "line1" : "7219 Engle Rd",
+      "city" : "Middleburg Heights",
+      "region" : "OH",
+      "postal_code" : "44130",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "51.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "51.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-440-234-0990"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-440-234-3475"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N2DRACK",
+      "room_type_code" : "N2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "51.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-20",
+        "end_date" : "2018-12-21",
+        "currency_code" : "USD",
+        "price" : 51.99
+      } ],
+      "descriptions" : [ "RACK", "2 FULL BEDS" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXCLEA83?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-20&check_out=2018-12-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQCLEBMP",
+    "property_name" : "La Quinta Inn Cleveland Independence",
+    "marketing_text" : "The La Quinta Inn Cleveland hotel in Independence is nearby Cleveland Indians Field, Cleveland Cavaliers Arena, Cleveland Browns Stadium & Marymount Hospital.",
+    "location" : {
+      "latitude" : 41.39388,
+      "longitude" : -81.64906
+    },
+    "address" : {
+      "line1" : "6161 Quarry Lane",
+      "city" : "Independence",
+      "region" : "OH",
+      "postal_code" : "44131",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "69.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "69.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 216 447-1133"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 216 447-0135"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq1003gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://1003.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A09A89",
+      "room_type_code" : "H2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "69.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-20",
+        "end_date" : "2018-12-21",
+        "currency_code" : "USD",
+        "price" : 69.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "Mobility Accessible One Double Bed/Nonsmoking", "32 inch HDTV/Free WIFI/Free Breakfast" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQCLEBMP?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-20&check_out=2018-12-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HYCLECLE",
+    "property_name" : "Hyatt Regency Cleveland At The Arcade",
+    "marketing_text" : "Located in the Historic Gateway Neighborhood, at East 4th Street between Euclid and Superior Avenues, Hyatt Regency Cleveland at The Arcade provides convenient proximity to all major attractions in Cleveland. ",
+    "location" : {
+      "latitude" : 41.5007,
+      "longitude" : -81.69096
+    },
+    "address" : {
+      "line1" : "420 Superior Ave",
+      "city" : "Cleveland",
+      "region" : "OH",
+      "postal_code" : "44114",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "115.43",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "115.43",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-216-575-1234"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-216-575-1690"
+    }, {
+      "type" : "URL",
+      "detail" : "http://cleveland.regency.hyatt.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "NIGHTCLUB",
+      "ota_code" : 62,
+      "description" : "Nightclub"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 92,
+      "description" : "Translation services"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "KNGADPR",
+      "room_type_code" : "KNG",
+      "rate_plan_code" : "***",
+      "total_amount" : {
+        "amount" : "115.43",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-12-20",
+        "end_date" : "2018-12-21",
+        "currency_code" : "USD",
+        "price" : 115.43
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE 1 KING BED", "1 KING BED: FL 2-9" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath/shower - Minimum"
+      },
+      "rate_type_code" : "***"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HYCLECLE?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-12-20&check_out=2018-12-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

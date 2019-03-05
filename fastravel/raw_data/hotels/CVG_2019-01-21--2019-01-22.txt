@@ -1,0 +1,112 @@
+{
+  "results" : [ {
+    "property_code" : "HHCVG253",
+    "property_name" : "Hilton Cincinnati Netherlands",
+    "location" : {
+      "latitude" : 39.10085,
+      "longitude" : -84.51396
+    },
+    "address" : {
+      "line1" : "35 West Fifth St",
+      "city" : "Cincinnati",
+      "region" : "OH",
+      "postal_code" : "45202-2899",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "205.63",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "175.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-513-421-9100"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-513-421-4291"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "4"
+    }, {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A12A06",
+      "room_type_code" : "B2D",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "205.63",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-21",
+        "end_date" : "2019-01-22",
+        "currency_code" : "USD",
+        "price" : 175.0
+      } ],
+      "descriptions" : [ "AAA STAY AND SAVE", "2 DOUBLE MOBILITY/HEARING ACCESS W/BATHTUB", "VIS FIRE ALARM/ DOOR/PHONE ALERT" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with bath - Moderate"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HHCVG253?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-21&check_out=2019-01-22&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

@@ -1,0 +1,298 @@
+{
+  "results" : [ {
+    "property_code" : "HXPIT525",
+    "property_name" : "Hampton Ste Pit Waterfront W Homestead",
+    "location" : {
+      "latitude" : 40.40668,
+      "longitude" : -79.91963
+    },
+    "address" : {
+      "line1" : "301 West Waterfront Drive",
+      "city" : "Pittsburgh",
+      "region" : "PA",
+      "postal_code" : "15120",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "134.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "134.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 412 462-4226"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 412 462-4225"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A06A0Y",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "134.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-12",
+        "end_date" : "2019-01-13",
+        "currency_code" : "USD",
+        "price" : 134.1
+      } ],
+      "descriptions" : [ "AAA -AAA RATE", "1 KING WITH FRIDGE NONSMOKING", "FREE WI-FI/HDTV/HOT BREAKFAST INCLUDED" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HXPIT525?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-12&check_out=2019-01-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OMPITPEN",
+    "property_name" : "Omni William Penn Hotel",
+    "location" : {
+      "latitude" : 40.44068,
+      "longitude" : -79.99683
+    },
+    "address" : {
+      "line1" : "530 William Penn Place",
+      "city" : "Pittsburgh",
+      "region" : "PA",
+      "postal_code" : "15219",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "161.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "161.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 412 281-7100"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 412 553-5252"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "",
+      "ota_code" : 6,
+      "description" : "Airline desk"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 104,
+      "description" : "Wedding services"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "ROOM_SERVICE_24_HOURS",
+      "ota_code" : 2,
+      "description" : "24-hour room service"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 113,
+      "description" : "120 AC"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "MULTILINGUAL_STAFF",
+      "ota_code" : 103,
+      "description" : "Multilingual staff"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    }, {
+      "amenity" : "BANQUET_FACILITIES",
+      "ota_code" : 105,
+      "description" : "Banquet facilities"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    } ],
+    "awards" : [ {
+      "provider" : "Luxury",
+      "rating" : "4 Star"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "ADQWPN",
+      "room_type_code" : "ADQ",
+      "rate_plan_code" : "WPN",
+      "total_amount" : {
+        "amount" : "161.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-12",
+        "end_date" : "2019-01-13",
+        "currency_code" : "USD",
+        "price" : 161.0
+      } ],
+      "descriptions" : [ "William Penn AAA Special", "ACCESSIBLE DELUXE ROOM 1 QUEEN BED", "FULL FEATURES AVAIL BY CALLING 800 THE OMNI" ],
+      "room_type_info" : {
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "WPN"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OMPITPEN?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-12&check_out=2019-01-13&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

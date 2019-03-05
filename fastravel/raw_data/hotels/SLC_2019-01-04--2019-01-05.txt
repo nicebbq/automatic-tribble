@@ -1,0 +1,2056 @@
+{
+  "results" : [ {
+    "property_code" : "MXSLCB36",
+    "property_name" : "Motel 6 Salt Lake City North - Woods Cro",
+    "location" : {
+      "latitude" : 40.86422,
+      "longitude" : -111.90164
+    },
+    "address" : {
+      "line1" : "2433 S 800 W",
+      "city" : "Woods Cross",
+      "region" : "UT",
+      "postal_code" : "84087",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "55.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "55.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-801-298-0289"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-801-292-7423"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "U1DRACK",
+      "room_type_code" : "U1D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "55.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 55.99
+      } ],
+      "descriptions" : [ "RACK", "1 FULL BED / ACCESSIBLE" ],
+      "room_type_info" : {
+        "room_type" : "Suite",
+        "bed_type" : "Double",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXSLCB36?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXSLC015",
+    "property_name" : "Motel 6 Salt Lake City Downtown",
+    "location" : {
+      "latitude" : 40.75668,
+      "longitude" : -111.89636
+    },
+    "address" : {
+      "line1" : "176 W 600 S",
+      "city" : "Salt Lake City",
+      "region" : "UT",
+      "postal_code" : "84106",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "59.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "59.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-801-5311252"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-801-3592859"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "UBRRACK",
+      "room_type_code" : "UBR",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "59.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 59.99
+      } ],
+      "descriptions" : [ "RACK", "1 FULL BED / MODERN, ADA ACCESSIBLE" ],
+      "room_type_info" : {
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXSLC015?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HTSLC435",
+    "property_name" : "Home2 Suites Slc - West Valley City Ut",
+    "location" : {
+      "latitude" : 40.71284,
+      "longitude" : -111.98728
+    },
+    "address" : {
+      "line1" : "4028 Parkway Blvd",
+      "city" : "West Valley City",
+      "region" : "UT",
+      "postal_code" : "84120",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "67.15",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "67.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 801 679-8222"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 801 679-8220"
+    } ],
+    "amenities" : [ {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A07A22",
+      "room_type_code" : "F1Q",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "67.15",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 67.15
+      } ],
+      "descriptions" : [ "AAA -AAA RATE", "1QUEEN ACCESSIBLE BATHTUB STUDIO NONSMOKING", "FREE BRKFST/INTERNET-KITCHEN W/MICRO/FRIDGE" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HTSLC435?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWSLC086",
+    "property_name" : "Best Western Plus Airport Inn",
+    "location" : {
+      "latitude" : 40.77393,
+      "longitude" : -112.02164
+    },
+    "address" : {
+      "line1" : "5433 W Wiley Post Way",
+      "city" : "Salt Lake City",
+      "region" : "UT",
+      "postal_code" : "84116",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "75.65",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "75.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-801-4280900"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-801-4280901"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A2QDB6B",
+      "room_type_code" : "A2Q",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "75.65",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 75.65
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "2 QUEEN BEDS,MOBILITY ACCESSIBLE,BATHTUB,NSMK,", "FULL BREAKFAST" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWSLC086?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXSLCHSV",
+    "property_name" : "Crossland Slc Mid Valley",
+    "location" : {
+      "latitude" : 40.64696,
+      "longitude" : -111.93706
+    },
+    "address" : {
+      "line1" : "5683 South Redwood Rd",
+      "city" : "Salt Lake City",
+      "region" : "UT",
+      "postal_code" : "84123",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "80.07",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "71.75",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-801-2699292"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-801-2699292"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1OSNR",
+      "room_type_code" : "C1O",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "80.07",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 71.75
+      } ],
+      "descriptions" : [ "AARP RATE ", "Standard Studio 1 Queen Nonsmoking Accessible Standard Studio 1 ", "Queen Nonsmoking Accessible " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXSLCHSV?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CXSLC724",
+    "property_name" : "Country Inn Suites West Valley",
+    "marketing_text" : "Three story 81 room hotel with indoor pool and hot tub. Complimentary breakfast, high speed wireless internet, guest laundry, free local calls and long distance access. In room coffee, microwave, refrigerator, suites available. Radisson Reward Points",
+    "location" : {
+      "latitude" : 40.69807,
+      "longitude" : -111.94733
+    },
+    "address" : {
+      "line1" : "3422 South Decker Lake Drive",
+      "city" : "West Valley City",
+      "region" : "UT",
+      "postal_code" : "84119",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "88.80",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "88.80",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 801 908-0311"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 801 908-0315"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "cx_wval@countryinns.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.countryinns.com/westvalleycityut"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 92,
+      "description" : "Translation services"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "FEMALE_TRAVELER_ROOM",
+      "ota_code" : 110,
+      "description" : "Female traveler room/floor"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "IA01168",
+      "room_type_code" : "O2Q",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "88.80",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 88.8
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE-SAVE 20PCT", "2 QUEEN BEDS-NON SMOKING", "-FULL PREPAYMENT - NON-REFUNDABLE" ],
+      "room_type_info" : {
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CXSLC724?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MTSLC100",
+    "property_name" : "Microtel Inn & Suites By Wyndh",
+    "marketing_text" : "Free wireless internet and long distance. I mile from the Salt Lake City Airport. Adjacent to the International Center Business Park.",
+    "location" : {
+      "latitude" : 40.77037,
+      "longitude" : -112.00301
+    },
+    "address" : {
+      "line1" : "61 N. Tommy Tompson Road",
+      "city" : "Salt Lake City",
+      "region" : "UT",
+      "postal_code" : "84116",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "89.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-801-8952843"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-801-9949014"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "SNK1S3A",
+      "room_type_code" : "SNK",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "89.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 89.1
+      } ],
+      "descriptions" : [ "AAA RATE ", "1 KING BED NON SMOKING SUITE WITH", "SOFABED, FREE CONTINENTAL BREAKFAST," ],
+      "room_type_info" : {
+        "room_type" : "Suite",
+        "bed_type" : "King"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MTSLC100?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZSLC515",
+    "property_name" : "Super 8 Salt Lake City Airport",
+    "location" : {
+      "latitude" : 40.77317,
+      "longitude" : -112.01996
+    },
+    "address" : {
+      "line1" : "223 North Jimmy Doolittle Rd",
+      "city" : "Salt Lake City",
+      "region" : "UT",
+      "postal_code" : "84116",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "90.95",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "80.54",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-801-5338878"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-801-5338898"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "NQ1S3A",
+      "room_type_code" : "NQ1",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "90.95",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 80.54
+      } ],
+      "descriptions" : [ "AAA RATE ", "1 QUEEN BED NON-SMOKING ROOM WITH", "FREE CONTINENTAL BREAKFAST, FREE WI-FI," ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZSLC515?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQSLC443",
+    "property_name" : "La Quinta Inn Salt Lake City West",
+    "marketing_text" : "Located southwest of downtown with easy highway access, the La Quinta Inn-Salt Lake City West is convenient to the airport and all area attractions. From here, it is an easy drive to Delta Center (Utah Jazz), E Center, Hale Theater, and Rice Stadium.",
+    "location" : {
+      "latitude" : 40.6957,
+      "longitude" : -111.94886
+    },
+    "address" : {
+      "line1" : "3540 South 2200 West",
+      "city" : "West Valley City",
+      "region" : "UT",
+      "postal_code" : "84119",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "92.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "92.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 801 954-9292"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 801 954-8242"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq0443gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://443.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A11A4N",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "92.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 92.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "King Pillowtop Bed", "Ultra Fast Free Internet/Free Breakfast" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQSLC443?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "GISLC519",
+    "property_name" : "Hgi Salt Lake City Airport",
+    "location" : {
+      "latitude" : 40.77291,
+      "longitude" : -112.01068
+    },
+    "address" : {
+      "line1" : "4975 Wiley Post Way",
+      "city" : "Salt Lake City",
+      "region" : "UT",
+      "postal_code" : "84116",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "92.65",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "92.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 801 519-9000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 801 519-9001"
+    } ],
+    "amenities" : [ {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A07A0U",
+      "room_type_code" : "S2Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "92.65",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 92.65
+      } ],
+      "descriptions" : [ "AAA STAY AND SAVE", "2 QUEEN MOBILITY/HEARING  ACCESSIBLE RI SHWR", "VIS FIREALRM/DOOR/PHN ALRT" ],
+      "room_type_info" : {
+        "room_type" : "Suite",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/GISLC519?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MCSLCCCM",
+    "property_name" : "Marriott City Center",
+    "location" : {
+      "latitude" : 40.76446,
+      "longitude" : -111.88854
+    },
+    "address" : {
+      "line1" : "220 South State Street",
+      "city" : "Salt Lake City",
+      "region" : "UT",
+      "postal_code" : "84111",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "109.65",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "109.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-801-9618700"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-801-9618704"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIC00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "109.65",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 109.65
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Queen Beds, 2 Queen, 390sqft/35sqm, Wireless ", "internet, complimentary, Wired internet, for a " ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MCSLCCCM?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "ESSLC525",
+    "property_name" : "Embassy Stes Salt Lake City West Valley",
+    "location" : {
+      "latitude" : 40.69603,
+      "longitude" : -111.96068
+    },
+    "address" : {
+      "line1" : "3524 South Market St",
+      "city" : "West Valley",
+      "region" : "UT",
+      "postal_code" : "84119",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "110.70",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "110.70",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 801 963-4760"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 801 963-4766"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A04A16",
+      "room_type_code" : "F1K",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "110.70",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 110.7
+      } ],
+      "descriptions" : [ "AAA RATE", "1KING MOBILITY/HEARING ACCESSIBLE ROLLIN SHWR", "ROLLIN SHOWER-SOFABED-MICROWAVE-REFRIG" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/ESSLC525?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CYSLCCDC",
+    "property_name" : "Courtyard Downtown Marriott",
+    "location" : {
+      "latitude" : 40.76688,
+      "longitude" : -111.90133
+    },
+    "address" : {
+      "line1" : "345 West 100 South",
+      "city" : "Salt Lake City",
+      "region" : "UT",
+      "postal_code" : "84101",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "118.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "118.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-385-2906500"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-385-2906499"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "118.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 118.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 King, Sofa bed, Mini fridge, Microwave, Livin", "g/sitting area, Wireless internet, complimentar" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CYSLCCDC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RLSLC816",
+    "property_name" : "Hotel Rl By Red Lion Salt Lake City",
+    "marketing_text" : "Full-service, downtown, 394-room hotel, with easy access to I-15. Located near Salt Palace Convention Center, Trax Light Rail, Temple Square, Vivint Arena, downtown shopping, entertainment and dining. Comp airport and downtown shuttle.",
+    "location" : {
+      "latitude" : 40.75603,
+      "longitude" : -111.89517
+    },
+    "address" : {
+      "line1" : "161 West 600 South",
+      "city" : "Salt Lake City",
+      "region" : "UT",
+      "postal_code" : "84101",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "122.40",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "122.40",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 801 521-7373"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 801 524-0354"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "chris.balun@redlion.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.redlion.com/salt-lake/"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1QARP",
+      "room_type_code" : "H1Q",
+      "rate_plan_code" : "ARP",
+      "total_amount" : {
+        "amount" : "122.40",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 122.4
+      } ],
+      "descriptions" : [ "AARP Rate-ID Required to Qualify. 50 years of", "age or older.", "Accessible Queen,Handrails, Handheld Showerhead" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "ARP"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RLSLC816?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RDSLC894",
+    "property_name" : "Radisson Salt Lake City Dwntwn",
+    "marketing_text" : "Radisson Hotel Salt Lake City Downtown has 3 main features -\r- Excellent Downtown location within minutes to business headquarters, shopping, restaurants, and  attractions\r- Exceptional value priced for upscale accommodations\r- Outstanding Service",
+    "location" : {
+      "latitude" : 40.76914,
+      "longitude" : -111.89756
+    },
+    "address" : {
+      "line1" : "215 West South Temple",
+      "city" : "Salt Lake City",
+      "region" : "UT",
+      "postal_code" : "84101",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "138.60",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "138.60",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 801 531-7500"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 801 531-9282"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "rhi_slcu@radisson.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.radisson.com/saltlakecityut_downtown"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "DOCTOR_ON_CALL",
+      "ota_code" : 28,
+      "description" : "Doctor on call"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 92,
+      "description" : "Translation services"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "",
+      "ota_code" : 194,
+      "description" : "Children's nursery"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "IA01811",
+      "room_type_code" : "I2Q",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "138.60",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 138.6
+      } ],
+      "descriptions" : [ "AAA-CAA RATE", "2 QUEEN BEDS-TRADITIONAL-NON SMOKING", "-SPECIAL RATE FOR AAA-CAA MEMBERS-ID REQUIRED" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath/shower - Superior",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RDSLC894?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "GISLC100",
+    "property_name" : "Hilton Garden Inn Salt Lake Cit",
+    "location" : {
+      "latitude" : 40.75672,
+      "longitude" : -111.89825
+    },
+    "address" : {
+      "line1" : "250 West 600 South",
+      "city" : "Salt Lake City",
+      "region" : "UT",
+      "postal_code" : "84101",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "151.05",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "151.05",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 801 364-5200"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 801 364-5202"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0LA04",
+      "room_type_code" : "K1K",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "151.05",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 151.05
+      } ],
+      "descriptions" : [ "AAA STAY AND SAVE", "1 KING HEARING ACCESSIBLE ROOM", "VIS FIREALRM/DOOR/PHN ALRT/COMP WIFI/HDTV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath/shower - Minimum",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/GISLC100?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWSLC061",
+    "property_name" : "Bw Plus Cottontree Inn",
+    "marketing_text" : "The restful, country atmosphere of the BEST WESTERN PLUS CottonTree Inn in north salt lake is the oasis from the chaos of the city. Every detail of this charming facility exudes quality.",
+    "location" : {
+      "latitude" : 40.86031,
+      "longitude" : -111.90113
+    },
+    "address" : {
+      "line1" : "1030 N 400 East",
+      "city" : "North Salt Lake City",
+      "region" : "UT",
+      "postal_code" : "84054",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "169.96",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "169.96",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-801-2927666"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-801-2929664"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A2QDB6A",
+      "room_type_code" : "A2Q",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "169.96",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 169.96
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "2 QUEEN BEDS,NSMK,REFRIG,32IN LCD TV,", "HI SPEED NET,FULL BREAKFAST" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWSLC061?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RCSLCRIR",
+    "property_name" : "Residence Inn Downtwn Marriott",
+    "location" : {
+      "latitude" : 40.76277,
+      "longitude" : -111.89919
+    },
+    "address" : {
+      "line1" : "285 W Broadway  300 S",
+      "city" : "Salt Lake City",
+      "region" : "UT",
+      "postal_code" : "84101",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "178.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "178.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-801-3553300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-801-6566137"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIC00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "178.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-04",
+        "end_date" : "2019-01-05",
+        "currency_code" : "USD",
+        "price" : 178.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 Queen, Sofa bed, Fully equipped kitchen, Micr", "owave, 495sqft/45sqm-535sqft/48sqm, Dining area" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RCSLCRIR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-04&check_out=2019-01-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

@@ -1,0 +1,78 @@
+{
+  "results" : [ {
+    "property_code" : "RYEWR297",
+    "property_name" : "Rodeway Inn Meadowlands",
+    "location" : {
+      "latitude" : 40.79292,
+      "longitude" : -74.05723
+    },
+    "address" : {
+      "line1" : "155 Route 3 East",
+      "city" : "Secaucus",
+      "region" : "NJ",
+      "postal_code" : "07094",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "83.63",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "71.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-201-348-8300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-201-293-4196"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Z70DSNR",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "83.63",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-04",
+        "end_date" : "2018-11-05",
+        "currency_code" : "USD",
+        "price" : 71.1
+      } ],
+      "descriptions" : [ "Senior/AARP Rate Age 60 or Older", "1K/NonSmoking/Wake-Up Service/No Pets Allowed/", "Free Hi-Spd Wireless/FREE Continental Breakfast" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RYEWR297?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-04&check_out=2018-11-05&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

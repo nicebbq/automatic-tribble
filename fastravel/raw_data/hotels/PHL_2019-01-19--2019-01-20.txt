@@ -1,0 +1,429 @@
+{
+  "results" : [ {
+    "property_code" : "SIPHL992",
+    "property_name" : "Sheraton Philly Univ Cty",
+    "location" : {
+      "latitude" : 39.95472,
+      "longitude" : -75.19419
+    },
+    "address" : {
+      "line1" : "3549 Chestnut Street",
+      "city" : "Philadelphia",
+      "region" : "PA",
+      "postal_code" : "19104",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "129.97",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "129.97",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 215 387-8000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 215 387-7920"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "sheraton@sheruniv.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 39,
+      "description" : "Florist"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KA16",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "A16",
+      "total_amount" : {
+        "amount" : "129.97",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-19",
+        "end_date" : "2019-01-20",
+        "currency_code" : "USD",
+        "price" : 129.97
+      } ],
+      "descriptions" : [ "1 KING:AAA/CAA RATE", "AAA OR CAA MEMBERSHIP IS REQUIRED AT TIME OF", "CHECK-IN." ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "A16"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SIPHL992?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-19&check_out=2019-01-20&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SBPHLSOF",
+    "property_name" : "Sofitel Philadelphia",
+    "location" : {
+      "latitude" : 39.95083,
+      "longitude" : -75.16904
+    },
+    "address" : {
+      "line1" : "120 South 17th Street",
+      "city" : "Philadelphia",
+      "region" : "PA",
+      "postal_code" : "19103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "323.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "323.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1/2155698300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1/2155647453"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "angela.bauer@sofitel.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.sofitel.com/gb/hotel-2741-sofitel-philadelphia/index."
+    } ],
+    "amenities" : [ {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "",
+      "ota_code" : 39,
+      "description" : "Florist"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "MULTILINGUAL_STAFF",
+      "ota_code" : 103,
+      "description" : "Multilingual staff"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "INTERNET_SERVICES",
+      "ota_code" : 223,
+      "description" : "Internet services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "4"
+    }, {
+      "provider" : "Local Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KR8O",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "R8O",
+      "total_amount" : {
+        "amount" : "323.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-19",
+        "end_date" : "2019-01-20",
+        "currency_code" : "USD",
+        "price" : 323.1
+      } ],
+      "descriptions" : [ "MRate avail ADVANCE SAVER - BB-BB/Bed+Brkfast", "Superior Room with 1 King Bed" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "R8O"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SBPHLSOF?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-19&check_out=2019-01-20&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LWPHL776",
+    "property_name" : "The Rittenhouse",
+    "location" : {
+      "latitude" : 39.94983,
+      "longitude" : -75.17312
+    },
+    "address" : {
+      "line1" : "210 West Rittenhouse Square",
+      "city" : "Philadelphia",
+      "region" : "PA",
+      "postal_code" : "19103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "386.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "386.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-215-5469000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-215-7323364"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "reservations@rittenhousehotel.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.LHW.com/rittenhouse"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "5"
+    }, {
+      "provider" : "OHG",
+      "rating" : "Deluxe"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "L604ZZZ",
+      "room_type_code" : "D1Q",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "386.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-19",
+        "end_date" : "2019-01-20",
+        "currency_code" : "USD",
+        "price" : 386.1
+      } ],
+      "descriptions" : [ "Leading In Advance", "Deluxe Queen City View", "450 Sq. Ft." ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Minimum",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LWPHL776?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-19&check_out=2019-01-20&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

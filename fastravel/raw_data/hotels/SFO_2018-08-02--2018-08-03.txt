@@ -1,0 +1,1630 @@
+{
+  "results" : [ {
+    "property_code" : "YXSFOARH",
+    "property_name" : "Adrian Hotel",
+    "location" : {
+      "latitude" : 37.78351,
+      "longitude" : -122.41569
+    },
+    "address" : {
+      "line1" : "493 Eddy St",
+      "city" : "San Francisco",
+      "region" : "CA",
+      "postal_code" : "94109",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "116.44",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "99.95",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-415-9947261"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-415-9947261"
+    } ],
+    "amenities" : [ {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KRAC",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "116.44",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 99.95
+      } ],
+      "descriptions" : [ "PROMOTIONAL RATE ", "Double room shared bath Double room shared bath " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXSFOARH?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "UZOAKCOR",
+    "property_name" : "Coral Reef Inn And Suites",
+    "location" : {
+      "latitude" : 37.75519,
+      "longitude" : -122.24935
+    },
+    "address" : {
+      "line1" : "400 Park Street",
+      "city" : "Alameda",
+      "region" : "CA",
+      "postal_code" : "94501",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "123.20",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "112.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-510-5212330"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-510-5212330"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1*PRO",
+      "room_type_code" : "A1*",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "123.20",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 112.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "Executive King Suite Free", "wi-fi" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Unspecified",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/UZOAKCOR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXOAKABV",
+    "property_name" : "Americas Best Value Inn",
+    "location" : {
+      "latitude" : 37.79794,
+      "longitude" : -122.25719
+    },
+    "address" : {
+      "line1" : "122 East 12th Street",
+      "city" : "Oakland",
+      "region" : "CA",
+      "postal_code" : "94606",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "132.35",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "116.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-510-4444949"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-510-4655404"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.americasbestvalueinn.com/bestv.cfm idp 2102"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2DSNR",
+      "room_type_code" : "C2D",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "132.35",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 116.1
+      } ],
+      "descriptions" : [ "SENIOR RATE ", "2 Double Beds-Non Smoking-Free WiFi-Microwave-MiniFridge-Flat ", "Panel Cable TV Alarm Clock Radio-Free Local Calls-Wakeup Service" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXOAKABV?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RYOAKD05",
+    "property_name" : "Rodeway Inn Alameda",
+    "location" : {
+      "latitude" : 37.779,
+      "longitude" : -122.27678
+    },
+    "address" : {
+      "line1" : "1925 Webster Street",
+      "city" : "Alameda",
+      "region" : "CA",
+      "postal_code" : "94501",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "134.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "134.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-510-521-8400"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-510-521-8406"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Z80MSNR",
+      "room_type_code" : "A1Q",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "134.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 134.1
+      } ],
+      "descriptions" : [ "Senior/AARP Rate Age 60 or Older", "1Q/Smoking/Wake-Up Service/Free Hi-Spd Wireless", "/27 inch TV/Microwave Refrigerator/Hair Dryer/" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RYOAKD05?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CCOAKB03",
+    "property_name" : "Clarion Hotel Downtown Oakland City Cent",
+    "marketing_text" : "Get together at the Clarion Hotel Downtown Oakland City Center/located near the Oakland Convention Center.\r",
+    "location" : {
+      "latitude" : 37.80278,
+      "longitude" : -122.26994
+    },
+    "address" : {
+      "line1" : "371 13th Street",
+      "city" : "Oakland",
+      "region" : "CA",
+      "postal_code" : "94612",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "138.98",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "120.60",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-510-279-1700"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-510-279-1701"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Z210SNR",
+      "room_type_code" : "N1D",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "138.98",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 120.6
+      } ],
+      "descriptions" : [ "Senior/AARP Rate Age 60 or Older", "1D/NonSmoking/Free Wired High-Speed Internet/32", "inch LCD/Plasma TV/Desk/Coffeemaker, In-Room/" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Double",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CCOAKB03?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXSFOTEL",
+    "property_name" : "Hotel 964",
+    "location" : {
+      "latitude" : 37.78049,
+      "longitude" : -122.40655
+    },
+    "address" : {
+      "line1" : "964 Howard Street",
+      "city" : "San Francisco",
+      "region" : "CA",
+      "postal_code" : "94103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "141.98",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "124.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-415-6738047"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-415-6738047"
+    } ],
+    "amenities" : [ {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1SRAC",
+      "room_type_code" : "A1S",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "141.98",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 124.0
+      } ],
+      "descriptions" : [ "RATE OF THE DAY ", "1 Single Bed 1 Single Bed " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Single",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXSFOTEL?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXSFOHAA",
+    "property_name" : "Aida Plaza",
+    "location" : {
+      "latitude" : 37.78073,
+      "longitude" : -122.41208
+    },
+    "address" : {
+      "line1" : "1087 Market Street",
+      "city" : "San Francisco",
+      "region" : "CA",
+      "postal_code" : "94103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "143.57",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "123.50",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-415-8634141"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-415-8635151"
+    }, {
+      "type" : "URL",
+      "detail" : "www.hotelaidaplaza.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "D1DSSR",
+      "room_type_code" : "D1D",
+      "rate_plan_code" : "SSR",
+      "total_amount" : {
+        "amount" : "143.57",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 123.5
+      } ],
+      "descriptions" : [ "SENIOR RATE ", "One Double Bed Room Shower Toilet Shared Hall One Double Bed ", "Room Shower Toilet Shared Hall 1-2 Guests Cont Brkfst Free WiFi " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Double",
+        "room_type" : "Room with bath - Minimum"
+      },
+      "rate_type_code" : "SSR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXSFOHAA?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WVOAK058",
+    "property_name" : "Inn At Temescal",
+    "location" : {
+      "latitude" : 37.82589,
+      "longitude" : -122.26515
+    },
+    "address" : {
+      "line1" : "3720 Telegraph Ave",
+      "city" : "Oakland",
+      "region" : "CA",
+      "postal_code" : "94609",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "149.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "149.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-510-6529800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-510-6529801"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1KRAC",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "149.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 149.0
+      } ],
+      "descriptions" : [ "Best Available", "1 PILLOW TOP KING BED MODERN DECOR HSIA USB", "FREE PARKING COMPLIMENTARY WIFI " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WVOAK058?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "TLSFO619",
+    "property_name" : "Travelodge San Francisco Sfo",
+    "location" : {
+      "latitude" : 37.64441,
+      "longitude" : -122.40546
+    },
+    "address" : {
+      "line1" : "326 South Airport Blvd",
+      "city" : "San Francisco",
+      "region" : "CA",
+      "postal_code" : "94080",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "151.42",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "134.25",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-650-5839600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-650-8739392"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "1"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KB02",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "B02",
+      "total_amount" : {
+        "amount" : "151.42",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 134.25
+      } ],
+      "descriptions" : [ "STAY NOW SAVE 25 PERCENT ", "1 King NSMK with Free high-speed WiFi, air conditioning, shower,", "coffee/tea maker, hair " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "B02"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/TLSFO619?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXSFO730",
+    "property_name" : "Americas Best Value Inn",
+    "location" : {
+      "latitude" : 37.88054,
+      "longitude" : -122.51951
+    },
+    "address" : {
+      "line1" : "155 Shoreline Hwy",
+      "city" : "Mill Valley",
+      "region" : "CA",
+      "postal_code" : "94941",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "152.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "152.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-415-3321732"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-415-3320656"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.americasbestvalueinn.com/bestv.cfm idp 821"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2QSR1",
+      "room_type_code" : "C2Q",
+      "rate_plan_code" : "SR1",
+      "total_amount" : {
+        "amount" : "152.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 152.1
+      } ],
+      "descriptions" : [ "SENIOR RATE 65 OR OLDER ", "2 Queen Beds-Free WiFi-HBO-Hairdryer-Iorn-Large Closets-Free ", "Continental Breakfast " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "SR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXSFO730?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "TLSFO688",
+    "property_name" : "Travelodge Mill Valley-sausali",
+    "location" : {
+      "latitude" : 37.89356,
+      "longitude" : -122.51665
+    },
+    "address" : {
+      "line1" : "707 Redwood Highway",
+      "city" : "Mill Valley",
+      "region" : "CA",
+      "postal_code" : "94941",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "152.32",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "136.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-415-5693948"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-415-3812132"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1DSP1",
+      "room_type_code" : "C1D",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "152.32",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 136.0
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 Double NSMK with Free WiFi, free continental breakfast, air ", "conditioning, coffee/tea maker, " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Double",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/TLSFO688?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZSFO628",
+    "property_name" : "Super 8 San Francisco-union",
+    "location" : {
+      "latitude" : 37.78593,
+      "longitude" : -122.4117
+    },
+    "address" : {
+      "line1" : "415 Ofarrell St",
+      "city" : "San Francisco",
+      "region" : "CA",
+      "postal_code" : "94102",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "154.84",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "133.20",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-415-5270702"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-415-9283354"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2DAR1",
+      "room_type_code" : "C2D",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "154.84",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 133.2
+      } ],
+      "descriptions" : [ "AARP RATE ", "1 Double Bed NSMK with free WiFi, free continental breakfast, ", "mini-fridge, AC, " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZSFO628?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "TLSFO044",
+    "property_name" : "Travelodge San Francisco Centr",
+    "location" : {
+      "latitude" : 37.77192,
+      "longitude" : -122.42204
+    },
+    "address" : {
+      "line1" : "1707 Market Street",
+      "city" : "San Francisco",
+      "region" : "CA",
+      "postal_code" : "94103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "155.81",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "134.25",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-415-6216775"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-415-6214305"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1DB02",
+      "room_type_code" : "H1D",
+      "rate_plan_code" : "B02",
+      "total_amount" : {
+        "amount" : "155.81",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 134.25
+      } ],
+      "descriptions" : [ "STAY NOW AND SAVE ", "1 Double Accessible Room, NSMK with Free high-speed WiFi, free ", "continental breakfast, " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Double",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "B02"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/TLSFO044?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OKSFO507",
+    "property_name" : "The Urban Hotel",
+    "location" : {
+      "latitude" : 37.79038,
+      "longitude" : -122.40588
+    },
+    "address" : {
+      "line1" : "507 Bush Street",
+      "city" : "San Francisco",
+      "region" : "CA",
+      "postal_code" : "94108",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "161.85",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "139.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-415-432-7867"
+    }, {
+      "type" : "FAX",
+      "detail" : "415-520-9745"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "I2TRAC",
+      "room_type_code" : "I2T",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "161.85",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 139.0
+      } ],
+      "descriptions" : [ "Standard Rate", "Bunk beds. Non smoking. Shared bath.", "Flat screen TV. Sink. Phone. Desk" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Twin",
+        "room_type" : "Room with bath/shower - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OKSFO507?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAOAK260",
+    "property_name" : "Extended Stay America Oakland",
+    "marketing_text" : "2 miles from San Francisco, CA, Extended Stay America offers business and leisure travelers alike free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry. Our 149 suites deliver comfort by the day, week, or month.",
+    "location" : {
+      "latitude" : 37.82795,
+      "longitude" : -122.28817
+    },
+    "address" : {
+      "line1" : "3650 Mandela Parkway",
+      "city" : "Oakland",
+      "region" : "CA",
+      "postal_code" : "94608",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "174.92",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "151.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 510 923-1481"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 510 923-1598"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "emy@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/EMY"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A07B4N",
+      "room_type_code" : "A07",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "174.92",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 151.99
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN BED NONSMKNG", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAOAK260?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXSFOD80",
+    "property_name" : "Hotel Focus Sfo",
+    "location" : {
+      "latitude" : 37.64954,
+      "longitude" : -122.4053
+    },
+    "address" : {
+      "line1" : "111 Mitchell Avenue",
+      "city" : "South San Francisco",
+      "region" : "CA",
+      "postal_code" : "94080",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "177.93",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "159.20",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-650-8770770"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-650-8718377"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.hotelfocussfo.com/"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "2"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1QPR0",
+      "room_type_code" : "A1Q",
+      "rate_plan_code" : "PR0",
+      "total_amount" : {
+        "amount" : "177.93",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 159.2
+      } ],
+      "descriptions" : [ "NON-REFUNDABLE DISCOUNT ", "Spacious-Desk-WiFi-cable flat screen TV Keurig Coffee Mkr-Alarm ", "Clk Radio-Hairdryr Cont Bkfst-Shower with bath-Iron-Board Upgrd " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PR0"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXSFOD80?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXSFOSSF",
+    "property_name" : "Americas Best Value Inn",
+    "location" : {
+      "latitude" : 37.65861,
+      "longitude" : -122.40606
+    },
+    "address" : {
+      "line1" : "701 Airport Blvd",
+      "city" : "South San Francisco",
+      "region" : "CA",
+      "postal_code" : "94080",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "180.70",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "162.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-650-9522505"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-650-9528311"
+    }, {
+      "type" : "URL",
+      "detail" : "www.redlion.com/south-san-francisco"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KSRS",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "SRS",
+      "total_amount" : {
+        "amount" : "180.70",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 162.0
+      } ],
+      "descriptions" : [ "SENIOR RATE ", "1 King Bed-Non-Smoking-Free Wi-Fi-Microwave-32 inch Flat Panel ", "TV-Mini-Fridge-Coffeemaker-Free Cont. Breakfast " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "SRS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXSFOSSF?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZOAK572",
+    "property_name" : "Super 8 Berkeley",
+    "location" : {
+      "latitude" : 37.87121,
+      "longitude" : -122.27898
+    },
+    "address" : {
+      "line1" : "1619 University Avenue",
+      "city" : "Berkeley",
+      "region" : "CA",
+      "postal_code" : "94703",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "182.04",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "161.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-510-8413844"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-510-8436593"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QAR1",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "182.04",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 161.1
+      } ],
+      "descriptions" : [ "AARP RATE ", "1 Queen Bed NSMK with free WiFi, free continental breakfast, ", "mini-fridge, microwave, AC, " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZOAK572?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DISFO111",
+    "property_name" : "Days Inn San Francisco South",
+    "location" : {
+      "latitude" : 37.6637,
+      "longitude" : -122.40079
+    },
+    "address" : {
+      "line1" : "1113 Airport Blvd",
+      "city" : "South San Fransisco",
+      "region" : "CA",
+      "postal_code" : "94080",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "182.19",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "161.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-650-8739300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-650-8736200"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1QAR1",
+      "room_type_code" : "H1Q",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "182.19",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 161.99
+      } ],
+      "descriptions" : [ "AARP RATE ", "1 Queen Accessible Room NSMK with free WiFi, free continental ", "breakfast, balcony, mini-fridge " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DISFO111?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RYSFO228",
+    "property_name" : "Rodeway Inn Civic Center",
+    "location" : {
+      "latitude" : 37.78286,
+      "longitude" : -122.42196
+    },
+    "address" : {
+      "line1" : "860 Eddy Street",
+      "city" : "San Francisco",
+      "region" : "CA",
+      "postal_code" : "94109",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "183.28",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "159.29",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-415-474-4374"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-415-775-9329"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Z60NSNR",
+      "room_type_code" : "N1Q",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "183.28",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-02",
+        "end_date" : "2018-08-03",
+        "currency_code" : "USD",
+        "price" : 159.29
+      } ],
+      "descriptions" : [ "Senior/AARP Rate Age 60 or Older", "1Q/NonSmoking/Wake-Up Service/Free Hi-Spd", "Wireless/Wireless Internet-charge/Air" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RYSFO228?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-02&check_out=2018-08-03&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

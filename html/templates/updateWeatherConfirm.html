@@ -1,0 +1,8 @@
+{% extends "layout.html" %}
+{% block body %}
+
+{{info['user']}} logged in.<br><br>
+
+  <b><u>Weather rating updated:</u></b><br><br>
+  {{info['data'][0][0]}} {{info['data'][0][1]}} {{info['data'][0][2]}} {{info['data'][0][3]}} {{info['data'][0][15]}}
+{% endblock %}

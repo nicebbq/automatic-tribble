@@ -1,0 +1,120 @@
+{
+  "results" : [ {
+    "property_code" : "SCYQG884",
+    "property_name" : "Sunbridge Hotel Windsor",
+    "location" : {
+      "latitude" : 42.31602,
+      "longitude" : -83.03786
+    },
+    "address" : {
+      "line1" : "430 Ouellette Ave",
+      "city" : "Windsor",
+      "region" : "ON",
+      "postal_code" : "N9A 1B2",
+      "country" : "CA"
+    },
+    "total_price" : {
+      "amount" : "81.73",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "81.73",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-519-2564656"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-519-2569745"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "F1QBO1",
+      "room_type_code" : "F1Q",
+      "rate_plan_code" : "BO1",
+      "total_amount" : {
+        "amount" : "81.73",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-11",
+        "end_date" : "2018-11-12",
+        "currency_code" : "USD",
+        "price" : 81.73
+      } ],
+      "descriptions" : [ "LOOKING TO STRETCH YOUR TRAVEL DOLLARS. LOCK", "IN SPECIAL SAVINGS BY BOOKING EARLY AND", "PURCHASING YOUR STAY IN ADVANCE.  RESERVATIONS" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "BO1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SCYQG884?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-11&check_out=2018-11-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

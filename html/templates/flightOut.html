@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block body %}
+  <b><u>Flight Results:</u></b><br><br>
+  <select name="flightList" size="30">
+    {% for value in data %}
+      <option value="{{value[0]}} {{value[1]}} {{value[2]}} {{value[3]}}">{{value[0]}} {{value[1]}} {{value[2]}} {{value[3]}}</option>
+    {% endfor %}
+  </select>
+{% endblock %}

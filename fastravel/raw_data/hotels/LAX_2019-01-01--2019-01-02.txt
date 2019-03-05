@@ -1,0 +1,1998 @@
+{
+  "results" : [ {
+    "property_code" : "MXFUL252",
+    "property_name" : "Motel 6 Los Angeles - Whittier",
+    "location" : {
+      "latitude" : 33.96954,
+      "longitude" : -118.0814
+    },
+    "address" : {
+      "line1" : "8221 S Pioneer Blvd",
+      "city" : "Whittier",
+      "region" : "CA",
+      "postal_code" : "90606",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "71.67",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "63.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-562-692-9101"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-562-908-9561"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "UNDRACK",
+      "room_type_code" : "UND",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "71.67",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 63.99
+      } ],
+      "descriptions" : [ "RACK", "1 FULL BED / ACCESSIBLE" ],
+      "room_type_info" : {
+        "bed_type" : "Double",
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXFUL252?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EALAXELS",
+    "property_name" : "Extended Stay America El Segun",
+    "marketing_text" : "Savvy business and leisure travelers find Extended Stay America, 6 miles from Los Angeles, ideal for a day, week, or month. Our 151 suites boast full kitchens, free WiFi, flat screen TVs, free grab and go breakfast, and onsite laundry.",
+    "location" : {
+      "latitude" : 33.92325,
+      "longitude" : -118.39521
+    },
+    "address" : {
+      "line1" : "1910 E Mariposa Ave",
+      "city" : "El Segundo",
+      "region" : "CA",
+      "postal_code" : "90245",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "76.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "76.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 310 607-4000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 310 607-4600"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "els@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/ELS"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0FB6C",
+      "room_type_code" : "A0F",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "76.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 76.49
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN NONSMKNG ACCESSIBLE", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EALAXELS?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXLAXB63",
+    "property_name" : "Motel 6 Los Angeles Lax",
+    "location" : {
+      "latitude" : 33.94567,
+      "longitude" : -118.36751
+    },
+    "address" : {
+      "line1" : "5101 W Century Blvd",
+      "city" : "Inglewood",
+      "region" : "CA",
+      "postal_code" : "90304",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "91.19",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "79.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-310-419-1234"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-310-677-7871"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "U1QRACK",
+      "room_type_code" : "U1Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "91.19",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 79.99
+      } ],
+      "descriptions" : [ "RACK", "1 QUEEN BED / ADA ACCESSIBLE" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXLAXB63?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZLAX109",
+    "property_name" : "Super 8 Inglewood-lax Arpt",
+    "location" : {
+      "latitude" : 33.94539,
+      "longitude" : -118.34952
+    },
+    "address" : {
+      "line1" : "4238 W Century Blvd.",
+      "city" : "Inglewood",
+      "region" : "CA",
+      "postal_code" : "90304",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "93.34",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "81.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-310-6929351"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-310-6721904"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QAR1",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "93.34",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 81.0
+      } ],
+      "descriptions" : [ "AARP RATE ", "1 Queen NSMK with free WiFi, free continental breakfast, fridge,", "microwave, air conditioning " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZLAX109?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXBUR196",
+    "property_name" : "Motel 6 Los Angeles - Rosemead",
+    "location" : {
+      "latitude" : 34.04021,
+      "longitude" : -118.08236
+    },
+    "address" : {
+      "line1" : "1001 S San Gabriel Blvd",
+      "city" : "Rosemead",
+      "region" : "CA",
+      "postal_code" : "91770",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "95.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "95.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-626-572-6076"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-626-280-6992"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "UD1RACK",
+      "room_type_code" : "UD1",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "95.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 95.99
+      } ],
+      "descriptions" : [ "RACK", "1 FULL BED / ADA ACCESSIBLE" ],
+      "room_type_info" : {
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXBUR196?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWLGB402",
+    "property_name" : "Best Western Norwalk Inn",
+    "location" : {
+      "latitude" : 33.92301,
+      "longitude" : -118.10148
+    },
+    "address" : {
+      "line1" : "10902 Firestone Blvd",
+      "city" : "Norwalk",
+      "region" : "CA",
+      "postal_code" : "90650",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "101.20",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "92.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-562-9298831"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-562-9294027"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KDB6D",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "101.20",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 92.0
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "1 KING BED,MOBILITY ACCESSIBLE,BATHTUB,NSMK,", "CONTINENTAL BREAKFAST" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWLGB402?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZLAX709",
+    "property_name" : "Super 8 Los Angeles Airport",
+    "location" : {
+      "latitude" : 33.95207,
+      "longitude" : -118.38559
+    },
+    "address" : {
+      "line1" : "9250 Airport Blvd",
+      "city" : "Los Angeles",
+      "region" : "CA",
+      "postal_code" : "90045",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "102.91",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-310-6702900"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-310-4101787"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Q11S3A",
+      "room_type_code" : "Q11",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "102.91",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 89.1
+      } ],
+      "descriptions" : [ "AAA RATE ", "1 QUEEN BED SMOKING ROOM WITH FREE", "SUPERSTART BREAKFAST, FREE WI-FI," ],
+      "room_type_info" : {
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZLAX709?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EALAX219",
+    "property_name" : "Extended Stay America Lax Air",
+    "marketing_text" : "9 miles from LA and 0.4 mi from Sony Pictures Entertainemnt, Extended Stay America?s 133 suites offer business and leisure travelers free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry by the day, week, or month.",
+    "location" : {
+      "latitude" : 33.98013,
+      "longitude" : -118.39489
+    },
+    "address" : {
+      "line1" : "6531 South Sepulveda",
+      "city" : "Los Angeles",
+      "region" : "CA",
+      "postal_code" : "90045",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "103.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "103.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 310 568-9337"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 310 568-9349"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lax@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/LAX"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A06AZ7",
+      "room_type_code" : "A06",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "103.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 103.49
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN BED NONSMKNG", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EALAX219?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWLAX463",
+    "property_name" : "Best Western Airport Plaza Inn",
+    "marketing_text" : "?the best western airport plaza inn is centrally located just 3 miles from the los angeles international airport with easy access to freeways, beaches, beverly hills, downtown los angeles and hollywood.",
+    "location" : {
+      "latitude" : 33.97744,
+      "longitude" : -118.36926
+    },
+    "address" : {
+      "line1" : "1730 Centinela Ave",
+      "city" : "Inglewood",
+      "region" : "CA",
+      "postal_code" : "90302",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "106.24",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "106.24",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-310-5680071"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-310-3371919"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KDB6C",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "106.24",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 106.24
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "1 KING BED,NSMK,OVRSZD,PILLOWTOP,WIFI,MICRFG,", "COFMKR,CONTINENTAL BREAKFAST" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWLAX463?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RALAX623",
+    "property_name" : "Ramada Los Angeles Downtown W",
+    "location" : {
+      "latitude" : 34.05104,
+      "longitude" : -118.2776
+    },
+    "address" : {
+      "line1" : "1901 W Olympic Blvd",
+      "city" : "Los Angeles",
+      "region" : "CA",
+      "postal_code" : "90006",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "109.65",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "109.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-213-3857141"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-213-3855808"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1KA01",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "A01",
+      "total_amount" : {
+        "amount" : "109.65",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 109.65
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 King Bed Non-Smoking Room with free continental breakfast, " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "A01"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RALAX623?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXBURD18",
+    "property_name" : "Motel 6 Los Angeles - Hollywood",
+    "location" : {
+      "latitude" : 34.10282,
+      "longitude" : -118.33317
+    },
+    "address" : {
+      "line1" : "1738 N Whitley Ave",
+      "city" : "Hollywood",
+      "region" : "CA",
+      "postal_code" : "90028",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "109.71",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "94.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-323-464-6006"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-323-464-4645"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1KRACK",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "109.71",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 94.99
+      } ],
+      "descriptions" : [ "RACK", "1 KING BED / NON-SMOKING" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXBURD18?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXLAXLHW",
+    "property_name" : "Americas Best Value Inn",
+    "location" : {
+      "latitude" : 34.07523,
+      "longitude" : -118.2652
+    },
+    "address" : {
+      "line1" : "811 North Alvardo Street",
+      "city" : "Los Angeles",
+      "region" : "CA",
+      "postal_code" : "90026",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "112.50",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "112.50",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-213-4130050"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-213-4138053"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.americasbestvalueinn.com/bestv.cfm idp 897"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2DSRS",
+      "room_type_code" : "C2D",
+      "rate_plan_code" : "SRS",
+      "total_amount" : {
+        "amount" : "112.50",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 112.5
+      } ],
+      "descriptions" : [ "SENIOR RATE ", "2 Double Beds-Free WiFi-Microwave-MiniFridge-Cable TV-HBO-", "Hairdryer-Free Contl. Breakfast " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "SRS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXLAXLHW?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MSBUR863",
+    "property_name" : "Ambassador Inn Alhambra",
+    "location" : {
+      "latitude" : 34.07663,
+      "longitude" : -118.15368
+    },
+    "address" : {
+      "line1" : "2720 W. Valley Blvd",
+      "city" : "Alhambra",
+      "region" : "CA",
+      "postal_code" : "91803",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "117.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "117.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-626-3081638"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-626-2898340"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "1"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1KMIL",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "MIL",
+      "total_amount" : {
+        "amount" : "117.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 117.0
+      } ],
+      "descriptions" : [ "MILITARY-ID REQUIRED TO QUALIFY", "1 king bed, sofabed, nonsmoking, wifi,", "hairdryer,Valid Credit Card and Photo ID" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "MIL"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MSBUR863?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZBUR224",
+    "property_name" : "Super 8 Hollywood La Area",
+    "location" : {
+      "latitude" : 34.09908,
+      "longitude" : -118.30904
+    },
+    "address" : {
+      "line1" : "1536 N Western Ave",
+      "city" : "Hollywood",
+      "region" : "CA",
+      "postal_code" : "90027",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "125.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "125.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-323-4729827"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-323-4675258"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "NQ1S3A",
+      "room_type_code" : "NQ1",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "125.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 125.1
+      } ],
+      "descriptions" : [ "AAA RATE ", "1 QUEEN BED NON-SMOKING ROOM WITH", "FREE  BREAKFAST AND FREE" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZBUR224?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQLAXCZD",
+    "property_name" : "La Quinta Inn Ste Lax",
+    "marketing_text" : "The La Quinta Inn & Suites LAX is across the street from the Los Angeles International Airport near Marina Del Rey, Venice Beach & Boardwalk, The Forum and Manhattan Beach, CA.",
+    "location" : {
+      "latitude" : 33.94556,
+      "longitude" : -118.37196
+    },
+    "address" : {
+      "line1" : "5249 West Century Boulevard",
+      "city" : "Los Angeles",
+      "region" : "CA",
+      "postal_code" : "90045",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "135.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "135.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 310 645-2200"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 310 641-8214"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq2005gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://2005.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A04BJU",
+      "room_type_code" : "H2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "135.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 135.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "Two Double Beds/Mobility Accessible/Nosmkg", "32 inch HDTV/Free WIFI/Free Breakfast" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQLAXCZD?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "GDLAX456",
+    "property_name" : "Dunes Inn Wilshire",
+    "location" : {
+      "latitude" : 34.06163,
+      "longitude" : -118.32186
+    },
+    "address" : {
+      "line1" : "4300 Wilshire Blvd",
+      "city" : "Los Angeles",
+      "region" : "CA",
+      "postal_code" : "90010",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "137.44",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "119.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-323-9383616"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-323-4691962"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.dunesinnwilshire.com/"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    } ],
+    "awards" : [ {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QBAR",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "BAR",
+      "total_amount" : {
+        "amount" : "137.44",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 119.0
+      } ],
+      "descriptions" : [ "BEST AVAILABLE RATE ", "Single Queen with free WiFi Fridge Air Conditioning HDTV Private", "Bathroom Toiletries " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "BAR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/GDLAX456?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HILAX3B2",
+    "property_name" : "Holiday Inn Lax Airport",
+    "marketing_text" : "Newly renovated Holiday Inn LAX 2019!  Fresh NEW LOOK with open space concept lobby, a hip grab and go caf?, Aesthetic Full Service Restaurant, Modern Bar \"The Sip and Savor\".",
+    "location" : {
+      "latitude" : 33.94618,
+      "longitude" : -118.37071
+    },
+    "address" : {
+      "line1" : "9901 South La Cienega  Blvd.",
+      "city" : "Los Angeles",
+      "region" : "CA",
+      "postal_code" : "90045",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "142.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "142.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-310-6495151"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-310-6703619"
+    }, {
+      "type" : "URL",
+      "detail" : "www.holidayinn.com/laxia"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "KNG482G",
+      "room_type_code" : "*1K",
+      "rate_plan_code" : "482",
+      "total_amount" : {
+        "amount" : "142.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 142.0
+      } ],
+      "descriptions" : [ "BOOK EARLY N SAVE NO REFUNDS", "1 KING BED NONSMOKING RELAX IN THIS SPACIOUS 1", "KING BED ROOM FEATURING A 32 INCH FLAT PANEL" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "482"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HILAX3B2?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "GILAX265",
+    "property_name" : "Hilton Garden Inn Montebello",
+    "location" : {
+      "latitude" : 34.02688,
+      "longitude" : -118.13483
+    },
+    "address" : {
+      "line1" : "801 Via San Clemente",
+      "city" : "Montebello",
+      "region" : "CA",
+      "postal_code" : "90640",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "142.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "142.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 323 724-5900"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 323 724-3554"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0JA13",
+      "room_type_code" : "I1K",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "142.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 142.0
+      } ],
+      "descriptions" : [ "AAA -AAA STAY AND SAVE", "1 KING MOBILITY ACCESSIBLE W/ROLL IN SHOWER", "COMP WIFI- BED WITH ADJUSTABLE FIRMNESS DIAL" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath/shower - Superior"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/GILAX265?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DTLAXCES",
+    "property_name" : "Dbltree Lax El Segundo",
+    "location" : {
+      "latitude" : 33.91968,
+      "longitude" : -118.39174
+    },
+    "address" : {
+      "line1" : "1985 East Grand Ave",
+      "city" : "El Segundo",
+      "region" : "CA",
+      "postal_code" : "90245",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "148.30",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "132.05",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 310 322-0999"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 310 322-4758"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0JA5K",
+      "room_type_code" : "E1K",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "148.30",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 132.05
+      } ],
+      "descriptions" : [ "AAA -AAA RATE", "1 KING BED WITH A CITY VIEW", "COMP PREM WIFI - FRIDGE - SATELLITE PACKAGE" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Superior"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DTLAXCES?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SCLAX307",
+    "property_name" : "Vagabond Inn Los Angeles At Us",
+    "location" : {
+      "latitude" : 34.02412,
+      "longitude" : -118.27881
+    },
+    "address" : {
+      "line1" : "3101 S. Figueroa St.",
+      "city" : "Los Angeles",
+      "region" : "CA",
+      "postal_code" : "90007",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "150.14",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "129.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-213-7461531"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-213-7469106"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Q1QBAR",
+      "room_type_code" : "Q1Q",
+      "rate_plan_code" : "BAR",
+      "total_amount" : {
+        "amount" : "150.14",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-01",
+        "end_date" : "2019-01-02",
+        "currency_code" : "USD",
+        "price" : 129.99
+      } ],
+      "descriptions" : [ "Best Available Rate-Free WIFI-Free Bkfst", "This deluxe non-smoking room features a", "comfortable Queen sized bed and plenty of" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen"
+      },
+      "rate_type_code" : "BAR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SCLAX307?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-01&check_out=2019-01-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+{% block body %}
+  <table border="0" cellpadding="10">
+    <tr>
+      <td>
+        <h1>Welcome to Fastravel!</h1>
+	<h2>{{info['user']}} logged in.</h2>
+      </td>
+    </tr>
+  </table>
+  <p>This is the home page for the Fastravel Web application.</p>
+  <p>Please click on the link below to view our demo database:<br>
+  <ul>
+<!--
+    <li> <a href = "/citiesQuery.html">Cities</a>
+    <li> <a href = "/addCity.html">Add a City</a>
+    <li> <a href = "/removeCity.html">Remove a City</a>
+--!>
+    <li> <a href = "/updateWeather.html">Update Weather Records</a>
+    <li> <a href = "/flightQuery.html">Search Flights</a>
+    <!--<li> <a href = "/budget_query.html"> Search Trips in a Budget! </a>-->
+    <li> <a href = "/advancedQuery.html">Search Trips in a Budget</a>
+    <!--<li> <a href = "/phpinfo.php"> Check PHP Info </a>-->
+	<li> <a href = "/addApartment.html">Add Your Apartment</a>
+	<li> <a href = "/updateApartment.html">Update Your Apartment</a>
+	<li> <a href = "/removeApartment.html">Remove Your Apartment</a>
+	<li> <a href = "/aptQuery.html">Search for Apartments</a>
+	<li> <a href = "/doubleOut.html">Search for Apartment Swaps</a>
+  </ul>
+{% endblock %}

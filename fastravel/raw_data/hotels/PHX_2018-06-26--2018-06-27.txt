@@ -1,0 +1,2072 @@
+{
+  "results" : [ {
+    "property_code" : "TLPHX600",
+    "property_name" : "Travelodge",
+    "location" : {
+      "latitude" : 33.45163,
+      "longitude" : -112.08165
+    },
+    "address" : {
+      "line1" : "600 W. Van Buren St",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85003",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "54.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "54.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-2521706"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-4192277"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2QAR1",
+      "room_type_code" : "C2Q",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "54.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 54.0
+      } ],
+      "descriptions" : [ "AARP RATE ", "1 Queen NSMK with free WiFi, free continental breakfast, fridge,", "microwave, air conditioning " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/TLPHX600?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXPHXC10",
+    "property_name" : "Motel 6 Phoenix Airport",
+    "location" : {
+      "latitude" : 33.44532,
+      "longitude" : -112.03052
+    },
+    "address" : {
+      "line1" : "214 S 24th St",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85034",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "56.27",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "49.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-244-1155"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-231-0043"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1QRAC",
+      "room_type_code" : "N1Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "56.27",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 49.99
+      } ],
+      "descriptions" : [ "RAC", "1 QUEEN BED" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXPHXC10?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RYPHX425",
+    "property_name" : "Rodeway Inn Downtown Phoenix",
+    "location" : {
+      "latitude" : 33.45163,
+      "longitude" : -112.07939
+    },
+    "address" : {
+      "line1" : "402 W. Van Buren",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85003",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "67.88",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "60.30",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-254-7247"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-252-3737"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Z20NSNR",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "67.88",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 60.3
+      } ],
+      "descriptions" : [ "Senior/AARP Rate Age 60 or Older", "1K/NonSmoking/FREE Continental Breakfast/Free", "Hi-Spd Wireless/Microwave Refrigerator/40 inch" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RYPHX425?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RAPHX97A",
+    "property_name" : "Ramada Phoenix Midtown",
+    "location" : {
+      "latitude" : 33.48792,
+      "longitude" : -112.07684
+    },
+    "address" : {
+      "line1" : "212 West Osborn",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85013",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "69.14",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "55.25",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-5954444"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-5954011"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C4KA01",
+      "room_type_code" : "C4K",
+      "rate_plan_code" : "A01",
+      "total_amount" : {
+        "amount" : "69.14",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 55.25
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "Non-smoking accessible guest room with 1 king bed " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "King",
+        "number_of_beds" : "4"
+      },
+      "rate_type_code" : "A01"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RAPHX97A?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZPHX959",
+    "property_name" : "Super 8 Phoenix Downtown",
+    "location" : {
+      "latitude" : 33.45111,
+      "longitude" : -112.05963
+    },
+    "address" : {
+      "line1" : "965 East Van Buren",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85006",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "70.92",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "63.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-8421134"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-2581264"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1KAR1",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "70.92",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 63.0
+      } ],
+      "descriptions" : [ "AARP RATE ", "1 King Bed Accessible NSMK with free WiFi, free continental ", "breakfast, pets welcome, safety " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZPHX959?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQPHX704",
+    "property_name" : "La Quinta Inn Phoenix Thomas Road",
+    "marketing_text" : "Just minutes from Phoenix Veteran's Memorial Coliseum &amp; Exposition Center, the recently renovated La Quinta Inn Phoenix Thomas Road is like staying at a new hotel.",
+    "location" : {
+      "latitude" : 33.47929,
+      "longitude" : -112.11223
+    },
+    "address" : {
+      "line1" : "2725 N Black Canyon Highway",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85009 1897",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "73.17",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "65.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-258-6271"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-340-9255"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0FA8C",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "73.17",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 65.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "King Pillowtop Bed", "Ultra Fast Free WIFI/Free Breakfast/HDTV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQPHX704?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWPHX062",
+    "property_name" : "Best Western Airport Inn",
+    "marketing_text" : "The best western airport inn is conveniently located one mile south of sky harbor international airport, your gateway to phoenix and arizonas canyons, deserts, mountains, woodlands and legendary western folklore. Arriving late or leaving early. . . .",
+    "location" : {
+      "latitude" : 33.42499,
+      "longitude" : -112.0293
+    },
+    "address" : {
+      "line1" : "2425 South 24th Street",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85034",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "79.02",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "70.20",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-2737251"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-2737180"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B2QSRSB",
+      "room_type_code" : "B2Q",
+      "rate_plan_code" : "SRS",
+      "total_amount" : {
+        "amount" : "79.02",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 70.2
+      } ],
+      "descriptions" : [ "SENIOR RATE*CITIZENS 55YRS PLUS OR AARP ID", "2 QUEEN BEDS,NSMK,HISPWI,37FLTV,ACTIV", "STANDARD" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "SRS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWPHX062?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAPHXPCM",
+    "property_name" : "Extended Stay America Midtown",
+    "marketing_text" : "3 miles from Phoenix and 1.4 from the Phoenix Art Museum, Extended Stay America?s 129 suites offer business and leisure travelers free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry by the day, week or month.",
+    "location" : {
+      "latitude" : 33.48722,
+      "longitude" : -112.07681
+    },
+    "address" : {
+      "line1" : "217 W Osborn Road",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85013",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "80.20",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "71.24",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 602 279-9000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 602 277-0900"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "pmd@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/PMD"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0IAX9",
+      "room_type_code" : "N1Q",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "80.20",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 71.24
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "DELUXE STUDIO 1 QUEEN BED NONSMKNG", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAPHXPCM?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "GIPHX192",
+    "property_name" : "Hilton Garden Inn Phoenix Mid",
+    "location" : {
+      "latitude" : 33.4927,
+      "longitude" : -112.07552
+    },
+    "address" : {
+      "line1" : "4000 N. Central Avenue",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85012",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "84.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "84.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 602 279-9811"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 602 285-2932"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A07A04",
+      "room_type_code" : "B2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "84.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 84.0
+      } ],
+      "descriptions" : [ "AAA STAY AND SAVE", "2 DOUBLE BEDS - ROOM IS 312 SQ. FT.", "COMP WIFI- HDTV WITH HIDEF CHANNELS" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/GIPHX192?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WYPHX967",
+    "property_name" : "Wyndham Garden Phoenix Midtown",
+    "location" : {
+      "latitude" : 33.48861,
+      "longitude" : -112.07683
+    },
+    "address" : {
+      "line1" : "3600 North 2nd Ave",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85013",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "85.44",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "75.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-6044900"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-6044901"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1KA01",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "A01",
+      "total_amount" : {
+        "amount" : "85.44",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 75.65
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE + 100 BONUS POINTS ", "Accessible Deluxe, 1 King Bed, Nonsmoking, Free WIFI, Flat ", "Screen TV " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "A01"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WYPHX967?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "XVPHXDTS",
+    "property_name" : "Springhill Stes Dwtn Marriott",
+    "location" : {
+      "latitude" : 33.4514,
+      "longitude" : -112.06324
+    },
+    "address" : {
+      "line1" : "802 East Van Buren",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85006",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "87.20",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "87.20",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-3079929"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-3079964"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "87.20",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 87.2
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Queen, Sofa bed, Mini fridge, Microwave, 435s", "qft/39sqm, Living/sitting area, Wireless intern" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/XVPHXDTS?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RCPHXTWR",
+    "property_name" : "Residence Inn Downtwn Marriott",
+    "location" : {
+      "latitude" : 33.4465,
+      "longitude" : -112.074
+    },
+    "address" : {
+      "line1" : "132 S Central Avenue",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85003",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "109.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "109.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-6032000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-6032002"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "109.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 109.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 King, Sofa bed, Fully equipped kitchen, Micro", "wave, 342sqft/31sqm, Living/sitting area, Wirel" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RCPHXTWR?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HYPHXHRP",
+    "property_name" : "Hyatt Regency Phoenix",
+    "marketing_text" : "Located in downtown Phoenix, 6 miles from airport and centrally located to interstates. Walking distance to downtown offices, restaurants, bars, shopping, entertainment and sports venues. ",
+    "location" : {
+      "latitude" : 33.44948,
+      "longitude" : -112.07172
+    },
+    "address" : {
+      "line1" : "122 North 2nd St",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85004",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "111.44",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "99.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-252-1234"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-254-9472"
+    }, {
+      "type" : "URL",
+      "detail" : "http://phoenix.regency.hyatt.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "R2QRACK",
+      "room_type_code" : "R2Q",
+      "rate_plan_code" : "***",
+      "total_amount" : {
+        "amount" : "111.44",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 99.0
+      } ],
+      "descriptions" : [ "2 QUEEN BEDS", "2 GRAND QUEEN BEDS: 300-350 SQUARE FEET:" ],
+      "room_type_info" : {
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "***"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HYPHXHRP?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "GIPHX998",
+    "property_name" : "Hilton Garden Inn Phoenix Downtown",
+    "location" : {
+      "latitude" : 33.45029,
+      "longitude" : -112.07351
+    },
+    "address" : {
+      "line1" : "15 East Monroe Street",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85004",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "111.44",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "99.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 602 343-0006"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 602 343-0007"
+    } ],
+    "amenities" : [ {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A06LV8",
+      "room_type_code" : "G1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "111.44",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 99.0
+      } ],
+      "descriptions" : [ "BEST AVAILABLE RATE", "1 KING HEARING ACCESSIBLE ROOM", "VIS FIREALRM/DOOR/PHN ALRT" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Standard",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/GIPHX998?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CYPHXXTC",
+    "property_name" : "Courtyward Downtown Marriott",
+    "location" : {
+      "latitude" : 33.44675,
+      "longitude" : -112.07385
+    },
+    "address" : {
+      "line1" : "132 S. Central Avenue",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85004",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "113.70",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "101.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-6032001"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-6032002"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "113.70",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 101.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 King, Sofa bed, Mini fridge, 312sqft/28sqm, L", "iving/sitting area, Wireless internet, complime" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CYPHXXTC?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HXPHXHC7",
+    "property_name" : "Hampton Inn Phoenix Midtown",
+    "location" : {
+      "latitude" : 33.48243,
+      "longitude" : -112.07709
+    },
+    "address" : {
+      "line1" : "160 West Catalina Drive",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85013",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "115.54",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "115.54",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 602 200-0990"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 602 200-0999"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0EAJQ",
+      "room_type_code" : "A2Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "115.54",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 115.54
+      } ],
+      "descriptions" : [ "2X POINTS PACKAGE", "2 QUEENS HEARING ACCESSIBLE NONSMOKING", "VIS FIREALRM/DOOR/PHN ALRT/HDTV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HXPHXHC7?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LMPHX665",
+    "property_name" : "Hotel San Carlos",
+    "marketing_text" : "Privately owned and operated, the Hotel San Carlos in downtown Phoenix offers you personalized service and warm hospitality in a charming, European style atmosphere.",
+    "location" : {
+      "latitude" : 33.45056,
+      "longitude" : -112.07401
+    },
+    "address" : {
+      "line1" : "202 North Central Avenue",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85004",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "119.40",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "119.40",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-2534121"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-3912212"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2DRAC",
+      "room_type_code" : "C2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "119.40",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 119.4
+      } ],
+      "descriptions" : [ "RACK RATE", "Standard Room with 2 Double Beds Complimentary", "Best Available Rate " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LMPHX665?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "ESPHXEA2",
+    "property_name" : "Embassy Stes Phoenix Arpt W",
+    "location" : {
+      "latitude" : 33.48008,
+      "longitude" : -112.03149
+    },
+    "address" : {
+      "line1" : "2333 East Thomas Road",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85016",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "122.70",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "109.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 602 957-1910"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 602 955-2861"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0BLV8",
+      "room_type_code" : "B2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "122.70",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 109.0
+      } ],
+      "descriptions" : [ "BEST AVAILABLE RATE", "2 ROOM SUITE-2 DOUBLE BEDS-NONSMOKING", "WIFI AVL-SLEEPER SOFA-MICROWAVE-REFRIGERATOR" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/ESPHXEA2?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "FNPHXASF",
+    "property_name" : "Fairfield Inn N Stes Marriott",
+    "location" : {
+      "latitude" : 33.47596,
+      "longitude" : -112.07396
+    },
+    "address" : {
+      "line1" : "2520 N.central Ave",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85004",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "128.33",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "114.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-602-7169900"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-602-7169909"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIE00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "128.33",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 114.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 King, Sofa bed, Mini fridge, Microwave, Livin", "g/sitting area, Wireless internet, complimentar" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/FNPHXASF?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SIPHX703",
+    "property_name" : "Sheraton Grand Phoenix",
+    "location" : {
+      "latitude" : 33.45248,
+      "longitude" : -112.07014
+    },
+    "address" : {
+      "line1" : "340 North 3rd Street",
+      "city" : "Phoenix",
+      "region" : "AZ",
+      "postal_code" : "85004",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "154.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "154.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 602 262-2500"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 602 262-2501"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "Sales.PhoenixDowntown@Sheraton.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2DDO0",
+      "room_type_code" : "C2D",
+      "rate_plan_code" : "DO0",
+      "total_amount" : {
+        "amount" : "154.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-06-26",
+        "end_date" : "2018-06-27",
+        "currency_code" : "USD",
+        "price" : 154.0
+      } ],
+      "descriptions" : [ "2 DBLS:PREPAID RATE", "TRADITIONAL NON-SMOKING:SIGNATURE SLEEP", "EXPERIENCE:COMFORTABLE WORK AREA:CITY VIEW" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "DO0"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SIPHX703?apikey=gj3eTTMXSrlqdTTKf1n8rOAd38h77flT&check_in=2018-06-26&check_out=2018-06-27&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

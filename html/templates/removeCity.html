@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+{% block body %}
+
+{{info['user']}} logged in.<br><br>
+
+  <form action="removeCityResult.html" method="POST">
+    <input type="text" placeholder = "City Name" name="cityName"><br><br>
+    <input type="submit" value = "Remove City">
+  </form>
+{% endblock %}

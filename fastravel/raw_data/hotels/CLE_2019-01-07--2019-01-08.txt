@@ -1,0 +1,241 @@
+{
+  "results" : [ {
+    "property_code" : "SNCLEOHR",
+    "property_name" : "Sonesta Es Cleveland Airport",
+    "location" : {
+      "latitude" : 41.37449,
+      "longitude" : -81.82241
+    },
+    "address" : {
+      "line1" : "17525 Rosbough Boulevard",
+      "city" : "Cleveland",
+      "region" : "OH",
+      "postal_code" : "44130",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "101.36",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "87.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-440-2346688"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-440-2343459"
+    }, {
+      "type" : "URL",
+      "detail" : "www.sonesta.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "DOCTOR_ON_CALL",
+      "ota_code" : 28,
+      "description" : "Doctor on call"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    } ],
+    "awards" : [ {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H11AAA",
+      "room_type_code" : "H11",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "101.36",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-07",
+        "end_date" : "2019-01-08",
+        "currency_code" : "USD",
+        "price" : 87.0
+      } ],
+      "descriptions" : [ "AAA/CAA RATE ", "ADA Studio Suite with Queen bed Free Wifi-Full Kitchen-Free ", "Buffet Breakfast 495 sq ft -Cable television with free premium " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SNCLEOHR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-07&check_out=2019-01-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "AKCLEAKA",
+    "property_name" : "Metropolitan At The 9",
+    "location" : {
+      "latitude" : 41.49972,
+      "longitude" : -81.68594
+    },
+    "address" : {
+      "line1" : "2017 E 9th Street",
+      "city" : "Cleveland",
+      "region" : "OH",
+      "postal_code" : "44115",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "208.54",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "179.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-216-2391200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-216-2391301"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "REGA00",
+      "room_type_code" : "REG",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "208.54",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-07",
+        "end_date" : "2019-01-08",
+        "currency_code" : "USD",
+        "price" : 179.0
+      } ],
+      "descriptions" : [ "Regular Rate", "1 King or 2 Queen, 400sqft/36sqm, Living/sittin", "g area, Wireless internet, complimentary, Wired" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/AKCLEAKA?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-07&check_out=2019-01-08&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

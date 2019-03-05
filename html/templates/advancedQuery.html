@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block body %}
+
+{{info['user']}} logged in.<br><br>
+
+  <form action="advancedOut.html" method="POST">
+    <input type="text" placeholder="Origin City" name="origin_city"><br>
+    <input type="text" placeholder="Budget" name="budget"><br>
+    <input type="text" placeholder="Earliest Departure Date" name="edDate"><br>
+    <input type="text" placeholder="Latest Departure Date" name="ldDate"><br>
+    <input type="text" placeholder="Earlist Return Date" name="erDate"><br>
+    <input type="text" placeholder="Latest Return Date" name="lrDate"><br>
+    <input type="submit" value="Search Trips">
+  </form>
+{% endblock %}

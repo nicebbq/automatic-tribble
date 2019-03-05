@@ -1,0 +1,2373 @@
+{
+  "results" : [ {
+    "property_code" : "YXLAS250",
+    "property_name" : "The Blair House Suites",
+    "location" : {
+      "latitude" : 36.12997,
+      "longitude" : -115.16106
+    },
+    "address" : {
+      "line1" : "344 E Desert Inn Road",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89109",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "60.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "60.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-7922222"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-7929042"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CASINO",
+      "ota_code" : 16,
+      "description" : "Casino"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B1KRAC",
+      "room_type_code" : "B1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "60.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 60.0
+      } ],
+      "descriptions" : [ "RACK RATE ", "Bloom King Bloom King Bloom King " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Moderate"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXLAS250?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MVLAS131",
+    "property_name" : "Mgm Circus Circus Hotel, Casino & Theme",
+    "marketing_text" : "Bring the fun at Circus Circus Las Vegas with the largest permanent circus in the world, an indoor theme park, carnival midway and a variety of restaurant including the award winning THE Steak House.",
+    "location" : {
+      "latitude" : 36.13674,
+      "longitude" : -115.16321
+    },
+    "address" : {
+      "line1" : "2880 Las Vegas Blvd South",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89109",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "65.28",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "65.28",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 702 734-0410"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 702 734-2268"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "cclvres@circuscircus.com"
+    }, {
+      "type" : "URL",
+      "detail" : "circuscircus.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 91,
+      "description" : "Tour/sightseeing desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 92,
+      "description" : "Translation services"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B2QPRO",
+      "room_type_code" : "B2Q",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "65.28",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 65.28
+      } ],
+      "descriptions" : [ "Promotional Rate 20PCT Off", "WEST TOWER QUEEN, 2 QUEEN BEDS", "364 SQ FT, WIFI, IN/ROOM SAFE" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Moderate"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MVLAS131?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DTLAS702",
+    "property_name" : "Dtree By Hilton Tropicana Las Vegas",
+    "location" : {
+      "latitude" : 36.09988,
+      "longitude" : -115.17239
+    },
+    "address" : {
+      "line1" : "3801 Las Vegas Blvd South",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89109",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "66.24",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "66.24",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 702 739-2222"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 702 739-2668"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 91,
+      "description" : "Tour/sightseeing desk"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A00BV0",
+      "room_type_code" : "E1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "66.24",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 66.24
+      } ],
+      "descriptions" : [ "SEMI-FLEX", "1 KING BED ROOM - CLUB TOWER", "35USD RST CH-OVERSIZED WORKSPACE DESK-450SQFT" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DTLAS702?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXLAS009",
+    "property_name" : "Americas Best Value Inn",
+    "location" : {
+      "latitude" : 36.09993,
+      "longitude" : -115.16522
+    },
+    "address" : {
+      "line1" : "167 E Tropicana Ave",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89109",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "67.35",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "59.40",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-7953311"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-7957333"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.americasbestvalueinn.com/bestv.cfm idp 471"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2DSNR",
+      "room_type_code" : "C2D",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "67.35",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 59.4
+      } ],
+      "descriptions" : [ "SENIOR RATE ", "2 Double Beds-Free WiFi-Cable TV-PPV Movies-Free Local Calls. ", "Smoking rooms are available upon request and availability. " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXLAS009?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MVLASEXC",
+    "property_name" : "Mgm Excalibur Hotel And Casino",
+    "marketing_text" : "Let the good times reign at Excalibur. Unique shows and entertainment, eclectic dining options, including a new Food Court and fun around every corner make the only castle on The Strip, the perfect place to come as you are.",
+    "location" : {
+      "latitude" : 36.09881,
+      "longitude" : -115.17468
+    },
+    "address" : {
+      "line1" : "3850 Las Vegas Blvd South",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89119",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "67.89",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "67.89",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 702 597-7777"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 702 597-7163"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "excinfo@excalibur.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.excalibur.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 6,
+      "description" : "Airline desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "DOCTOR_ON_CALL",
+      "ota_code" : 28,
+      "description" : "Doctor on call"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 91,
+      "description" : "Tour/sightseeing desk"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "2"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "ROHPRO",
+      "room_type_code" : "ROH",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "67.89",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 67.89
+      } ],
+      "descriptions" : [ "Promotional Rate 20PCT Off", "RUN OF HOUSE ROOM, 1 KING OR 2 QUEEN BEDS", "NUMBER OF BEDS ASSIGNED AT ARRIVAL" ],
+      "room_type_info" : { },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MVLASEXC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZLASCTS",
+    "property_name" : "Super 8 Las Vegas North Strip",
+    "location" : {
+      "latitude" : 36.15607,
+      "longitude" : -115.14858
+    },
+    "address" : {
+      "line1" : "1213 South Las Vegas Blvd",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89104",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "70.17",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "62.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-3310545"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-3310546"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C3QAR1",
+      "room_type_code" : "C3Q",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "70.17",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 62.1
+      } ],
+      "descriptions" : [ "AARP RATE ", "1 Queen Bed NSMK with WiFi, pets welcome, balcony, mini-fridge, ", "AC, bathtub/shower " ],
+      "room_type_info" : {
+        "number_of_beds" : "3",
+        "bed_type" : "Queen",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZLASCTS?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BTLASFIC",
+    "property_name" : "Fiesta Rancho Hotel And Casino",
+    "location" : {
+      "latitude" : 36.20156,
+      "longitude" : -115.19631
+    },
+    "address" : {
+      "line1" : "2400 N Rancho Drive",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89130",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "70.95",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "70.95",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-6317000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-2216510"
+    }, {
+      "type" : "URL",
+      "detail" : "https://fiestarancho.sclv.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CASINO",
+      "ota_code" : 16,
+      "description" : "Casino"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A2DARP",
+      "room_type_code" : "A2D",
+      "rate_plan_code" : "ARP",
+      "total_amount" : {
+        "amount" : "70.95",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 70.95
+      } ],
+      "descriptions" : [ "AARP DISCOUNT ", "Two Doubles Non-smoking Two Doubles Non-smoking Contemporary ", "Decor-274 sq ft. WIFI " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "ARP"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BTLASFIC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MVLASLUX",
+    "property_name" : "Mgm Luxor Hotel And Casino",
+    "marketing_text" : "One of the most iconic hotels on The Strip, the Luxor pyramid invites curiosity while its interior rewards visitors with equal parts excitement, mystery and intrigue. This resort features a wide variety of entertainment and world class exhibits. ",
+    "location" : {
+      "latitude" : 36.09539,
+      "longitude" : -115.17502
+    },
+    "address" : {
+      "line1" : "3900 Las Vegas Blvd",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89119",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "71.02",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "71.02",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 702 262-4000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+001 702 262-4478"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "luxresgroups@luxor.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.luxor.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "NIGHTCLUB",
+      "ota_code" : 62,
+      "description" : "Nightclub"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 91,
+      "description" : "Tour/sightseeing desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 92,
+      "description" : "Translation services"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "ROHPRO",
+      "room_type_code" : "ROH",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "71.02",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 71.02
+      } ],
+      "descriptions" : [ "Promotional Rate 20PCT Off", "RUN OF HOUSE ROOM, 1 KING OR 2 QUEEN BEDS", "NUMBER OF BEDS ASSIGNED AT ARRIVAL" ],
+      "room_type_info" : { },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MVLASLUX?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RFLAS797",
+    "property_name" : "Red Roof Las Vegas",
+    "marketing_text" : "8 Buildings, 199 rooms, Outdoor Pool, Coin Laundry, Rollin Showers, Fitness Center and Business Center Last Renovated in 2002",
+    "location" : {
+      "latitude" : 36.10993,
+      "longitude" : -115.15228
+    },
+    "address" : {
+      "line1" : "4350  Paradise Rd",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89169",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "71.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "71.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 702 938-2000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 702 938-2001"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "i0797@redroof.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.redroof.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "Northstar Travel Media",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "T1KAAA",
+      "room_type_code" : "T1K",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "71.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 71.99
+      } ],
+      "descriptions" : [ "AAA RATE ", "SUPERIOR KING ROOM SMOKE-FREE with Free WiFi-Microwave-", "Refrigerator-In-Room Coffee Our best room also includes Hair " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RFLAS797?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WVLAS914",
+    "property_name" : "Ellis Island Hotel And Casino",
+    "location" : {
+      "latitude" : 36.1122,
+      "longitude" : -115.16358
+    },
+    "address" : {
+      "line1" : "4250 Koval Lane",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89109",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "72.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "72.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-7940888"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-7943504"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CASINO",
+      "ota_code" : 16,
+      "description" : "Casino"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1KADV",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "ADV",
+      "total_amount" : {
+        "amount" : "72.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 72.0
+      } ],
+      "descriptions" : [ "Advance Purchase Rate", "Single pillow top king size bed wardrobe with", "Advanced purchase rate is nonrefundable and" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "ADV"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WVLAS914?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZLAS918",
+    "property_name" : "Super 8 Las Vegas Nellis Afb",
+    "location" : {
+      "latitude" : 36.24152,
+      "longitude" : -115.05383
+    },
+    "address" : {
+      "line1" : "4435 Las Vegas Blvd North",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89115",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "72.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "72.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-6447878"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-6441219"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "1"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1QAR1",
+      "room_type_code" : "H1Q",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "72.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 72.0
+      } ],
+      "descriptions" : [ "AARP RATE ", "1 Queen Bed Accessible NSMK with free WiFi, free continental ", "breakfast, pets welcome, " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZLAS918?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BTLASBSH",
+    "property_name" : "Boulder Station Hotel Casino",
+    "location" : {
+      "latitude" : 36.13295,
+      "longitude" : -115.08527
+    },
+    "address" : {
+      "line1" : "4111 Boulder Hwy",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89121",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "72.95",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "72.95",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-4327777"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-4327744"
+    }, {
+      "type" : "URL",
+      "detail" : "www.boulderstation.sclv.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CASINO",
+      "ota_code" : 16,
+      "description" : "Casino"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KARP",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "ARP",
+      "total_amount" : {
+        "amount" : "72.95",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 72.95
+      } ],
+      "descriptions" : [ "AARP DISCOUNT ", "King Non Smoking Deluxe Room 360sq ft King Non Smoking Deluxe ", "Room 360sq ft Triple Sheeting-32in cable TV-WIFI " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "ARP"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BTLASBSH?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "TLLAS025",
+    "property_name" : "Travelodge Las Vegas",
+    "location" : {
+      "latitude" : 36.13723,
+      "longitude" : -115.16225
+    },
+    "address" : {
+      "line1" : "2830 Las Vegas Blvd S",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89109",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "74.80",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "74.80",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-7354222"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-7337695"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C2KSP1",
+      "room_type_code" : "C2K",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "74.80",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 74.8
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 King NSMK with Free WiFi, free continental breakfast, air ", "conditioning, adjoining rooms, " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/TLLAS025?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MVLASMAN",
+    "property_name" : "Mgm Mandalay Bay Resort And Casino",
+    "marketing_text" : "Mandalay Bay Resort and Casino is a unique destination resort set on 120 lush acres on the Las Vegas Strip. Mandalay Bay boasts an 11-acre pool paradise featuring real sand, a wave pool and the only climate-controlled poolside gaming in the city.",
+    "location" : {
+      "latitude" : 36.09221,
+      "longitude" : -115.17403
+    },
+    "address" : {
+      "line1" : "3950 Las Vegas Blvd South",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89119",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "74.88",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "74.88",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 702 632-7777"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 702 632-7228"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "hlee@mandalaybay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.mandalaybay.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ROOM_SERVICE_24_HOURS",
+      "ota_code" : 2,
+      "description" : "24-hour room service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 6,
+      "description" : "Airline desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "DOCTOR_ON_CALL",
+      "ota_code" : 28,
+      "description" : "Doctor on call"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 53,
+      "description" : "Indoor parking"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "NIGHTCLUB",
+      "ota_code" : 62,
+      "description" : "Nightclub"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 91,
+      "description" : "Tour/sightseeing desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 92,
+      "description" : "Translation services"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "ROHPRO",
+      "room_type_code" : "ROH",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "74.88",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 74.88
+      } ],
+      "descriptions" : [ "Promotional Rate 20PCT Off", "RUN OF HOUSE ROOM, 1 KING OR 2 QUEEN BEDS", "NUMBER OF BEDS ASSIGNED AT ARRIVAL" ],
+      "room_type_info" : { },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MVLASMAN?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "FNLASFIF",
+    "property_name" : "Fairfield Inn Convent Marriott",
+    "marketing_text" : "The hotel is located only 1 mile east of the world-famous las vegas strip and only 2 miles north of mccarran international airport.",
+    "location" : {
+      "latitude" : 36.11961,
+      "longitude" : -115.15465
+    },
+    "address" : {
+      "line1" : "3850 South Paradise Rd",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89169",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "76.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "76.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-7910899"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-7912705"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "76.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 76.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 King, Sofa bed, Mini fridge, Microwave, 282sq", "ft/25sqm, Wireless internet, complimentary, Cof" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/FNLASFIF?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WVLASPHC",
+    "property_name" : "Plaza Hotel And Casino",
+    "marketing_text" : "Located in Downtown Las Vegas the Plaza Hotel & Casino offers over 1000 newly renovated guest rooms casino race & sports book bingo hall keno entertainment five bars and a variety of seven dining options including our signature glass-domed restaurant",
+    "location" : {
+      "latitude" : 36.1719,
+      "longitude" : -115.14664
+    },
+    "address" : {
+      "line1" : "1 South Main Street",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89101",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "76.08",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "76.08",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-3862110"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-3862591"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "reservations@playlv.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.plazahotelcasino.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "G2DSNR",
+      "room_type_code" : "G2D",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "76.08",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 76.08
+      } ],
+      "descriptions" : [ "AARP Rate", "2 beds 32 inch flat screen iron and board clock", "ID required upon check in commissionable " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Room with shower - Standard"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WVLASPHC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HJLAS398",
+    "property_name" : "Howard Johnson East Tropicana",
+    "location" : {
+      "latitude" : 36.09949,
+      "longitude" : -115.16578
+    },
+    "address" : {
+      "line1" : "165 E Tropicana Ave",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89109",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "76.13",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "67.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-7061019"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-5707900"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1DAA1",
+      "room_type_code" : "H1D",
+      "rate_plan_code" : "AA1",
+      "total_amount" : {
+        "amount" : "76.13",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 67.15
+      } ],
+      "descriptions" : [ "AAA HOT DEALS ", "1 Double Deluxe Accessible Room NSMK with free WiFi, walk-in ", "shower, safety bars in shower " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Double",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "AA1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HJLAS398?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXLASC07",
+    "property_name" : "Motel 6 Las Vegas - I-15",
+    "location" : {
+      "latitude" : 36.09752,
+      "longitude" : -115.18158
+    },
+    "address" : {
+      "line1" : "5085 S Dean Martin Dr",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89118",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "77.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "77.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-739-6747"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-736-5794"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "NQ1RACK",
+      "room_type_code" : "NQ1",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "77.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 77.99
+      } ],
+      "descriptions" : [ "RACK", "1 QUEEN BED / MINI FRIDGE" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXLASC07?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXLASC18",
+    "property_name" : "Motel 6 Las Vegas - Boulder Hwy",
+    "location" : {
+      "latitude" : 36.1317,
+      "longitude" : -115.08403
+    },
+    "address" : {
+      "line1" : "4125 Boulder Hwy",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89121",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "79.09",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "69.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-457-8051"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-457-0265"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "URNRACK",
+      "room_type_code" : "URN",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "79.09",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 69.99
+      } ],
+      "descriptions" : [ "RACK", "1 QUEEN BED / MODERN, ADA ACCESSIBLE" ],
+      "room_type_info" : {
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXLASC18?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DILASWWW",
+    "property_name" : "Di Las Vegas At Wild Wild West",
+    "location" : {
+      "latitude" : 36.1014,
+      "longitude" : -115.18488
+    },
+    "address" : {
+      "line1" : "3330 W Tropicana",
+      "city" : "Las Vegas",
+      "region" : "NV",
+      "postal_code" : "89103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "79.35",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "54.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-702-6230179"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-702-7395060"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "CASINO",
+      "ota_code" : 16,
+      "description" : "Casino"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1DAAA",
+      "room_type_code" : "H1D",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "79.35",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-24",
+        "end_date" : "2018-08-25",
+        "currency_code" : "USD",
+        "price" : 54.0
+      } ],
+      "descriptions" : [ "AAA RATE ", "1 Double Accessible Room NSMK with free WiFi, roll-in shower, ", "safety bars in shower, cable TV " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Double",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DILASWWW?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-24&check_out=2018-08-25&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

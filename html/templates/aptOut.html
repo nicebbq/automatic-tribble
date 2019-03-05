@@ -1,0 +1,29 @@
+{% extends "layout.html" %}
+{% block body %}
+
+  {{info['user']}} logged in.<br><br>
+
+  <style>
+    table, th, td {
+      border: 1px solid black;
+      text-align: center
+    }
+  </style>
+  Trip results <br>
+  <table style= "width:100%">
+    <tr>
+      <th>Origin City </th><th>Destination City </th><th>Start date </th><th>Start flight price </th><th>Flight Carrier  </th><th>Return Date </th><th>Return flight price </th>
+      <th>Return flight Carrier </th><th>Total travel cost <!--  </th><th>Origin1 </th><th>Origin1 </th><th>Origin1 </th><th>Origin1 </th><th>Origin1 </th><th>Origin1 </th><th>Origin1 --> </th>
+    </tr>
+    {% for value in info['data'] %}
+      <tr>
+        <td>
+          {{value[0]}}</td><td> {{ value[1] }}</td><td> {{value[2]}}</td><td> {{value[3]}}</td><td> {{value[4]}}</td><td>
+          {{value[5]}}</td><td> {{ value[6] }}</td><td> {{value[7]}}</td><td> {{value[8]}}</td><td> {{value[9]}}
+          <!--  </td><td> {{value[12]}}</td><td> {{value[13]}}</td><td> {{value[14]}}</td><td>  {{value[15]}}</td><td>
+          {{value[16]}}</td><td> {{value[17]}} </td><td>{{value[18]}} -->
+        </td>
+      </tr>
+    {% endfor %}
+  </table>
+{% endblock %}

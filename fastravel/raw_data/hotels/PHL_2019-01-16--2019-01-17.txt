@@ -1,0 +1,472 @@
+{
+  "results" : [ {
+    "property_code" : "SIPHLXEZ",
+    "property_name" : "Sheraton Suites Phl Airport",
+    "location" : {
+      "latitude" : 39.89063,
+      "longitude" : -75.23188
+    },
+    "address" : {
+      "line1" : "4101b Island Avenue",
+      "city" : "Philadelphia",
+      "region" : "PA",
+      "postal_code" : "19153",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "137.96",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "137.96",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 215 365-6600"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 215 220-4626"
+    } ],
+    "amenities" : [ {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KA16",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "A16",
+      "total_amount" : {
+        "amount" : "137.96",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-16",
+        "end_date" : "2019-01-17",
+        "currency_code" : "USD",
+        "price" : 137.96
+      } ],
+      "descriptions" : [ "1 KING:AAA/CAA RATE", "SUITE NON-SMOKING:SIGNATURE SLEEP EXPERIENCE:", "LIVING ROOM:32 AND 37 INCH LCD TVS:HIGH-SPEED" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "A16"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SIPHLXEZ?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-16&check_out=2019-01-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "ALPHL181",
+    "property_name" : "Aloft Philadelphia Airport",
+    "location" : {
+      "latitude" : 39.8915,
+      "longitude" : -75.2349
+    },
+    "address" : {
+      "line1" : "4301 Island Avenue",
+      "city" : "Philadelphia",
+      "region" : "PA",
+      "postal_code" : "19153",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "199.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "199.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 267 298-1700"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 267 298-1705"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KBZF",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "BZF",
+      "total_amount" : {
+        "amount" : "199.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-16",
+        "end_date" : "2019-01-17",
+        "currency_code" : "USD",
+        "price" : 199.0
+      } ],
+      "descriptions" : [ "1 KING:FLEXIBLE RATE", "ALOFT NON-SMOKING-285 SQ FT:FREE HIGH-SPEED", "INTERNET:42 INCH FLAT SCREEN LCD TV:OVERSIZED" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "BZF"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/ALPHL181?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-16&check_out=2019-01-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SIPHL776",
+    "property_name" : "Sheraton Philadelphia Downtown",
+    "location" : {
+      "latitude" : 39.95691,
+      "longitude" : -75.16721
+    },
+    "address" : {
+      "line1" : "201 North 17th Street",
+      "city" : "Philadelphia",
+      "region" : "PA",
+      "postal_code" : "19103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "229.13",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "197.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 215 448-2000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 215 448-2864"
+    } ],
+    "amenities" : [ {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1KDO0",
+      "room_type_code" : "A1K",
+      "rate_plan_code" : "DO0",
+      "total_amount" : {
+        "amount" : "229.13",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-16",
+        "end_date" : "2019-01-17",
+        "currency_code" : "USD",
+        "price" : 197.1
+      } ],
+      "descriptions" : [ "1 KING:PREPAID RATE", "TRADITIONAL NON-SMOKING:SIGNATURE SLEEP", "EXPERIENCE:HIGH-SPEED INTERNET:FREE ACCESS TO" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "DO0"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SIPHL776?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-16&check_out=2019-01-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LWPHL776",
+    "property_name" : "The Rittenhouse",
+    "location" : {
+      "latitude" : 39.94983,
+      "longitude" : -75.17312
+    },
+    "address" : {
+      "line1" : "210 West Rittenhouse Square",
+      "city" : "Philadelphia",
+      "region" : "PA",
+      "postal_code" : "19103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "407.55",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "407.55",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-215-5469000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-215-7323364"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "reservations@rittenhousehotel.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.LHW.com/rittenhouse"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "5"
+    }, {
+      "provider" : "OHG",
+      "rating" : "Deluxe"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "S1B1ZZZ",
+      "room_type_code" : "D1K",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "407.55",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-16",
+        "end_date" : "2019-01-17",
+        "currency_code" : "USD",
+        "price" : 407.55
+      } ],
+      "descriptions" : [ "AAA Membership Prepaid Discount with Parking", "Deluxe King City View/500-600 Sq. Ft.", "Sitting Area with Desk" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Minimum"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LWPHL776?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-16&check_out=2019-01-17&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

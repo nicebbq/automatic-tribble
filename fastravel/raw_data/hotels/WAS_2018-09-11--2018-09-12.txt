@@ -1,0 +1,2000 @@
+{
+  "results" : [ {
+    "property_code" : "BWDCA120",
+    "property_name" : "Best Western Springfield",
+    "marketing_text" : "Discover the BEST WESTERN Springfield, located in springfield, virginia, less then 10 miles from downtown washington d. C.",
+    "location" : {
+      "latitude" : 38.78037,
+      "longitude" : -77.17803
+    },
+    "address" : {
+      "line1" : "6721 Commerce Street",
+      "city" : "Springfield",
+      "region" : "DC",
+      "postal_code" : "22150",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "71.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "71.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-703-9226100"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-703-9220708"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B2DSRSB",
+      "room_type_code" : "B2D",
+      "rate_plan_code" : "SRS",
+      "total_amount" : {
+        "amount" : "71.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 71.99
+      } ],
+      "descriptions" : [ "SENIOR RATE*CITIZENS 55YRS PLUS OR AARP ID", "2 DOUBLE BEDS,NSMK,HI SPEED NET,IRON,COFMKR,", "TV25IN,FULL BREAKFAST" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "SRS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWDCA120?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RFDCA132",
+    "property_name" : "Red Roof Washington Dc-lanham",
+    "marketing_text" : "One building, 3 floors, exterior corridors, elevator, no meeting room",
+    "location" : {
+      "latitude" : 38.96477,
+      "longitude" : -76.8596
+    },
+    "address" : {
+      "line1" : "9050 Lanham Severn Road",
+      "city" : "Lanham",
+      "region" : "MD",
+      "postal_code" : "20706",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "72.24",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "72.24",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-301-731-8830"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-301-731-4610"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "i0132@redroof.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.redroof.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    } ],
+    "awards" : [ {
+      "provider" : "Northstar Travel Media",
+      "rating" : "1"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N2DAAA",
+      "room_type_code" : "N2D",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "72.24",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 72.24
+      } ],
+      "descriptions" : [ "AMER. AUTO. ASSN. ", "2 FULL BEDS SMOKE-FREE with Free WiFi and Flat Screen TV " ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RFDCA132?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXDCA682",
+    "property_name" : "Motel 6 Washington",
+    "location" : {
+      "latitude" : 38.8097,
+      "longitude" : -76.89765
+    },
+    "address" : {
+      "line1" : "5701 Allentown Rd",
+      "city" : "Camp Springs",
+      "region" : "MD",
+      "postal_code" : "20746",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "79.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "69.91",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-301-702-1061"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-301-899-3478"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "U1DRACK",
+      "room_type_code" : "U1D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "79.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 69.91
+      } ],
+      "descriptions" : [ "RACK", "1 FULL BED / ACCESSIBLE, SMOKING" ],
+      "room_type_info" : {
+        "room_type" : "Suite",
+        "bed_type" : "Double",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXDCA682?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZCGS469",
+    "property_name" : "Super 8 College Prk Wash Dc Ar",
+    "location" : {
+      "latitude" : 39.00569,
+      "longitude" : -76.93031
+    },
+    "address" : {
+      "line1" : "9150 Baltimore Ave",
+      "city" : "College Park",
+      "region" : "MD",
+      "postal_code" : "20740",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "89.24",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.24",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-301-4740894"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-301-4749056"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "1"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1QSP1",
+      "room_type_code" : "H1Q",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "89.24",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 89.24
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 Queen Bed Accessible NSMK with free WiFi, free continental ", "breakfast, safety bars in " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZCGS469?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WVWAS455",
+    "property_name" : "Adams Inn",
+    "location" : {
+      "latitude" : 38.92457,
+      "longitude" : -77.04161
+    },
+    "address" : {
+      "line1" : "1746 Lanier Pl Nw",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20009",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "91.95",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "80.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-7453600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-7453600"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "J1DSNR",
+      "room_type_code" : "J1D",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "91.95",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 80.1
+      } ],
+      "descriptions" : [ "AARP Senior Discount", "DELUXE DOUBLE BED WITH SHARED BATH GOOD FOR", "FREE BREAKFAST FREE WIFI AARP MEMBER CARD REQ" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath/shower - Moderate",
+        "bed_type" : "Double",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WVWAS455?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WGDCAFW7",
+    "property_name" : "Wingate Springfield",
+    "location" : {
+      "latitude" : 38.77711,
+      "longitude" : -77.17891
+    },
+    "address" : {
+      "line1" : "6550 Loisdale Court",
+      "city" : "Springfield",
+      "region" : "VA",
+      "postal_code" : "22150",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "92.65",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "92.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-703-6641576"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-703-6474050"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H2KSP1",
+      "room_type_code" : "H2K",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "92.65",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 92.65
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 King Accessible NSMK with free WiFi, roll-in shower with ", "bathroom seat, walk-in shower " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "King",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WGDCAFW7?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CXWAS578",
+    "property_name" : "Country Inn Ste Washington Dc",
+    "marketing_text" : "Entire hotel newly renovated! Featuring a completely fresh contemporary design in all guest rooms and public areas.",
+    "location" : {
+      "latitude" : 38.88984,
+      "longitude" : -76.85145
+    },
+    "address" : {
+      "line1" : "8850 Hampton Mall Dr",
+      "city" : "Capitol Heights",
+      "region" : "DC",
+      "postal_code" : "20743",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "95.20",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "95.20",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 301 350-8088"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 301 350-8089"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "cx_chmd@countryinns.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://www.countryinns.com/capitol-heights-hotel-md-20743/us"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "IA00289",
+      "room_type_code" : "O2Q",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "95.20",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 95.2
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE 7 DAY 20PCT", "2 QUEEN BEDS-NON SMOKING", "-FULL PREPAYMENT - NON-REFUNDABLE" ],
+      "room_type_info" : {
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CXWAS578?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RLDCA133",
+    "property_name" : "Red Lion Rosslyn Iwo Jima",
+    "location" : {
+      "latitude" : 38.89166,
+      "longitude" : -77.07531
+    },
+    "address" : {
+      "line1" : "1501 Arlington Blvd",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "22209",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "95.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "95.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-703-5245000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-703-5225484"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1KADV",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "ADV",
+      "total_amount" : {
+        "amount" : "95.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 95.99
+      } ],
+      "descriptions" : [ "Advance Purchase Rate-Full Pay, Non Ref", "1 King bed,non smoking, ADA, bathroom", "handrails, Adj Showerhead, free wifi, flat" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "ADV"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RLDCA133?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZADW450",
+    "property_name" : "S8 Camp Springs-andrews Afb",
+    "location" : {
+      "latitude" : 38.81416,
+      "longitude" : -76.89552
+    },
+    "address" : {
+      "line1" : "5151 B Allentown Rd",
+      "city" : "Camp Spring",
+      "region" : "MD",
+      "postal_code" : "20746",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "96.04",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "84.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-301-7020099"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-301-5051195"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "PNK1RAC",
+      "room_type_code" : "PNK",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "96.04",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 84.99
+      } ],
+      "descriptions" : [ "BEST AVAILABLE RATE", "ACCESSIBLE 1 KING BED NON-SMOKING", "ROOM WITH SAFETY BARS AND FREE" ],
+      "room_type_info" : {
+        "room_type" : "Executive suite",
+        "bed_type" : "King"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZADW450?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAWAS049",
+    "property_name" : "Extended Stay America Springfi",
+    "marketing_text" : "Savvy business and leisure travelers find Extended Stay America, 13 miles from Washington DC, ideal for a day, week, or month. Our 126 suites boast full kitchens, free WiFi, flat screen TVs, free grab and go breakfast, and onsite laundry.",
+    "location" : {
+      "latitude" : 38.76946,
+      "longitude" : -77.17899
+    },
+    "address" : {
+      "line1" : "6800 Metropolitan Center Dr",
+      "city" : "Springfield",
+      "region" : "VA",
+      "postal_code" : "22150",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "98.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "98.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 703 822-0992"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 703 822-0875"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "dcs@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/DCS"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A07AYT",
+      "room_type_code" : "B*Q",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "98.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 98.99
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN BED NONSMKNG", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Queen",
+        "number_of_beds" : "Unspecified"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAWAS049?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWWAS101",
+    "property_name" : "Best Western Pentagon Hotel",
+    "marketing_text" : "The BEST WESTERN Pentagon Hotel is minutes from Washington DC, The Pentagon, Arlington National Cemetery and Reagan National Airport. Amenities include free breakfast, free internet and a free shuttle to the Metro or airport.",
+    "location" : {
+      "latitude" : 38.84774,
+      "longitude" : -77.08049
+    },
+    "address" : {
+      "line1" : "2480 South Glebe Road",
+      "city" : "Arlington",
+      "region" : "VA",
+      "postal_code" : "22206",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "99.43",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "99.43",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-703-9794400"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-703-6850051"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A2QSRSC",
+      "room_type_code" : "A2Q",
+      "rate_plan_code" : "SRS",
+      "total_amount" : {
+        "amount" : "99.43",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 99.43
+      } ],
+      "descriptions" : [ "SENIOR RATE*CITIZENS 55YRS PLUS OR AARP ID", "2 QUEEN BEDS,NSMK,WHISPD,IRON,HDYR,COFMKR,", "MICRFRG,FULL BREAKFAST" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "SRS"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWWAS101?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAWAS767",
+    "property_name" : "Extended Stay America Landover",
+    "marketing_text" : "Savvy business and leisure travelers find Extended Stay America, 17 miles from Washington DC, ideal for a day, week, or month. Our 104 suites boast full kitchens, free WiFi, flat screen TVs, free grab and go breakfast, and onsite laundry.",
+    "location" : {
+      "latitude" : 38.89559,
+      "longitude" : -76.84306
+    },
+    "address" : {
+      "line1" : "9401 Largo Drive West",
+      "city" : "Landover",
+      "region" : "MD",
+      "postal_code" : "20785",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "103.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "103.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 301 333-9139"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 301 333-9138"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "dcl@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/DCL"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A07AXB",
+      "room_type_code" : "A07",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "103.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 103.49
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN BED NONSMKNG", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAWAS767?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DNWAS862",
+    "property_name" : "The Embassy Row Hotel",
+    "location" : {
+      "latitude" : 38.91069,
+      "longitude" : -77.04584
+    },
+    "address" : {
+      "line1" : "2015 Massachusetts Avenue Nw",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20036",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "104.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "104.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-2651600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-2342778"
+    }, {
+      "type" : "URL",
+      "detail" : "https://www.destinationhotels.com/embassy-row-hotel"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 44,
+      "description" : "Game room"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "4"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A1DPRO",
+      "room_type_code" : "A1D",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "104.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 104.49
+      } ],
+      "descriptions" : [ "AAA-CAA MEMBERSHIP RATE ", "QUEEN STANDARD-NEWLY REDESIGNED-INTERIOR ROOM SEASONAL ROOFTOP ", "POOL-LOBBY COFFEE SHOP AND BAR 1 BLK FROM DUPONT METRO-PET " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Double",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DNWAS862?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EADCAALX",
+    "property_name" : "Extended Stay America Alexandr",
+    "marketing_text" : "12 miles from Washington DC, Extended Stay America offers business and leisure travelers alike free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry. Our 132 suites deliver comfort by the day, week, or month.",
+    "location" : {
+      "latitude" : 38.80426,
+      "longitude" : -77.09133
+    },
+    "address" : {
+      "line1" : "200 Bluestone Road",
+      "city" : "Alexandria",
+      "region" : "VA",
+      "postal_code" : "22304",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "116.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "116.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 703 329-3399"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 703 329-2239"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "alx@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/ALX"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0CB67",
+      "room_type_code" : "A0C",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "116.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 116.99
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN NONSMKNG ACCESSIBLE", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EADCAALX?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "TOWASTST",
+    "property_name" : "Towneplace Stes Falls Marriott",
+    "location" : {
+      "latitude" : 38.87871,
+      "longitude" : -77.17034
+    },
+    "address" : {
+      "line1" : "205 Hillwood Avenue",
+      "city" : "Falls Church",
+      "region" : "VA",
+      "postal_code" : "22046",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "119.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "119.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-703-2376172"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-703-2376173"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIA00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "119.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 119.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 Queen, Sofa bed, Fully equipped kitchen, Micr", "owave, Wireless internet, complimentary, Coffee" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/TOWASTST?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EADCAMRD",
+    "property_name" : "Extended Stay America Falls Ch",
+    "marketing_text" : "12.5 miles from Washington DC, Extended Stay America offers business and leisure travelers alike free WiFi, full kitchens, flat screen TVs, free grab and go breakfast and onsite laundry. Our 128 suites deliver comfort by the day, week, or month.",
+    "location" : {
+      "latitude" : 38.86319,
+      "longitude" : -77.22997
+    },
+    "address" : {
+      "line1" : "8281 Willow Oaks Corp Drive",
+      "city" : "Fairfax",
+      "region" : "VA",
+      "postal_code" : "22031",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "119.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "119.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 703 204-0088"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 703 204-2741"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "mrd@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/MRD"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0DAXE",
+      "room_type_code" : "A0D",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "119.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 119.99
+      } ],
+      "descriptions" : [ "NIGHTLY VALUE RATE", "STANDARD STUDIO 1 QUEEN NONSMKNG ACCESSIBLE", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Double"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EADCAMRD?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CXADW410",
+    "property_name" : "Country Inn Stes Camp Springs",
+    "marketing_text" : "The Country Inn & Suites, Camp Springs is located less than 10 miles southeast of Washington DC. Complimentary shuttle is available to and from the Branch Ave Metro Station-green line, as well as Andrews AFB and Gaylord Convention Center.",
+    "location" : {
+      "latitude" : 38.82222,
+      "longitude" : -76.91627
+    },
+    "address" : {
+      "line1" : "4950 Mercedes Blvd",
+      "city" : "Camp Springs",
+      "region" : "MD",
+      "postal_code" : "20746",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "120.07",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "106.25",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 240 492-1070"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 240 492-1089"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "cx_camd@countryinns.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.countryinns.com/campspringsmd"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "IA01940",
+      "room_type_code" : "O1K",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "120.07",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 106.25
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE 7 DAY 15PCT", "KING BED-ACCESSIBLE ROOM-NON SMOKING", "-FULL PREPAYMENT - NON-REFUNDABLE" ],
+      "room_type_info" : {
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CXADW410?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXIADF92",
+    "property_name" : "Motel 6 Washington",
+    "location" : {
+      "latitude" : 38.91022,
+      "longitude" : -76.99787
+    },
+    "address" : {
+      "line1" : "1345 4th Street Ne",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20002",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "120.21",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "104.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-544-2000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-544-4592"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N2DRACK",
+      "room_type_code" : "N2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "120.21",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 104.99
+      } ],
+      "descriptions" : [ "RACK", "2 FULL BEDS / NON-SMOKING" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXIADF92?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EAWAS768",
+    "property_name" : "Extended Stay America Alexandr",
+    "marketing_text" : "9 miles from Washington DC, Extended Stay America offers business and leisure travelers alike free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry. Our 104 suites deliver comfort by the day, week, or month.",
+    "location" : {
+      "latitude" : 38.81772,
+      "longitude" : -77.13843
+    },
+    "address" : {
+      "line1" : "205 North Breckrinridge Place",
+      "city" : "Alexandria",
+      "region" : "VA",
+      "postal_code" : "22312",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "129.80",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "112.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 703 941-9440"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 703 941-9442"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "dca@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/DCA"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A07AXY",
+      "room_type_code" : "A07",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "129.80",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 112.49
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 1 QUEEN BED NONSMKNG", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EAWAS768?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXDCAD28",
+    "property_name" : "Motel 6 Washington Dc",
+    "location" : {
+      "latitude" : 38.972,
+      "longitude" : -77.02691
+    },
+    "address" : {
+      "line1" : "6711 Georgia Ave Nw",
+      "city" : "Washington",
+      "region" : "DC",
+      "postal_code" : "20012",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "137.39",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "119.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-202-722-1600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-202-723-3979"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1DRACK",
+      "room_type_code" : "N1D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "137.39",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-11",
+        "end_date" : "2018-09-12",
+        "currency_code" : "USD",
+        "price" : 119.99
+      } ],
+      "descriptions" : [ "RACK", "1 FULL BED / NON-SMOKING" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Double",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXDCAD28?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-11&check_out=2018-09-12&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

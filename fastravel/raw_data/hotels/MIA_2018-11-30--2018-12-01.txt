@@ -1,0 +1,2196 @@
+{
+  "results" : [ {
+    "property_code" : "TAMIACOO",
+    "property_name" : "The New Casablanca Hotel",
+    "location" : {
+      "latitude" : 25.84528,
+      "longitude" : -80.11994
+    },
+    "address" : {
+      "line1" : "6345 Collins Avenue",
+      "city" : "Miamibeach",
+      "region" : "FL",
+      "postal_code" : "33141",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "99.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "99.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1 305 8680010"
+    }, {
+      "type" : "FAX",
+      "detail" : "1 305 8657111"
+    } ],
+    "amenities" : [ {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "DT2SAV",
+      "room_type_code" : "DT2",
+      "rate_plan_code" : "SAV",
+      "total_amount" : {
+        "amount" : "99.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 99.0
+      } ],
+      "descriptions" : [ "SUPER SAVER SPECIAL RATE", "RUN OF THE HOUSE" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Minimum"
+      },
+      "rate_type_code" : "SAV"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/TAMIACOO?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HIMIADD4",
+    "property_name" : "Holiday Inn Miami Doral Area",
+    "marketing_text" : "If you're looking for a great location in Miami, we are just minutes from the Miami International Airport (MIA). Our airport shuttle departs the hotel every hour on the hour daily from 6 am to 10 pm.",
+    "location" : {
+      "latitude" : 25.80383,
+      "longitude" : -80.33611
+    },
+    "address" : {
+      "line1" : "3255 Northwest 87th Avenue",
+      "city" : "Miami",
+      "region" : "FL",
+      "postal_code" : "33172-1209",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "105.40",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "105.40",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-5009000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-5009500"
+    }, {
+      "type" : "URL",
+      "detail" : "www.holidayinn.com/mia-arptwest"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "STNM7BB",
+      "room_type_code" : "*RH",
+      "rate_plan_code" : "M7B",
+      "total_amount" : {
+        "amount" : "105.40",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 105.4
+      } ],
+      "descriptions" : [ "GDS FLOATING RATE", "STANDARD ROOM WHEN YOU ARRIVE AT THE HTL WE", "WILL DO OUR BEST TO MEET YOUR ROOM BED TYPE AND" ],
+      "room_type_info" : {
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "M7B"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HIMIADD4?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WVMIAOCS",
+    "property_name" : "Ocean Surf Hotel",
+    "location" : {
+      "latitude" : 25.86032,
+      "longitude" : -80.12003
+    },
+    "address" : {
+      "line1" : "7436 Ocean Terrace",
+      "city" : "Miami Beach",
+      "region" : "FL",
+      "postal_code" : "33141",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "106.34",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "106.34",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-8661648"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-8661649"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "F2TP1E",
+      "room_type_code" : "F2T",
+      "rate_plan_code" : "P1E",
+      "total_amount" : {
+        "amount" : "106.34",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 106.34
+      } ],
+      "descriptions" : [ "Non Refundable Promo", "2 DBL Bds City View Comp toiletries 194 sq ft", "Non Refundable Promo " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate",
+        "bed_type" : "Twin",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "P1E"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WVMIAOCS?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXMIAI27",
+    "property_name" : "Motel 6 Miami, Fl",
+    "location" : {
+      "latitude" : 25.80881,
+      "longitude" : -80.31628
+    },
+    "address" : {
+      "line1" : "7330 Nw 36th Street",
+      "city" : "Miami",
+      "region" : "FL",
+      "postal_code" : "33166",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "111.87",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "99.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-592-5440"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-477-8155"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N2QRACK",
+      "room_type_code" : "N2Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "111.87",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 99.0
+      } ],
+      "descriptions" : [ "RACK", "2 QUEEN BEDS / NON-SMOKING" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Queen",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXMIAI27?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YOMIA754",
+    "property_name" : "Candlewood Stes Miami Airport",
+    "location" : {
+      "latitude" : 25.79992,
+      "longitude" : -80.34008
+    },
+    "address" : {
+      "line1" : "8855 Northwest  27th Street",
+      "city" : "Miami",
+      "region" : "FL",
+      "postal_code" : "33172",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "113.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "113.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-5919099"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-5914117"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "SQN523A",
+      "room_type_code" : "*1Q",
+      "rate_plan_code" : "523",
+      "total_amount" : {
+        "amount" : "113.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 113.99
+      } ],
+      "descriptions" : [ "GOVERNMENT RATE INCLUDES WIFI", "1 QUEEN BED STUDIO SUITE NONSMOKING THIS", "SPACIOUS PRIVATE SUITE HAS FREE HSIA SO YOU CAN" ],
+      "room_type_info" : {
+        "room_type" : "Unspecified",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "523"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YOMIA754?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HIMIADCD",
+    "property_name" : "Holiday Inn Express Doral Area",
+    "marketing_text" : "Newly renovated and conveniently located in the heart of Doral",
+    "location" : {
+      "latitude" : 25.80929,
+      "longitude" : -80.33372
+    },
+    "address" : {
+      "line1" : "8436 Nw 36th Street",
+      "city" : "Miami",
+      "region" : "FL",
+      "postal_code" : "33166",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "114.75",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "114.75",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-5924799"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-4718461"
+    }, {
+      "type" : "URL",
+      "detail" : "www.hiexpress.com/miamiairport"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "STN18JH",
+      "room_type_code" : "*RH",
+      "rate_plan_code" : "18J",
+      "total_amount" : {
+        "amount" : "114.75",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 114.75
+      } ],
+      "descriptions" : [ "GDS FLOATING RATE", "STANDARD ROOM WHEN YOU ARRIVE AT THE HOTEL WE", "WILL DO OUR BEST TO MEET YOUR ROOM BED TYPE AND" ],
+      "room_type_info" : {
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "18J"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HIMIADCD?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WVMIA756",
+    "property_name" : "Alden Hotel",
+    "marketing_text" : "Come enjoy the Miami Beach lifestyle at the Alden Hotel. The 1930 Art Deco Landmark hotel features 71 hotel guest rooms with a kitchenette Swimming pool and a relaxing lobby area with Wi-Fi connectivity.",
+    "location" : {
+      "latitude" : 25.80589,
+      "longitude" : -80.12595
+    },
+    "address" : {
+      "line1" : "2925 Indian Creek",
+      "city" : "Miami Beach",
+      "region" : "FL",
+      "postal_code" : "33140",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "117.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "117.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-786-4568710"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-5355310"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "reservations@aldenmiamibeach.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.aldenmiamibeach.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "DOCTOR_ON_CALL",
+      "ota_code" : 28,
+      "description" : "Doctor on call"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SOLARIUM",
+      "ota_code" : 83,
+      "description" : "Solarium"
+    }, {
+      "amenity" : "",
+      "ota_code" : 91,
+      "description" : "Tour/sightseeing desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    } ],
+    "awards" : [ {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "J1QP1V",
+      "room_type_code" : "J1Q",
+      "rate_plan_code" : "P1V",
+      "total_amount" : {
+        "amount" : "117.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 117.0
+      } ],
+      "descriptions" : [ "ADV. PURCHASE 25%OFF", "STUDIO ROOM WITH ONE QUEEN BED KITCHENETTE W", "ADV.PURCHASE 25% FULL PAYMENT AT BOOKING 10%" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath/shower - Moderate",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "P1V"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WVMIA756?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQMIA667",
+    "property_name" : "La Quinta Inn Miami Airport North",
+    "marketing_text" : "At La Quinta Inn & Suites Miami Airport North, business guests are near Caterpillar HQ, American Airlines, Telemundo, and Univision. Off FL-826, enjoy free local calls, airport shuttle, pool, guest laundry, FREE Bright Side Breakfast, and FREE WiFi.",
+    "location" : {
+      "latitude" : 25.80979,
+      "longitude" : -80.31686
+    },
+    "address" : {
+      "line1" : "7401 Nw 36th Street",
+      "city" : "Miami",
+      "region" : "FL",
+      "postal_code" : "33166",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "119.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "119.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 305 599-9902"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 305 594-0552"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq0667gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://667.lq.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A03A74",
+      "room_type_code" : "C2D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "119.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 119.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "Two Double Pillowtop Beds", "32 inch HDTV/Free WIFI/Free Breakfast" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQMIA667?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WVMIA899",
+    "property_name" : "Doral Inn And Suites Miami Airport West",
+    "marketing_text" : "All rates commissionable. All suites hotel. Offering complimentary wifi, free airport shuttle free continental breakfast and free parking. Conveniently located at miami international airport and close to dolphin mall.",
+    "location" : {
+      "latitude" : 25.78393,
+      "longitude" : -80.32894
+    },
+    "address" : {
+      "line1" : "1212 Nw 82nd Ave",
+      "city" : "Doral",
+      "region" : "FL",
+      "postal_code" : "33126",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "122.04",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "108.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-6298755"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-6298754"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "doralinnandsuites@gmail.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.doralinnandsuites.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 92,
+      "description" : "Translation services"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    } ],
+    "awards" : [ {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "S1KPRO",
+      "room_type_code" : "S1K",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "122.04",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 108.0
+      } ],
+      "descriptions" : [ "Flash Sale, Save 20%", "1 KNG BED 1 SOFA BED KITCHEN  335 SQ F 10pct", "SPC DIR 20% Off- ALL SUITES, 10% COMM FREE" ],
+      "room_type_info" : {
+        "room_type" : "Suite",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WVMIA899?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "QIMIAB88",
+    "property_name" : "Quality Inn Miami Airport",
+    "marketing_text" : "The hotel is located northwest of miami international airport, in the center of the doral area.",
+    "location" : {
+      "latitude" : 25.8108,
+      "longitude" : -80.32307
+    },
+    "address" : {
+      "line1" : "3959 Northwest 79th Avenue",
+      "city" : "Miami",
+      "region" : "FL",
+      "postal_code" : "33166",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "125.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "125.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-599-5200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-436-2935"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Z30DSNR",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "125.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 125.1
+      } ],
+      "descriptions" : [ "Senior/AARP Rate Age 60 or Older", "1K/NonSmoking/Mirror, Full Length/Wake-Up", "Service/Free Hi-Spd Wireless/Air Conditioning/" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/QIMIAB88?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "XTMIATCH",
+    "property_name" : "The Clay Hotel",
+    "location" : {
+      "latitude" : 25.77045,
+      "longitude" : -80.13494
+    },
+    "address" : {
+      "line1" : "143 Washington Avenue",
+      "city" : "Miami",
+      "region" : "FL",
+      "postal_code" : "33139",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "126.65",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "126.65",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-5342988"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-6730346"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "DQ1RAC",
+      "room_type_code" : "DQ1",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "126.65",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 126.65
+      } ],
+      "descriptions" : [ "BEST AVAILABLE RATE", "Deluxe Queen                                   " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Minimum"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/XTMIATCH?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LMMIA443",
+    "property_name" : "Ocean Spray Miami Beach",
+    "marketing_text" : "This beautiful Art Deco building was completely renovated in 2003. The glamour and eclectic ambiance, natural fresh flowers and sophisticated aromas make the Ocean Spray Hotel unique in it's class. It's clean and crispy look with it's shiny polished",
+    "location" : {
+      "latitude" : 25.81374,
+      "longitude" : -80.12309
+    },
+    "address" : {
+      "line1" : "4130 Collins Avenue",
+      "city" : "Miami Beach",
+      "region" : "FL",
+      "postal_code" : "33140",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "126.75",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "126.75",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-5355300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-6046886"
+    } ],
+    "amenities" : [ {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    }, {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B1QP9R",
+      "room_type_code" : "B1Q",
+      "rate_plan_code" : "P9R",
+      "total_amount" : {
+        "amount" : "126.75",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 126.75
+      } ],
+      "descriptions" : [ "ADV. PUR 25% NON REFUNDABLE", "PREMIUM QUEEN  REFRIGERATOR COFFEE MAKER FREE", "ADVPURCH 25%-FULL PAYMENT AT BOOKING" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "P9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LMMIA443?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LQMIA980",
+    "property_name" : "La Quinta Inn Ste Miami Airport West",
+    "marketing_text" : "Located due west of Miami International Airport near the Spa at Doral, the La Quinta Inn and Suites-Miami Airport West is close to all popular area attractions: The Port of Miami, Metro Zoo, Bayfront and Bayside Parks, Coconut Grove, and South Beach.",
+    "location" : {
+      "latitude" : 25.79937,
+      "longitude" : -80.33865
+    },
+    "address" : {
+      "line1" : "8730 Nw 27th Street",
+      "city" : "Miami",
+      "region" : "FL",
+      "postal_code" : "33172",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "129.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "129.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 305 436-0830"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 305 436-0840"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "lq0980gm@laquinta.com"
+    }, {
+      "type" : "URL",
+      "detail" : "http://980.lqcom"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A01A7P",
+      "room_type_code" : "B1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "129.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 129.0
+      } ],
+      "descriptions" : [ "Best Available Rate", "King Pillowtop Bed/Microwave/Fridge", "Ultra Fast Free Internet/Free Breakfast/HDTV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LQMIA980?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WVMIABMB",
+    "property_name" : "The Broadmoor Miami Beach",
+    "marketing_text" : "The newly designed Broadmoor Hotel Miami Beach is the newest boutique style property located on Miami Beach.  The historic art deco style hotel is located oceanfront and just a few miles the famous entertainment district in South Beach.",
+    "location" : {
+      "latitude" : 25.86052,
+      "longitude" : -80.12007
+    },
+    "address" : {
+      "line1" : "7450 Ocean Terrace",
+      "city" : "Miami Beach",
+      "region" : "FL",
+      "postal_code" : "33141",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "130.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "130.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-866-1631"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-401-2706977"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "reservations@days7450.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "",
+      "ota_code" : 49,
+      "description" : "Heated pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "F2DFLA",
+      "room_type_code" : "F2D",
+      "rate_plan_code" : "FLA",
+      "total_amount" : {
+        "amount" : "130.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 130.0
+      } ],
+      "descriptions" : [ "Florida Resident Rate (ID required)", "2 DBL BEDS HSIA MINI FRIDGE POOL VIEW ", "10% off Daily Rate. Must show Florida ID " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "FLA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WVMIABMB?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "RFMIA255",
+    "property_name" : "Red Roof Plus Miami Airport",
+    "marketing_text" : "This location offers connecting rooms and roll-in showers. Last renovated in 2012. Two buildings onsite.both Interior entrances. Building 1, 4 Floors and elevator.  Building 2, 5 Floors and elevator. Business center and gift shop onsite. Outdoor pool",
+    "location" : {
+      "latitude" : 25.80511,
+      "longitude" : -80.26381
+    },
+    "address" : {
+      "line1" : "3401 Nw Le Jeune Road",
+      "city" : "Miami",
+      "region" : "FL",
+      "postal_code" : "33142",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "130.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "130.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 305 871-4221"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 305 871-3933"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "i0255@redroof.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.redroof.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "2"
+    }, {
+      "provider" : "Mobil",
+      "rating" : "2"
+    }, {
+      "provider" : "Northstar Travel Media",
+      "rating" : "2"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A2DSEN",
+      "room_type_code" : "A2D",
+      "rate_plan_code" : "SEN",
+      "total_amount" : {
+        "amount" : "130.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 130.49
+      } ],
+      "descriptions" : [ "SENIORS ", "2 FULL BEDS SMOKE-FREE with Free WiFi-Flat Screen TV " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "SEN"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/RFMIA255?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "YXMIA580",
+    "property_name" : "Lexington Hotel Miami Beach",
+    "location" : {
+      "latitude" : 25.81423,
+      "longitude" : -80.12258
+    },
+    "address" : {
+      "line1" : "4299 Collins Avenue",
+      "city" : "Miami",
+      "region" : "FL",
+      "postal_code" : "33140",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "131.12",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "131.12",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-6731513"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-5380727"
+    }, {
+      "type" : "URL",
+      "detail" : "www.redlion.com/miami-beach"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H2DSNR",
+      "room_type_code" : "H2D",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "131.12",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 131.12
+      } ],
+      "descriptions" : [ "AARP MEMBER RATE ", "2 Double Beds-Accessible-NonSmoking-Free WiFi-Coffeemaker-", "Hairdryer-36 inch Flat Panel Satellite TV-HBO-ESPN-Iron-Ironing " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "Double",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/YXMIA580?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DIMIA267",
+    "property_name" : "Days Inn Miami Airport North",
+    "location" : {
+      "latitude" : 25.80825,
+      "longitude" : -80.27497
+    },
+    "address" : {
+      "line1" : "4767 N.w. 36th Street",
+      "city" : "Miami",
+      "region" : "FL",
+      "postal_code" : "33166",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "131.19",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "116.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-8883661"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-8871194"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1QAR1",
+      "room_type_code" : "C1Q",
+      "rate_plan_code" : "AR1",
+      "total_amount" : {
+        "amount" : "131.19",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 116.1
+      } ],
+      "descriptions" : [ "AARP RATE ", "1 QueenBed NSMK with free WiFi, coffee maker and hair dryer " ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AR1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DIMIA267?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SZMIA817",
+    "property_name" : "Sleep Inn Miami Airport",
+    "marketing_text" : "At the Sleep Inn Miami Airport hotel in Miami Springs, FL, youll dream better and feel well rested.",
+    "location" : {
+      "latitude" : 25.8086,
+      "longitude" : -80.28409
+    },
+    "address" : {
+      "line1" : "105 Fairway Dr",
+      "city" : "Miami Springs",
+      "region" : "FL",
+      "postal_code" : "33166",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "132.05",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "132.05",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-871-7553"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-871-5441"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "ZE0BSNR",
+      "room_type_code" : "*1Q",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "132.05",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 132.05
+      } ],
+      "descriptions" : [ "Senior/AARP Rate Age 60 or Older", "1Q/NonSmoking/Accessible/No Pets Allowed/Free", "Hi-Spd Wireless/1st Floor/City View/Air" ],
+      "room_type_info" : {
+        "room_type" : "Unspecified",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SZMIA817?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "HIMIAB16",
+    "property_name" : "Holiday Inn Express Hialeah",
+    "marketing_text" : "In addition to the hotel's ideal location in the Miami area, guests can enjoy outstanding amenities, such as a hot complimentary breakfast bar and plenty of free parking, including trailer parking.",
+    "location" : {
+      "latitude" : 25.88336,
+      "longitude" : -80.32485
+    },
+    "address" : {
+      "line1" : "6650 West 20th Avenue",
+      "city" : "Hialeah",
+      "region" : "FL",
+      "postal_code" : "33016",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "132.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "132.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-3627777"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-8268107"
+    }, {
+      "type" : "URL",
+      "detail" : "www.hiexpress.com/mia-hialeah"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "STN482G",
+      "room_type_code" : "*RH",
+      "rate_plan_code" : "482",
+      "total_amount" : {
+        "amount" : "132.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 132.99
+      } ],
+      "descriptions" : [ "BOOK EARLY N SAVE NO REFUNDS", "STANDARD ROOM WHEN YOU ARRIVE AT THE HOTEL WE", "WILL DO OUR BEST TO MEET YOUR BED TYPE" ],
+      "room_type_info" : {
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "482"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/HIMIAB16?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CYMIACSC",
+    "property_name" : "Courtyard Miami Arpt Marriott",
+    "marketing_text" : "Enjoy the comfort and conveniences of home & the benefits of the hotel designed for business travelers.",
+    "location" : {
+      "latitude" : 25.78468,
+      "longitude" : -80.26224
+    },
+    "address" : {
+      "line1" : "1201 Nw Le Jeune Rd",
+      "city" : "Miami",
+      "region" : "FL",
+      "postal_code" : "33126",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "135.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "135.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-305-6428200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-305-6441168"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIF00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "135.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-11-30",
+        "end_date" : "2018-12-01",
+        "currency_code" : "USD",
+        "price" : 135.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Queen, Mini fridge, 280sqft/25sqm, Wireless i", "nternet, complimentary, Wired internet, complim" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CYMIACSC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-11-30&check_out=2018-12-01&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

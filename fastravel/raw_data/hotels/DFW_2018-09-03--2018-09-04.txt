@@ -1,0 +1,2017 @@
+{
+  "results" : [ {
+    "property_code" : "MXDFWK22",
+    "property_name" : "Motel 6 Dallas South",
+    "location" : {
+      "latitude" : 32.68717,
+      "longitude" : -96.8209
+    },
+    "address" : {
+      "line1" : "4610 S Rl Thornton Frwy",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75224",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "49.71",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "43.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-214-371-6800"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-214-371-0985"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1KRACK",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "49.71",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 43.99
+      } ],
+      "descriptions" : [ "RACK", "1 KING BED / MODERN, NON-SMOKING" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXDFWK22?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXDFWD73",
+    "property_name" : "Motel 6 Dallas Northeast",
+    "location" : {
+      "latitude" : 32.88289,
+      "longitude" : -96.6966
+    },
+    "address" : {
+      "line1" : "10921 Estate Lane",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75238",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "51.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "51.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-214-340-2299"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-214-342-3183"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1QRACK",
+      "room_type_code" : "N1Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "51.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 51.99
+      } ],
+      "descriptions" : [ "RACK", "1 QUEEN BED / NON-SMOKING" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXDFWD73?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXDFWI69",
+    "property_name" : "Motel 6 Dallas - Garland - Northwest Hwy",
+    "location" : {
+      "latitude" : 32.86507,
+      "longitude" : -96.66135
+    },
+    "address" : {
+      "line1" : "12721 I-635",
+      "city" : "Garland",
+      "region" : "TX",
+      "postal_code" : "75041",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "54.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "47.79",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-972-271-7581"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-972-271-1388"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1KRACK",
+      "room_type_code" : "N1K",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "54.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 47.79
+      } ],
+      "descriptions" : [ "RACK", "1 KING BED / NON-SMOKING" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXDFWI69?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MXDALC16",
+    "property_name" : "Motel 6 Dallas - Irving",
+    "location" : {
+      "latitude" : 32.80917,
+      "longitude" : -96.92062
+    },
+    "address" : {
+      "line1" : "510 South Loop 12",
+      "city" : "Irving",
+      "region" : "TX",
+      "postal_code" : "75060",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "57.49",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "49.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-972-438-4227"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-972-554-0048"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "U1DRACK",
+      "room_type_code" : "U1D",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "57.49",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 49.99
+      } ],
+      "descriptions" : [ "RACK", "1 FULL BED / ACCESSIBLE" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Double",
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MXDALC16?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "OZDFW760",
+    "property_name" : "Super 8 Dallas East",
+    "location" : {
+      "latitude" : 32.79684,
+      "longitude" : -96.69058
+    },
+    "address" : {
+      "line1" : "8901 East R.l Thornton Frwy",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75228-6105",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "61.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "61.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-214-3244475"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-214-3244476"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "NK1SDI",
+      "room_type_code" : "NK1",
+      "rate_plan_code" : "PK6",
+      "total_amount" : {
+        "amount" : "61.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 61.99
+      } ],
+      "descriptions" : [ "$8 OFF PER NIGHT ", "1 KING BED NON-SMOKING ROOM WITH", "FREE  BREAKFAST, FREE" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "PK6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/OZDFW760?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "QIDFWA01",
+    "property_name" : "Quality Inn & Suites I-35 E-walnut",
+    "marketing_text" : "The Quality Inn and Suites Northwest is located just off of I-35E at the Walnut Hill Exit.",
+    "location" : {
+      "latitude" : 32.87742,
+      "longitude" : -96.89665
+    },
+    "address" : {
+      "line1" : "10835 Composite Drive",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75220",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "71.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "71.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-214-358-4300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-214-358-1505"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Z40CSNR",
+      "room_type_code" : "N2Q",
+      "rate_plan_code" : "SNR",
+      "total_amount" : {
+        "amount" : "71.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 71.1
+      } ],
+      "descriptions" : [ "Senior/AARP Rate Age 60 or Older", "2Q/NonSmoking/Free Wired High-Speed Internet/", "Wet Bar/Refrigerator/Microwave/TV," ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "SNR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/QIDFWA01?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MTDFW900",
+    "property_name" : "Microtel Inn & Suites By Wyndh",
+    "location" : {
+      "latitude" : 32.86201,
+      "longitude" : -96.65533
+    },
+    "address" : {
+      "line1" : "1901 Pendleton Drive",
+      "city" : "Garland",
+      "region" : "TX",
+      "postal_code" : "75041",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "71.92",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "61.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-972-2707200"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-972-2796664"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "Q11RAC",
+      "room_type_code" : "Q11",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "71.92",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 61.0
+      } ],
+      "descriptions" : [ "BEST AVAILABLE RATE ", "1 QUEEN BED SMOKING ROOM WITH FREE", "CONTINENTAL BREAKFAST, FREE WI-FI," ],
+      "room_type_info" : {
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MTDFW900?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EADFWHCR",
+    "property_name" : "Extended Stay America Coit Rd",
+    "marketing_text" : "10 miles from Dallas and 3 miles from the Galleria Of Dallas, Extended Stay America?s 134 suites offer business and leisure travelers free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry by the day, week or month.",
+    "location" : {
+      "latitude" : 32.91382,
+      "longitude" : -96.76983
+    },
+    "address" : {
+      "line1" : "12121 Coit Road",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75251",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "74.74",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "64.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 972 663-1800"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 972 663-1900"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "crd@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/CRD"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 118,
+      "description" : "Barbeque grills"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A09B0K",
+      "room_type_code" : "A09",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "74.74",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 64.99
+      } ],
+      "descriptions" : [ "NIGHTLY VALUE RATE", "STANDARD STUDIO 1 QUEEN NONSMKNG ACCESSIBLE", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EADFWHCR?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "FNDALPCF",
+    "property_name" : "Fairfield Inn Pk Cent Marriott",
+    "marketing_text" : "Always fresh, always clean, our guest rooms are full of thoughtful amenities, including a well- lit work desk and a remote-controlled tv with free cable.",
+    "location" : {
+      "latitude" : 32.91519,
+      "longitude" : -96.7423
+    },
+    "address" : {
+      "line1" : "9230 Lbj Freeway",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75243",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "76.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "76.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-972-4379905"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-972-4379905"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "76.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 76.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "1 King, Mini fridge, Microwave, 150sqft/14sqm-1", "75sqft/16sqm, Wireless internet, complimentary," ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/FNDALPCF?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CPDAL8BC",
+    "property_name" : "Crowne Plaza Dallas Downtown",
+    "location" : {
+      "latitude" : 32.78076,
+      "longitude" : -96.80344
+    },
+    "address" : {
+      "line1" : "1015 Elm Street",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75202",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "76.50",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "76.50",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-214-7425678"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-214-3793577"
+    }, {
+      "type" : "URL",
+      "detail" : "www.crowneplaza.com/dallasdowntown"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "KNGJ5LE",
+      "room_type_code" : "*1K",
+      "rate_plan_code" : "J5L",
+      "total_amount" : {
+        "amount" : "76.50",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 76.5
+      } ],
+      "descriptions" : [ "GDS HOT DEAL PROMO ", "KING LEISURE NONSMOKING RELAX IN AN EASY CHAIR ", "WHILE SURFING FREE WIRELESS INTERNET ACCESS OR " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "J5L"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CPDAL8BC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "DIDFW640",
+    "property_name" : "Days Inn Dallas Irving",
+    "location" : {
+      "latitude" : 32.83579,
+      "longitude" : -96.91292
+    },
+    "address" : {
+      "line1" : "2200 East Airport Freeway",
+      "city" : "Irving",
+      "region" : "TX",
+      "postal_code" : "75062",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "77.22",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "67.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-972-9759440"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-972-5794902"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1QSP1",
+      "room_type_code" : "N1Q",
+      "rate_plan_code" : "SP1",
+      "total_amount" : {
+        "amount" : "77.22",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 67.15
+      } ],
+      "descriptions" : [ "PAY NOW & SAVE 15% + 100 BONUS POINTS ", "1 Queen NSMK with free WiFi, free continental breakfast, coffee ", "maker, desk " ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "Queen",
+        "room_type" : "Non-smoking"
+      },
+      "rate_type_code" : "SP1"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/DIDFW640?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "FNDALWFF",
+    "property_name" : "Fairfield Inn N Stes Marriott",
+    "location" : {
+      "latitude" : 32.7708,
+      "longitude" : -96.89581
+    },
+    "address" : {
+      "line1" : "2100 North Cockrell Hill",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75212",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "84.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "84.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-972-6857700"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-972-8079915"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "84.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 84.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Queen, Mini fridge, 325sqft/29sqm, Wireless i", "nternet, complimentary, 32in/81cm LCD TV" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/FNDALWFF?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EADAL692",
+    "property_name" : "Extended Stay America Market C",
+    "location" : {
+      "latitude" : 32.81113,
+      "longitude" : -96.85474
+    },
+    "address" : {
+      "line1" : "2979 North Stemmons Freeway",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75247-0154",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "86.43",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "76.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-214-630-0154"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-214-630-0197"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0FAY2",
+      "room_type_code" : "T2Q",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "86.43",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 76.49
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE - NO REFUNDS", "STANDARD STUDIO 2 QUEENS NONSMKNG ACCESSIBLE", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Queen",
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EADAL692?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "BWDAL494",
+    "property_name" : "Bw Northwest Inn",
+    "marketing_text" : "Discover the brand new BEST WESTERN PLUS Northwest Inn. Located in the heart of greater dallas, we offer all the amenities and select rooms with large size jacuzzi.",
+    "location" : {
+      "latitude" : 32.86032,
+      "longitude" : -96.88476
+    },
+    "address" : {
+      "line1" : "2361 W Northwest Hwy",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75220",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "86.43",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "76.49",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-214-3538774"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-214-3538775"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B1KDB6D",
+      "room_type_code" : "B1K",
+      "rate_plan_code" : "DB6",
+      "total_amount" : {
+        "amount" : "86.43",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 76.49
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE", "1 KING BED,SMOK,SITAREA,WIFI NET,MICFRG,COFMKR,", "HAIR,CONTINENTAL BREAKFAST" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Moderate"
+      },
+      "rate_type_code" : "DB6"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/BWDAL494?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "TODFWIVT",
+    "property_name" : "Towneplace Las Colina Marriott",
+    "location" : {
+      "latitude" : 32.88438,
+      "longitude" : -96.96116
+    },
+    "address" : {
+      "line1" : "900 West Walnut Hill Lane",
+      "city" : "Irving",
+      "region" : "TX",
+      "postal_code" : "75038",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "89.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "89.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-972-5507796"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-972-5508562"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "REGA00",
+      "room_type_code" : "REG",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "89.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 89.0
+      } ],
+      "descriptions" : [ "Regular Rate", "1 Queen, Sofa bed, Fully equipped kitchen, Micr", "owave, 356sqft/32sqm, Living/sitting area, Dini" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/TODFWIVT?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CXDFW564",
+    "property_name" : "Country Inn Ste Dal Love Field",
+    "marketing_text" : "Complimentary 24 Hr Shuttle to and from Dallas Love Field  Airport (not DFW), Complimentary Hot Breakfast, In-Room Refrigerator and Microwave, a free 24-hr Business Center and Complimentary wireless in all guest rooms and in public areas. ",
+    "location" : {
+      "latitude" : 32.85837,
+      "longitude" : -96.88831
+    },
+    "address" : {
+      "line1" : "2383 Stemmons Trail",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75220",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "89.70",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "78.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 214 352-7676"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 866 426-4455"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "cx_dftx@countryinn.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.countryinns.com/dallastx_love"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXPRESS_CHECK_IN",
+      "ota_code" : 36,
+      "description" : "Express check-in"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "",
+      "ota_code" : 41,
+      "description" : "Free airport shuttle"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "",
+      "ota_code" : 100,
+      "description" : "Wakeup service"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "IA01614",
+      "room_type_code" : "O2D",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "89.70",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 78.0
+      } ],
+      "descriptions" : [ "ADVANCE PURCHASE 14 DAYS", "2 DOUBLE BEDS-NON SMOKING", "-PREPAYMENT-NON REFUNDABLE" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CXDFW564?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "EADFW225",
+    "property_name" : "Extended Stay America Greenvil",
+    "marketing_text" : "10 miles from Dallas, Extended Stay America offers business and leisure travelers alike free WiFi, full kitchens, flat screen TVs, free grab and go breakfast, and onsite laundry. Our 116 suites deliver comfort by the day, week, or month.",
+    "location" : {
+      "latitude" : 32.915,
+      "longitude" : -96.74409
+    },
+    "address" : {
+      "line1" : "12270 Greenville Ave.",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75243",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "91.99",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "79.99",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 972 238-1133"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 972 238-1725"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "dri@extendedstay.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.extendedstayamerica.com/DRI"
+    } ],
+    "amenities" : [ {
+      "amenity" : "FRONT_DESK_24_HOURS",
+      "ota_code" : 1,
+      "description" : "24-hour front desk"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "NON_PORNOGRAPHIC_TV",
+      "ota_code" : 220,
+      "description" : "Hotel does not provide pornographic films/TV"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    } ],
+    "awards" : [ {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "2"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A07AS0",
+      "room_type_code" : "A07",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "91.99",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 79.99
+      } ],
+      "descriptions" : [ "NIGHTLY VALUE RATE", "STANDARD STUDIO 1 QUEEN BED NONSMKNG", "FREE WIFI AND GRAB AND GO BKFST 32IN LCD TV" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Superior"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/EADFW225?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CPDALEB4",
+    "property_name" : "Crowne Plaza Market Center",
+    "marketing_text" : "We are pleased to provide a free shuttle, within 3 miles, to some of the area's best attractions. Our hotel's Dallas, Texas location ensures an easy commute to Dallas Medical Center, downtown and Love Field Airport.",
+    "location" : {
+      "latitude" : 32.81658,
+      "longitude" : -96.86713
+    },
+    "address" : {
+      "line1" : "7050 Stemmons Freeway",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75247",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "92.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "80.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-214-6308500"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-214-6309486"
+    }, {
+      "type" : "URL",
+      "detail" : "www.crowneplaza.com/dal-market-cp"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "2DN482G",
+      "room_type_code" : "*2D",
+      "rate_plan_code" : "482",
+      "total_amount" : {
+        "amount" : "92.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 80.0
+      } ],
+      "descriptions" : [ "BOOK EARLY N SAVE NO REFUNDS", "2 DOUBLE BEDS LEISURE NONSMOKING UNWIND BY", "SURFING THE WEB VIA FREE WI FI ACCESS ON 7" ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Double",
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "482"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CPDALEB4?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "XVDALSSS",
+    "property_name" : "Springhill Stes Nw Marriott",
+    "location" : {
+      "latitude" : 32.85954,
+      "longitude" : -96.88931
+    },
+    "address" : {
+      "line1" : "2363 Stemmons Trail",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75220",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "93.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "93.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-214-3502300"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-214-3505144"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIB00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "93.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 93.0
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, see Rate Rules", "2 Queen, Sofa bed, Mini fridge, Microwave, Livi", "ng/sitting area, Separate living room, Wireless" ],
+      "room_type_info" : { },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/XVDALSSS?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "CYDALNWC",
+    "property_name" : "Courtyard Northwest Marriott",
+    "marketing_text" : "Courtyard surrounds travelers with the conveniences that make business and pleasure travel easy.",
+    "location" : {
+      "latitude" : 32.90907,
+      "longitude" : -96.87902
+    },
+    "address" : {
+      "line1" : "2930 Forest Ln",
+      "city" : "Dallas",
+      "region" : "TX",
+      "postal_code" : "75234",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "96.77",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "84.15",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-972-6208000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-888-5963376"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "ICE_MACHINE",
+      "ota_code" : 52,
+      "description" : "Ice machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "XMIC00",
+      "room_type_code" : "XMI",
+      "rate_plan_code" : "S9R",
+      "total_amount" : {
+        "amount" : "96.77",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-09-03",
+        "end_date" : "2018-09-04",
+        "currency_code" : "USD",
+        "price" : 84.15
+      } ],
+      "descriptions" : [ "Marriott Senior Discount, 62 years and older va", "2 Queen, Mini fridge, Microwave, 227sqft/20sqm,", " Wireless internet, complimentary, Coffee/tea m" ],
+      "room_type_info" : { },
+      "rate_type_code" : "S9R"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CYDALNWC?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-09-03&check_out=2018-09-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

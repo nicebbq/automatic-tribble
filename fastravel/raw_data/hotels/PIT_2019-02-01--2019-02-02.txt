@@ -1,0 +1,351 @@
+{
+  "results" : [ {
+    "property_code" : "WYPIT998",
+    "property_name" : "Wyndham Grand Pittsburgh Downt",
+    "location" : {
+      "latitude" : 40.44159,
+      "longitude" : -80.00678
+    },
+    "address" : {
+      "line1" : "600 Commonwealth Place",
+      "city" : "Pittsburgh",
+      "region" : "PA",
+      "postal_code" : "15222",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "135.20",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "135.20",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-412-3914600"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-412-5945161"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "3"
+    }, {
+      "provider" : "AAA",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H1KAAA",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "AAA",
+      "total_amount" : {
+        "amount" : "135.20",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-02-01",
+        "end_date" : "2019-02-02",
+        "currency_code" : "USD",
+        "price" : 135.2
+      } ],
+      "descriptions" : [ "AAA DISCOUNT ", "Accessible 1 King Bed Non Smoking Room " ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Minimum",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "AAA"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WYPIT998?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-02-01&check_out=2019-02-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SIPIT693",
+    "property_name" : "Sheraton Station Square Hotel",
+    "location" : {
+      "latitude" : 40.43471,
+      "longitude" : -80.00633
+    },
+    "address" : {
+      "line1" : "300 West Station Square Drive",
+      "city" : "Pittsburgh",
+      "region" : "PA",
+      "postal_code" : "15219",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "300.60",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "300.60",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 412 261-2000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 412 261-2932"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "connect@sheratonstationsquare.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    } ],
+    "awards" : [ {
+      "provider" : "WeddingWire",
+      "rating" : "WeddingWire Rated Bronze Badge"
+    }, {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "GreenPartner"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KA16",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "A16",
+      "total_amount" : {
+        "amount" : "300.60",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-02-01",
+        "end_date" : "2019-02-02",
+        "currency_code" : "USD",
+        "price" : 300.6
+      } ],
+      "descriptions" : [ "1 KING:AAA/CAA RATE", "AAA/CAA ID", "TRADITIONAL NON-SMOKING:SIGNATURE SLEEP" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Standard",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "A16"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SIPIT693?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-02-01&check_out=2019-02-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "WIPIT370",
+    "property_name" : "Westin Conv Center Pittsburgh",
+    "location" : {
+      "latitude" : 40.44431,
+      "longitude" : -79.99521
+    },
+    "address" : {
+      "line1" : "1000 Penn Avenue",
+      "city" : "Pittsburgh",
+      "region" : "PA",
+      "postal_code" : "15222",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "315.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "315.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 412 281-3700"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 412 227-4500"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "01370revenuemgt@westin.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "CONCIERGE_DESK",
+      "ota_code" : 22,
+      "description" : "Concierge desk"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "MULTILINGUAL_STAFF",
+      "ota_code" : 103,
+      "description" : "Multilingual staff"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "",
+      "ota_code" : 54,
+      "description" : "Indoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "B1KDO0",
+      "room_type_code" : "B1K",
+      "rate_plan_code" : "DO0",
+      "total_amount" : {
+        "amount" : "315.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-02-01",
+        "end_date" : "2019-02-02",
+        "currency_code" : "USD",
+        "price" : 315.1
+      } ],
+      "descriptions" : [ "1 KING:PREPAID RATE", "TRADITIONAL NON-SMOKING:HEAVENLY BED AND BATH:", "FREE WI-FI INTERNET:LAPTOP SAFE:REFRIGERATOR" ],
+      "room_type_info" : {
+        "room_type" : "Room with bath - Moderate",
+        "bed_type" : "King",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "DO0"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WIPIT370?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-02-01&check_out=2019-02-02&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

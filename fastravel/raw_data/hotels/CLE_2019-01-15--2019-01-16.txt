@@ -1,0 +1,103 @@
+{
+  "results" : [ {
+    "property_code" : "CICLE167",
+    "property_name" : "Comfort Inn Downtown",
+    "marketing_text" : "Rest and refresh at the smoke-free and pet-friendly Comfort Inn\rDowntown hotel in Cleveland/OH close to Playhouse Square.\r",
+    "location" : {
+      "latitude" : 41.50112,
+      "longitude" : -81.67833
+    },
+    "address" : {
+      "line1" : "1800 Euclid Avenue",
+      "city" : "Cleveland",
+      "region" : "OH",
+      "postal_code" : "44115",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "213.89",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "183.60",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-216-861-0001"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-216-619-4779"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "JACUZZI",
+      "ota_code" : 55,
+      "description" : "Jacuzzi"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "ZE6ULWR",
+      "room_type_code" : "*1K",
+      "rate_plan_code" : "LWR",
+      "total_amount" : {
+        "amount" : "213.89",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-15",
+        "end_date" : "2019-01-16",
+        "currency_code" : "USD",
+        "price" : 183.6
+      } ],
+      "descriptions" : [ "Western Reserve Historical Society", "1K/NonSmoking/Accessible/Free Wired High-Speed", "Internet/Air Conditioning/27 inch TV/Microwave/" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Unspecified"
+      },
+      "rate_type_code" : "LWR"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/CICLE167?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-15&check_out=2019-01-16&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

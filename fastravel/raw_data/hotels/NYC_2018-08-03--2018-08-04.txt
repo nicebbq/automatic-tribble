@@ -1,0 +1,82 @@
+{
+  "results" : [ {
+    "property_code" : "WVNYC622",
+    "property_name" : "Broadway Hotel And Hostel",
+    "location" : {
+      "latitude" : 40.79793,
+      "longitude" : -73.97
+    },
+    "address" : {
+      "line1" : "230 West 101 Street",
+      "city" : "New York",
+      "region" : "NY",
+      "postal_code" : "10025",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "62.37",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "51.30",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-212-8657711"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-212-8652993"
+    } ],
+    "amenities" : [ {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    } ],
+    "awards" : [ ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "F2SP30",
+      "room_type_code" : "F2S",
+      "rate_plan_code" : "P30",
+      "total_amount" : {
+        "amount" : "62.37",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-08-03",
+        "end_date" : "2018-08-04",
+        "currency_code" : "USD",
+        "price" : 51.3
+      } ],
+      "descriptions" : [ "Advance Purchase-Non Refundable", "2 beds 1 bunk bed shared bath in hallway In", "Advance Purchase - 10pct off No Cancel, Full" ],
+      "room_type_info" : {
+        "room_type" : "Room with shower - Moderate",
+        "bed_type" : "Single",
+        "number_of_beds" : "2"
+      },
+      "rate_type_code" : "P30"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/WVNYC622?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-08-03&check_out=2018-08-04&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

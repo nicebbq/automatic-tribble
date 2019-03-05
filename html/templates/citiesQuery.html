@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+{% block body %}
+  {{info['user']}} logged in.<br><br>
+  <b><u>Cities currently in database:</b></u><br><br>
+  <ul style="list-style-type:square">
+    {% for item in info['data'] %}
+      <li>{{item[0]}}</li>
+    {% endfor %}
+  </ul>
+{% endblock %}

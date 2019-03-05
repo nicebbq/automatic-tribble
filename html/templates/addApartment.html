@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+{% block body %}
+{{info['user']}} logged in.<br><br>
+  <form action="addApartmentResult.html" method="POST">
+    <input type="text" placeholder="City" name="cityName"><br>
+    <input type="text" placeholder = "Start Date" name="sDate"><br>
+    <input type="text" placeholder = "End Date" name="eDate"><br>
+    <input type="text" placeholder = "Budget" name="budget"><br>
+    <input type="text" placeholder = "Request Date" name="reqDate"><br>
+    <input type="radio" name="swap" value="1">Swap&nbsp&nbsp
+    <input type="radio" name="swap" value="0">Do Not Swap<br>
+    <input type="submit" value="Add City">
+  </form>
+{% endblock %}

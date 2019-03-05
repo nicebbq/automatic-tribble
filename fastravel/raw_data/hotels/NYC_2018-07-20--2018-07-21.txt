@@ -1,0 +1,73 @@
+{
+  "results" : [ {
+    "property_code" : "UZLGA457",
+    "property_name" : "Metro Motel",
+    "location" : {
+      "latitude" : 40.73877,
+      "longitude" : -73.89055
+    },
+    "address" : {
+      "line1" : "73 00 Queens Blvd",
+      "city" : "Woodside",
+      "region" : "NY",
+      "postal_code" : "11377",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "104.61",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "88.89",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-718-4575000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-718-4570717"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    } ],
+    "awards" : [ {
+      "provider" : "Local Star Rating",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "N1QRAC",
+      "room_type_code" : "N1Q",
+      "rate_plan_code" : "RAC",
+      "total_amount" : {
+        "amount" : "104.61",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2018-07-20",
+        "end_date" : "2018-07-21",
+        "currency_code" : "USD",
+        "price" : 88.89
+      } ],
+      "descriptions" : [ "Rack Rate", "queen bed" ],
+      "room_type_info" : {
+        "room_type" : "Non-smoking",
+        "bed_type" : "Queen",
+        "number_of_beds" : "1"
+      },
+      "rate_type_code" : "RAC"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/UZLGA457?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2018-07-20&check_out=2018-07-21&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

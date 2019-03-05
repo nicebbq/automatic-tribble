@@ -1,0 +1,638 @@
+{
+  "results" : [ {
+    "property_code" : "SIPHL992",
+    "property_name" : "Sheraton Philly Univ Cty",
+    "location" : {
+      "latitude" : 39.95472,
+      "longitude" : -75.19419
+    },
+    "address" : {
+      "line1" : "3549 Chestnut Street",
+      "city" : "Philadelphia",
+      "region" : "PA",
+      "postal_code" : "19104",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "129.97",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "129.97",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 215 387-8000"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 215 387-7920"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "sheraton@sheruniv.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "CAR_RENTAL",
+      "ota_code" : 15,
+      "description" : "Car rental desk"
+    }, {
+      "amenity" : "",
+      "ota_code" : 39,
+      "description" : "Florist"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 201,
+      "description" : "Baggage hold"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "OUTDOOR_POOL",
+      "ota_code" : 66,
+      "description" : "Outdoor pool"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "C1KA16",
+      "room_type_code" : "C1K",
+      "rate_plan_code" : "A16",
+      "total_amount" : {
+        "amount" : "129.97",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-09",
+        "end_date" : "2019-01-10",
+        "currency_code" : "USD",
+        "price" : 129.97
+      } ],
+      "descriptions" : [ "1 KING:AAA/CAA RATE", "AAA OR CAA MEMBERSHIP IS REQUIRED AT TIME OF", "CHECK-IN." ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Standard"
+      },
+      "rate_type_code" : "A16"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SIPHL992?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-09&check_out=2019-01-10&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "SNPHLAC4",
+    "property_name" : "Sonesta Philadelphia Downtown",
+    "location" : {
+      "latitude" : 39.95304,
+      "longitude" : -75.17043
+    },
+    "address" : {
+      "line1" : "1800 Market Street",
+      "city" : "Philadelphia",
+      "region" : "PA",
+      "postal_code" : "19103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "177.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "177.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-215-5617500"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-215-5614484"
+    }, {
+      "type" : "URL",
+      "detail" : "www.sonesta.com/philadelphia"
+    } ],
+    "amenities" : [ {
+      "amenity" : "COFFEE_SHOP",
+      "ota_code" : 20,
+      "description" : "Coffee shop"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "EXECUTIVE_FLOOR",
+      "ota_code" : 34,
+      "description" : "Executive floor"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "FREE_HIGH_SPEED_INTERNET",
+      "ota_code" : 222,
+      "description" : "Free high speed internet connection"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "3"
+    }, {
+      "provider" : "AA Star Rating",
+      "rating" : "4"
+    }, {
+      "provider" : "OHG",
+      "rating" : "4"
+    }, {
+      "provider" : "Star Rating",
+      "rating" : "4"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "H2SBNB",
+      "room_type_code" : "H2S",
+      "rate_plan_code" : "BNB",
+      "total_amount" : {
+        "amount" : "177.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-09",
+        "end_date" : "2019-01-10",
+        "currency_code" : "USD",
+        "price" : 177.0
+      } ],
+      "descriptions" : [ "BED & BREAKFAST ", "2 Queens ADA Roll-in Shower -Free Wi-Fi -Coffeemaker -", "Refrigerator -Laptop Safe Contemporary furnishings and artwork. " ],
+      "room_type_info" : {
+        "number_of_beds" : "2",
+        "bed_type" : "Single",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "BNB"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/SNPHLAC4?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-09&check_out=2019-01-10&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "ESPHLFD5",
+    "property_name" : "Embassy Suites Philadelphia Ctr",
+    "location" : {
+      "latitude" : 39.95625,
+      "longitude" : -75.16892
+    },
+    "address" : {
+      "line1" : "1776 Ben Franklin Parkway",
+      "city" : "Philadelphia",
+      "region" : "PA",
+      "postal_code" : "19103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "283.59",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "243.95",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 215 561-1776"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 215 963-0122"
+    } ],
+    "amenities" : [ {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "CONFERENCE_FACILITIES",
+      "ota_code" : 24,
+      "description" : "Conference facilities"
+    }, {
+      "amenity" : "EXPRESS_CHECK_OUT",
+      "ota_code" : 37,
+      "description" : "Express check-out"
+    }, {
+      "amenity" : "FAMILY_PLAN",
+      "ota_code" : 38,
+      "description" : "Family plan"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "",
+      "ota_code" : 56,
+      "description" : "Jogging track"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 193,
+      "description" : "Children's play area"
+    }, {
+      "amenity" : "NON_SMOKING_ROOM",
+      "ota_code" : 198,
+      "description" : "Non-smoking rooms (generic)"
+    } ],
+    "awards" : [ {
+      "provider" : "Mobil",
+      "rating" : "3"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "A0PAKT",
+      "room_type_code" : "U1K",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "283.59",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-09",
+        "end_date" : "2019-01-10",
+        "currency_code" : "USD",
+        "price" : 243.95
+      } ],
+      "descriptions" : [ "AAA RATE", "1KG 1BDRM STE MOBILITY ACCESS RI SHWR NO SMOK", "COMP COOKED TO ORDER BRKFST-EVENING RECEPTION" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Suite"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/ESPHLFD5?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-09&check_out=2019-01-10&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "MDPHL238",
+    "property_name" : "Le Meridien Philadelphia",
+    "location" : {
+      "latitude" : 39.95465,
+      "longitude" : -75.16415
+    },
+    "address" : {
+      "line1" : "1421 Arch Street",
+      "city" : "Philadelphia",
+      "region" : "PA",
+      "postal_code" : "19102",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "289.00",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "289.00",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "+1 215 422-8200"
+    }, {
+      "type" : "FAX",
+      "detail" : "+1 215 422-8277"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "info@lemeridienphiladelphia.com"
+    } ],
+    "amenities" : [ {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "LOUNGE_BARS",
+      "ota_code" : 165,
+      "description" : "Lounges/bars"
+    }, {
+      "amenity" : "",
+      "ota_code" : 179,
+      "description" : "Wireless internet connection in public areas"
+    }, {
+      "amenity" : "",
+      "ota_code" : 104,
+      "description" : "Wedding services"
+    }, {
+      "amenity" : "",
+      "ota_code" : 106,
+      "description" : "Bell staff/porter"
+    }, {
+      "amenity" : "",
+      "ota_code" : 7,
+      "description" : "ATM/Cash machine"
+    }, {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "BALLROOM",
+      "ota_code" : 191,
+      "description" : "Ballroom"
+    } ],
+    "awards" : [ {
+      "provider" : "Global Business Travel Association (GBTA)",
+      "rating" : "Project ICARUS Supplier Gold Medal"
+    }, {
+      "provider" : "TripAdvisor",
+      "rating" : "Certificate of Excellence"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "D1KDO0",
+      "room_type_code" : "D1K",
+      "rate_plan_code" : "DO0",
+      "total_amount" : {
+        "amount" : "289.00",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-09",
+        "end_date" : "2019-01-10",
+        "currency_code" : "USD",
+        "price" : 289.0
+      } ],
+      "descriptions" : [ "1 KING:PREPAID RATE", "CLASSIC NON-SMOKING ROOM:NEWLY RENOVATED:", "HIGH-SPEED INTERNET FOR A FEE:55 INCH LED TV" ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with bath - Minimum"
+      },
+      "rate_type_code" : "DO0"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/MDPHL238?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-09&check_out=2019-01-10&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  }, {
+    "property_code" : "LWPHL776",
+    "property_name" : "The Rittenhouse",
+    "location" : {
+      "latitude" : 39.94983,
+      "longitude" : -75.17312
+    },
+    "address" : {
+      "line1" : "210 West Rittenhouse Square",
+      "city" : "Philadelphia",
+      "region" : "PA",
+      "postal_code" : "19103",
+      "country" : "US"
+    },
+    "total_price" : {
+      "amount" : "449.10",
+      "currency" : "USD"
+    },
+    "min_daily_rate" : {
+      "amount" : "449.10",
+      "currency" : "USD"
+    },
+    "contacts" : [ {
+      "type" : "PHONE",
+      "detail" : "1-215-5469000"
+    }, {
+      "type" : "FAX",
+      "detail" : "1-215-7323364"
+    }, {
+      "type" : "EMAIL",
+      "detail" : "reservations@rittenhousehotel.com"
+    }, {
+      "type" : "URL",
+      "detail" : "www.LHW.com/rittenhouse"
+    } ],
+    "amenities" : [ {
+      "amenity" : "RESTAURANT",
+      "ota_code" : 76,
+      "description" : "Restaurant"
+    }, {
+      "amenity" : "ACCESSIBLE_FACILITIES",
+      "ota_code" : 47,
+      "description" : "Accessible facilities"
+    }, {
+      "amenity" : "BABY_SITTING",
+      "ota_code" : 8,
+      "description" : "Baby sitting"
+    }, {
+      "amenity" : "BEAUTY_SALON",
+      "ota_code" : 107,
+      "description" : "Beauty shop/salon"
+    }, {
+      "amenity" : "CHILDREN_WELCOME",
+      "ota_code" : 218,
+      "description" : "Children welcome"
+    }, {
+      "amenity" : "ELEVATORS",
+      "ota_code" : 33,
+      "description" : "Elevators"
+    }, {
+      "amenity" : "CURRENCY_EXCHANGE",
+      "ota_code" : 26,
+      "description" : "Currency exchange"
+    }, {
+      "amenity" : "GIFT_SHOP",
+      "ota_code" : 45,
+      "description" : "Gift/News stand"
+    }, {
+      "amenity" : "HOTSPOTS",
+      "ota_code" : 221,
+      "description" : "Hotspots"
+    }, {
+      "amenity" : "INTERNET_PUBLIC_AREAS",
+      "ota_code" : 178,
+      "description" : "Internet access in public areas"
+    }, {
+      "amenity" : "LAUNDRY_SERVICE",
+      "ota_code" : 58,
+      "description" : "Laundry/Valet service"
+    }, {
+      "amenity" : "MASSAGE_SERVICES",
+      "ota_code" : 61,
+      "description" : "Massage services"
+    }, {
+      "amenity" : "PARKING",
+      "ota_code" : 68,
+      "description" : "Parking"
+    }, {
+      "amenity" : "PETS_ALLOWED",
+      "ota_code" : 224,
+      "description" : "Pets allowed"
+    }, {
+      "amenity" : "SAUNA",
+      "ota_code" : 79,
+      "description" : "Sauna"
+    }, {
+      "amenity" : "SPA",
+      "ota_code" : 84,
+      "description" : "Spa"
+    }, {
+      "amenity" : "VALET_PARKING",
+      "ota_code" : 97,
+      "description" : "Valet parking "
+    }, {
+      "amenity" : "",
+      "ota_code" : 46,
+      "description" : "Hairdresser/barber"
+    }, {
+      "amenity" : "POOL",
+      "ota_code" : 71,
+      "description" : "Pool"
+    }, {
+      "amenity" : "ROOM_SERVICE",
+      "ota_code" : 77,
+      "description" : "Room service"
+    }, {
+      "amenity" : "SAFE_DEPOSIT_BOX",
+      "ota_code" : 78,
+      "description" : "Safe deposit box"
+    } ],
+    "awards" : [ {
+      "provider" : "AAA",
+      "rating" : "5"
+    }, {
+      "provider" : "OHG",
+      "rating" : "Deluxe"
+    } ],
+    "images" : [ ],
+    "rooms" : [ {
+      "booking_code" : "L606ZZZ",
+      "room_type_code" : "H1K",
+      "rate_plan_code" : "PRO",
+      "total_amount" : {
+        "amount" : "449.10",
+        "currency" : "USD"
+      },
+      "rates" : [ {
+        "start_date" : "2019-01-09",
+        "end_date" : "2019-01-10",
+        "currency_code" : "USD",
+        "price" : 449.1
+      } ],
+      "descriptions" : [ "Leading In Advance", "Superior Park View Accessible King", "500 Sq. Ft." ],
+      "room_type_info" : {
+        "number_of_beds" : "1",
+        "bed_type" : "King",
+        "room_type" : "Room with shower - Minimum"
+      },
+      "rate_type_code" : "PRO"
+    } ],
+    "_links" : {
+      "more_rooms_at_this_hotel" : {
+        "href" : "https://api.sandbox.amadeus.com/v1.2/hotels/LWPHL776?apikey=0bHCVWk3ub4sEiZ9pyAGrYl2ujN6xAGc&check_in=2019-01-09&check_out=2019-01-10&referrer=more_rooms_at_this_hotel"
+      }
+    }
+  } ]
+}

@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+{% block body %}
+
+{{info['user']}} logged in.<br><br>
+
+  <form action="addCityResult.html" method="POST">
+    <input type="text" placeholder="City Name" name="cityName"><br><br>
+    <input type="submit" value="Add City">
+  </form>
+{% endblock %}
